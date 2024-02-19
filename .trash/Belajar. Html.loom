@@ -1,0 +1,244 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "544e1cfc-e592-4b8c-abaf-4e473be47c74",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "No",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "7e20a36b-4092-497b-b35c-862f0320cd02",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Pemain Barca ",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "8c707723-671d-43b0-8101-d15e4527c70c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Asal negara ",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "17e76e94-23cc-4d61-8759-c77980a9b697",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Posisi",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "6d97e28f-cedd-46b9-a7b5-ffb96e455949",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-01-22T23:18:44.509Z",
+        "lastEditedDateTime": "2024-01-23T01:00:42.066Z",
+        "cells": [
+          {
+            "id": "b9d398e3-b19e-492f-a417-ec1f744a6694",
+            "columnId": "544e1cfc-e592-4b8c-abaf-4e473be47c74",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6fc1fc80-f053-4257-85a3-45e51d675cc2",
+            "columnId": "7e20a36b-4092-497b-b35c-862f0320cd02",
+            "content": "Messi",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2b1e4629-8da1-4a6e-8092-fa1c94ee814f",
+            "columnId": "8c707723-671d-43b0-8101-d15e4527c70c",
+            "content": "Argentina ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "089ba935-eb7b-439f-9dfb-cd3b43b39370",
+            "columnId": "17e76e94-23cc-4d61-8759-c77980a9b697",
+            "content": "Penyerang",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ab1791f4-f3e1-4bab-96d7-67e0a97024ca",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-01-22T23:18:59.075Z",
+        "lastEditedDateTime": "2024-01-23T01:00:49.053Z",
+        "cells": [
+          {
+            "id": "91288a60-d150-4f91-9073-9d7ae993d5ac",
+            "columnId": "544e1cfc-e592-4b8c-abaf-4e473be47c74",
+            "content": "2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2e131cc7-0330-4d03-8ea0-eb99bf69d6d8",
+            "columnId": "7e20a36b-4092-497b-b35c-862f0320cd02",
+            "content": "Puyol",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "618707e8-debe-40a0-84d3-fc55038149f2",
+            "columnId": "8c707723-671d-43b0-8101-d15e4527c70c",
+            "content": "Spanyol ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a71fe533-5585-43c3-91bb-8a92c02f93f7",
+            "columnId": "17e76e94-23cc-4d61-8759-c77980a9b697",
+            "content": "Bek",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6f76aa7d-bb59-433d-810d-ddc483c41d00",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-01-22T23:23:32.193Z",
+        "lastEditedDateTime": "2024-01-23T01:00:58.174Z",
+        "cells": [
+          {
+            "id": "43aaae4f-8979-460f-aef1-92eab103d7f8",
+            "columnId": "544e1cfc-e592-4b8c-abaf-4e473be47c74",
+            "content": "3",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6d2d56c3-1f78-4227-8b03-e4913d2da13b",
+            "columnId": "7e20a36b-4092-497b-b35c-862f0320cd02",
+            "content": "Xavi",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e9d6b8e5-b61b-4e41-b09e-a8b9cc76f110",
+            "columnId": "8c707723-671d-43b0-8101-d15e4527c70c",
+            "content": "Spanyol ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "336135da-865e-40ed-b10b-f813e2a5fed0",
+            "columnId": "17e76e94-23cc-4d61-8759-c77980a9b697",
+            "content": "Gelandang ",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "42ddc1fe-e946-409c-a7d9-61c655f7c418",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-01-22T23:24:18.692Z",
+        "lastEditedDateTime": "2024-01-23T01:01:02.855Z",
+        "cells": [
+          {
+            "id": "41f7c331-820a-472f-8f74-875ca02e4e04",
+            "columnId": "544e1cfc-e592-4b8c-abaf-4e473be47c74",
+            "content": "4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a450c867-ab30-4154-9a06-9e79edef7dd3",
+            "columnId": "7e20a36b-4092-497b-b35c-862f0320cd02",
+            "content": "Penyerang",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "35269315-a663-43f3-b325-ed88638e6516",
+            "columnId": "8c707723-671d-43b0-8101-d15e4527c70c",
+            "content": "Uruguay",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c689570b-53f7-453d-8eca-ab8533b74ee7",
+            "columnId": "17e76e94-23cc-4d61-8759-c77980a9b697",
+            "content": "Penyerang ",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}

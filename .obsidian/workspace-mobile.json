@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Pengenalan CSS.md",
+                "file": "Select lanjutan/Select Lanjutan.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
+            "file": "Select lanjutan/Select Lanjutan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
+            "file": "Select lanjutan/Select Lanjutan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md"
+            "file": "Select lanjutan/Select Lanjutan.md"
           }
         }
       },
@@ -156,43 +156,45 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create loom": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4578f94476bae440",
+  "active": "d9d00e9142cb6165",
   "lastOpenFiles": [
+    "Pengenalan Web/Pengenalan Web.md",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/F.A.D.I.L.jpg",
     "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
-    "Aset Basis data/F.R.JPG.md",
+    "HTML/Pertemuan_1.md",
+    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
     "CSS/Pengenalan CSS.md",
-    "HTML HTTP JAVA/Aset/F.f..jpg",
+    "Aset Basis data/F.R.JPG.md",
+    "Aset/BTWN.BS.JPG.md",
+    "HTML HTTP JAVA/Aset/MRGN.jpg",
+    "HTML HTTP JAVA/Aset/RGHT.jpg",
+    "HTML HTTP JAVA/Aset/WRN.W.jpg",
+    "HTML HTTP JAVA/Aset/WRN.jpg",
+    "Aset.md",
+    "Aset Basis data/R.e.n.jpg.md",
+    "Select lanjutan/Select Lanjutan.md",
+    "HTML HTTP JAVA/Aset/TTN.jpg",
+    "HTML HTTP JAVA/Aset/LK.LB..jpg",
+    "HTML HTTP JAVA/Aset/LK..jpg",
+    "Aset/LB...md",
+    "HTML HTTP JAVA/Aset/LB..jpg",
+    "HTML HTTP JAVA/Aset/NBTWN..jpg",
+    "HTML HTTP JAVA/Deskripsi.md",
+    "Aset",
+    "Select lanjutan",
     "GFoto/Foto2j.pg.md",
-    "HTML HTTP JAVA/Aset/F.D.L.F.jpg",
-    "HTML HTTP JAVA/Aset/US.BS.jpg",
-    "HTML HTTP JAVA/Aset/F_F.jpg",
-    "HTML HTTP JAVA/Aset/D.BS.jpg",
-    "HTML HTTP JAVA/Aset/Buat.BS.jpg",
-    "HTML HTTP JAVA/Aset/A...jpg",
-    "HTML HTTP JAVA/Aset/2.BS.jpg",
-    "HTML HTTP JAVA/Aset/2.B.S.jpg",
-    "HTML HTTP JAVA/Aset/1.D.jpg",
     "Untitled 2",
     "Untitled 1",
     "CSS",
     "Untitled.md",
     "Untitled 1.md",
-    "Untitled",
-    "HTML HTTP JAVA/Deskripsi.md",
-    "HTML/Pertemuan_1.md",
-    "Aset.md",
-    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
     "Asetbasisdata/B.S.jpg.md",
     "BASIS DATA/PENGENALAN BASIS DATA.md",
-    "Pengenalan Web/Pengenalan Web.md",
     "Aset Basis data/HTJ.jpg.md",
     "Aset Basis data/M.G.JPG.md",
-    "Aset Basis data/R.e.n.jpg.md",
     "Aset/Y.JPG.md",
     "Aset Basis data",
     "Asetbasisdata",
@@ -202,11 +204,7 @@
     "Aset/R.HJPG.md",
     "Aset/AG.JPG.md",
     "Aset/AGG.JPG.md",
-    "Aset/M.GJPG.md",
-    "Aset/F.1.JPG.md",
-    "Aset/A.G.JPG.md",
     "Belajar. Html.loom",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L",
-    "BASIS DATA/Instalasi & Query awal data base"
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L"
   ]
 }

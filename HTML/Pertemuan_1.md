@@ -37,11 +37,7 @@ Background-color:White;
 ```
 
 
+![gambar](assets/Foto.png)
 
 
-
-
-
-
-![Bendera |200×160](Aset/foto.png)
 

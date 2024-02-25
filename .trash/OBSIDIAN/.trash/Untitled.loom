@@ -1,0 +1,85 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "035ef7c7-ecc1-4355-9c1b-1caf40bebc71",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "263857a8-3f7e-403e-99d6-e1c608952537",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "9a9e1a85-e561-4ba5-9bf7-e2a64f647d34",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-01-22T23:09:03.683Z",
+        "lastEditedDateTime": "2024-01-22T23:09:03.683Z",
+        "cells": [
+          {
+            "id": "00295519-d7bf-434e-95db-ae3addbb9842",
+            "columnId": "035ef7c7-ecc1-4355-9c1b-1caf40bebc71",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a2434d3c-06ca-4234-8131-463e46505aee",
+            "columnId": "263857a8-3f7e-403e-99d6-e1c608952537",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}

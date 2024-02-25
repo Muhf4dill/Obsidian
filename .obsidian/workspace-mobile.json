@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7690f55f302a37c5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4578f94476bae440",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
         "id": "889b4ab0c470c025",
         "type": "tabs",
         "children": [
@@ -33,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Select lanjutan/Select Lanjutan.md",
+                "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Select lanjutan/Select Lanjutan.md",
+            "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Select lanjutan/Select Lanjutan.md",
+            "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Select lanjutan/Select Lanjutan.md"
+            "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md"
           }
         }
       },
@@ -161,50 +141,50 @@
   },
   "active": "d9d00e9142cb6165",
   "lastOpenFiles": [
+    "Select lanjutan/Select Lanjutan.md",
     "Pengenalan Web/Pengenalan Web.md",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/F.A.D.I.L.jpg",
+    "HTML HTTP JAVA/Deskripsi.md",
     "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
     "HTML/Pertemuan_1.md",
-    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
     "CSS/Pengenalan CSS.md",
-    "Aset Basis data/F.R.JPG.md",
-    "Aset/BTWN.BS.JPG.md",
-    "HTML HTTP JAVA/Aset/MRGN.jpg",
-    "HTML HTTP JAVA/Aset/RGHT.jpg",
-    "HTML HTTP JAVA/Aset/WRN.W.jpg",
-    "HTML HTTP JAVA/Aset/WRN.jpg",
-    "Aset.md",
-    "Aset Basis data/R.e.n.jpg.md",
-    "Select lanjutan/Select Lanjutan.md",
-    "HTML HTTP JAVA/Aset/TTN.jpg",
-    "HTML HTTP JAVA/Aset/LK.LB..jpg",
-    "HTML HTTP JAVA/Aset/LK..jpg",
-    "Aset/LB...md",
-    "HTML HTTP JAVA/Aset/LB..jpg",
-    "HTML HTTP JAVA/Aset/NBTWN..jpg",
-    "HTML HTTP JAVA/Deskripsi.md",
-    "Aset",
-    "Select lanjutan",
-    "GFoto/Foto2j.pg.md",
-    "Untitled 2",
-    "Untitled 1",
-    "CSS",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Asetbasisdata/B.S.jpg.md",
     "BASIS DATA/PENGENALAN BASIS DATA.md",
-    "Aset Basis data/HTJ.jpg.md",
-    "Aset Basis data/M.G.JPG.md",
-    "Aset/Y.JPG.md",
-    "Aset Basis data",
-    "Asetbasisdata",
-    "Aset/F.A.D.JPG.md",
-    "BASIS DATA/Aset basis data",
-    "HTML HTTP JAVA/Aset 1/F.A.D.JPG.md",
-    "Aset/R.HJPG.md",
-    "Aset/AG.JPG.md",
-    "Aset/AGG.JPG.md",
-    "Belajar. Html.loom",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L"
+    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
+    "Aset/F.D.L.jpg",
+    "Aset/F.F.jpg",
+    "Aset/F.D.L.F.jpg",
+    "Aset/AseT/2.BS.jpg",
+    "Aset/AseT/SPN.jpg",
+    "Aset/AseT/Div.jpg",
+    "Aset/RGHT.JPG.md",
+    "Aset/WRN.JPG.md",
+    "Aset/AseT/MK.BS.jpg",
+    "Aset/AseT/RGHT.jpg",
+    "Aset.md",
+    "Aset/MRGN.JPG.md",
+    "Aset/WRN..JPG.md",
+    "Aset/WRN.W.JPG.md",
+    "Aset/AseT/WRN.jpg",
+    "Aset/R.H..jpg",
+    "Aset",
+    "OBSIDIAN/_.trash",
+    "OBSIDIAN/_.obsidian/plugins/table-editor-obsidian",
+    "OBSIDIAN/_.obsidian/plugins/notion-like-tables",
+    "OBSIDIAN/_.obsidian/plugins",
+    "OBSIDIAN/_.obsidian",
+    "OBSIDIAN/Pengembangan web",
+    "OBSIDIAN/HTML HTTP JAVA/Aset",
+    "OBSIDIAN/HTML HTTP JAVA/Belajar HTML/H.T.M.L",
+    "OBSIDIAN/HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
+    "OBSIDIAN/HTML HTTP JAVA/Belajar HTML",
+    "OBSIDIAN/HTML HTTP JAVA/Deskripsi.md",
+    "OBSIDIAN/GFoto/Foto2jpg.md",
+    "OBSIDIAN/GFoto/Foto2j.pg.md",
+    "OBSIDIAN/Aset/F.md",
+    "OBSIDIAN/Aset/V.D.JPG.md",
+    "OBSIDIAN/Aset/A.l.JPG.md",
+    "OBSIDIAN/Aset/R.H.JPG.md",
+    "OBSIDIAN/Aset/Rehan.2.JPG.md",
+    "OBSIDIAN/Aset/V.D..md",
+    "OBSIDIAN/Aset/F.F.1..md"
   ]
 }

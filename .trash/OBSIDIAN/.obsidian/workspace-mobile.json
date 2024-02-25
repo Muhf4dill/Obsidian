@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "913d67e19b3bfe7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7690f55f302a37c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4578f94476bae440",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "889b4ab0c470c025",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9d00e9142cb6165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8487de965305215d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9959f1c36237f74f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "db94bfb74916315c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4e7b6dead2cb2071",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a3c0b2b2247e8598",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d9f9e86d43697a60",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bf571f08eafb9faa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "188edf4163bbdd93",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1eba7b81c9f7bb47",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md"
+          }
+        }
+      },
+      {
+        "id": "c2a2ddcab484b1a2",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "notion-like-tables:Create loom": false
+    }
+  },
+  "active": "4578f94476bae440",
+  "lastOpenFiles": [
+    "HTML HTTP JAVA/Aset/AGG.jpg",
+    "HTML HTTP JAVA/Aset/R.H..jpg",
+    "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
+    "Aset/A.l.JPG.md",
+    "HTML HTTP JAVA/Aset/A.I.jpg",
+    "Aset/R.H.JPG.md",
+    "HTML HTTP JAVA/Aset/Rehan2.jpg",
+    "Aset/V.D.JPG.md",
+    "Aset/V.D..md",
+    "Pengenalan Web/Pengenalan Web.md",
+    "HTML HTTP JAVA/Aset/F.D.L.F.jpg",
+    "Aset.md",
+    "HTML HTTP JAVA/Aset/F...jpg",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/F.A.D.I.L.jpg",
+    "GFoto/Foto2jpg.md",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Untitled.md",
+    "Belajar. Html.loom",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L",
+    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
+    "BASIS DATA/PENGENALAN BASIS DATA.md",
+    "BASIS DATA/Instalasi & Query awal data base",
+    "HTML HTTP JAVA/Aset/F.D.L.jpg",
+    "BASIS DATA/Basis data/Pengenalan Basis data.md",
+    "HTML HTTP JAVA/Aset/HTJ.jpg",
+    "BASIS DATA/Basis data",
+    "HTML HTTP JAVA/Aset/F.O.T.jpg",
+    "HTML HTTP JAVA/Aset/F.A.jpg",
+    "Aset/Rehan.2.JPG.md",
+    "Aset/F.md",
+    "Aset 2.md",
+    "HTML HTTP JAVA/Deskripsi.md",
+    "Aset 3.md",
+    "Aset 1.md",
+    "Aset/F_.md",
+    "HTML/Pertemuan_1.md",
+    "Aset/F.F.FJPG.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Aset/F.F.1..md",
+    "Aset",
+    "GFoto/Foto2j.pg.md",
+    "GFoto",
+    "HTML HTTP JAVA/Belajar HTML"
+  ]
+}

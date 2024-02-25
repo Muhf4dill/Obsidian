@@ -15,6 +15,7 @@ margin-top :50px;
 ### After 
 ![gambar](Aset/WRN.W.JPG)
 
+
 Color adalah memberikan warna kepada tulisan yang dimana sebelum di kasih color atau warna tulisan nya berwarna hitam. setelah dikasih color atau warna tulisan klik aku berwarna putih
 ## TEXT-ALIGN
 
@@ -27,8 +28,7 @@ Color adalah memberikan warna kepada tulisan yang dimana sebelum di kasih color 
 Text-align adalah memberikan perataan kepada teks dimana saat kita menggunakan text-align = right  membuat posisi teks lebih ke samping kanan. 
 ## margin-top 
 ### Before
-![gambar](Aset/WRN.JPG)
-
+![Gambar](Aset/WRN.JPG)
 ### After
 ![gambar](Aset/MRGN.JPG)
 

@@ -11,9 +11,11 @@
             "id": "d9d00e9142cb6165",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Aset/F.D.L.jpg"
+                "file": "CSS/Pengenalan CSS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aset/F.D.L.jpg",
+            "file": "CSS/Pengenalan CSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Aset/F.D.L.jpg",
+            "file": "CSS/Pengenalan CSS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Aset/F.D.L.jpg"
+            "file": "CSS/Pengenalan CSS.md"
           }
         }
       },
@@ -139,31 +141,41 @@
   },
   "active": "d9d00e9142cb6165",
   "lastOpenFiles": [
+    "assets/HJ.jpg",
+    "assets/BR.jpg",
+    "assets/CSS..jpg",
+    "assets/SPN.jpg",
+    "assets/Div.jpg",
+    "assets/MK.BS.jpg",
+    "assets/MRGN.jpg",
+    "assets/RGHT.jpg",
+    "assets/WRN.W.jpg",
+    "assets/WRN.jpg",
+    "assets/TTN.jpg",
+    "assets",
     "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
-    "AseT (1)/CSS..jpg",
-    "AseT (1)/SPN.jpg",
-    "AseT (1)/Div.jpg",
-    "AseT (1)/MK.BS.jpg",
-    "AseT (1)/MRGN.jpg",
-    "AseT (1)/RGHT.jpg",
-    "AseT (1)/WRN.W.jpg",
-    "AseT (1)/WRN.jpg",
-    "AseT (1)/TTN.jpg",
-    "AseT (1)/LK.LB..jpg",
-    "AseT (1)",
-    "Select lanjutan/Select Lanjutan.md",
+    "CSS/Pengenalan CSS.md",
     "Pengenalan Web/Pengenalan Web.md",
+    "HTML HTTP JAVA/AseT(1)/WRN..JPG.md",
+    "Aset/WRN.W.JPG.md",
+    "Aset/WRN..JPG.md",
+    "Aset/WRN.JPG.md",
+    "HTML HTTP JAVA/AseT(1)",
+    "Aset/F.A.JPG.md",
+    "Aset/SPN.JPG.md",
+    "Aset/P.B..JPG.md",
+    "Aset/Div.JPG.md",
+    "AseT.md",
+    "Aset/I.M.JPG.md",
+    "Aset/AseT(1)",
+    "Select lanjutan/Select Lanjutan.md",
     "HTML HTTP JAVA/Deskripsi.md",
     "HTML/Pertemuan_1.md",
-    "CSS/Pengenalan CSS.md",
     "BASIS DATA/PENGENALAN BASIS DATA.md",
     "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
     "Aset/RGHT.JPG.md",
-    "Aset/WRN.JPG.md",
     "Aset.md",
     "Aset/MRGN.JPG.md",
-    "Aset/WRN..JPG.md",
-    "Aset/WRN.W.JPG.md",
     "Aset",
     "OBSIDIAN/_.trash",
     "OBSIDIAN/_.obsidian/plugins/table-editor-obsidian",
@@ -171,18 +183,9 @@
     "OBSIDIAN/_.obsidian/plugins",
     "OBSIDIAN/_.obsidian",
     "OBSIDIAN/Pengembangan web",
-    "OBSIDIAN/HTML HTTP JAVA/Aset",
-    "OBSIDIAN/HTML HTTP JAVA/Belajar HTML/H.T.M.L",
     "OBSIDIAN/HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
     "OBSIDIAN/HTML HTTP JAVA/Deskripsi.md",
     "OBSIDIAN/GFoto/Foto2jpg.md",
-    "OBSIDIAN/GFoto/Foto2j.pg.md",
-    "OBSIDIAN/Aset/F.md",
-    "OBSIDIAN/Aset/V.D.JPG.md",
-    "OBSIDIAN/Aset/A.l.JPG.md",
-    "OBSIDIAN/Aset/R.H.JPG.md",
-    "OBSIDIAN/Aset/Rehan.2.JPG.md",
-    "OBSIDIAN/Aset/V.D..md",
-    "OBSIDIAN/Aset/F.F.1..md"
+    "OBSIDIAN/GFoto/Foto2j.pg.md"
   ]
 }

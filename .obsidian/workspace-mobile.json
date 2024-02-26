@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Pengenalan CSS.md",
+                "file": "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CSS/Pengenalan CSS.md",
+            "file": "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CSS/Pengenalan CSS.md",
+            "file": "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CSS/Pengenalan CSS.md"
+            "file": "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md"
           }
         }
       },
@@ -156,51 +156,50 @@
   },
   "active": "ec41b7f762c28069",
   "lastOpenFiles": [
-    "Pengenalan Web/Pengenalan Web.md",
-    "HTML HTTP JAVA/Deskripsi.md",
-    "HTML HTTP JAVA/Aset/WRN.JPG.md",
-    "Select lanjutan/Select Lanjutan.md",
-    "assets.md",
+    "asset/B.BS.JPG.md",
+    "assets/1.D.jpg",
+    "assets/WRN.W.jpg",
+    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
+    "CSS/Pengenalan CSS.md",
+    "Asets/UP.BS.JPG.md",
+    "asset",
+    "Asets/BT.BS.JPG.md",
+    "Asets",
+    "Aset/BT.BS.JPG.md",
+    "Aset/B.BS.JPG.md",
+    "Aset/H.T.BS.JPG.md",
+    "Aset/D.BS.JPG.md",
+    "Aset/UP.BS.JPG.md",
+    "Aset/N.BS.JPG.md",
+    "Aset/2.B.S.JPG.md",
+    "Aset/S.BS.JPG.md",
+    "Aset/MK.BS.JPG.md",
+    "Aset/2.BS.JPG.md",
+    "Aset/1.D.JPG.md",
+    "Aset/T.BS.JPG.md",
+    "Aset/F.BS.JPG.md",
+    "Aset/US.BS.JPG.md",
+    "Aset/HPS.BS.JPG.md",
+    "Aset/TML.BS.JPG.md",
+    "Aset/Buat.BS.JPG.md",
+    "Aset/Query.JPG.md",
+    "Aset/my..jpg.md",
+    "Aset/P..JPG.md",
     "assets/2.B.S.jpg",
     "assets/F.D.L.jpg",
-    "Aset/F...jpg.md",
-    "HTML/Pertemuan_1.md",
     "assets/Foto.png",
-    "CSS/Pengenalan CSS.md",
-    "Aset/foto.png.md",
     "assets/HJ.jpg",
     "assets/BR.jpg",
     "assets/CSS..jpg",
     "assets/SPN.jpg",
     "assets/Div.jpg",
-    "assets/MK.BS.jpg",
-    "assets/MRGN.jpg",
     "assets",
-    "HTML HTTP JAVA/Belajar HTML/Belajar HTML.md",
-    "HTML HTTP JAVA/AseT(1)/WRN..JPG.md",
-    "Aset/WRN.W.JPG.md",
-    "Aset/WRN..JPG.md",
-    "Aset/WRN.JPG.md",
     "HTML HTTP JAVA/AseT(1)",
-    "Aset/F.A.JPG.md",
-    "Aset/SPN.JPG.md",
-    "Aset/P.B..JPG.md",
-    "Aset/Div.JPG.md",
-    "AseT.md",
-    "Aset/I.M.JPG.md",
     "Aset/AseT(1)",
-    "BASIS DATA/PENGENALAN BASIS DATA.md",
-    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
-    "Aset/RGHT.JPG.md",
-    "Aset.md",
-    "Aset/MRGN.JPG.md",
     "Aset",
     "OBSIDIAN/_.trash",
     "OBSIDIAN/_.obsidian/plugins/table-editor-obsidian",
     "OBSIDIAN/_.obsidian/plugins/notion-like-tables",
-    "OBSIDIAN/_.obsidian/plugins",
-    "OBSIDIAN/_.obsidian",
-    "OBSIDIAN/Pengembangan web",
-    "OBSIDIAN/HTML HTTP JAVA/Belajar HTML/Belajar HTML.md"
+    "OBSIDIAN/_.obsidian/plugins"
   ]
 }

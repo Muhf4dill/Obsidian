@@ -1,6 +1,6 @@
-![Foto](Aset/F...jpg)
-
+![gambar](assets/F...JPG)
 # HTML
+
 Gambar pertama mengibaratkan HTML di mana cuma  berbentuk pondasi sama dengan HTML cuma berbentuk struktur belum ada warna atau memberikan interaksi.
 
 # CSS

@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "HTML/Asets"
+  "attachmentFolderPath": "HTML/Asets",
+  "alwaysUpdateLinks": true
 }

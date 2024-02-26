@@ -25,11 +25,9 @@
             "id": "65f1e42f66784101",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
-                "mode": "source",
-                "source": false
+                "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.jpg"
               }
             }
           }
@@ -100,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
+            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
+            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md"
+            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.jpg"
           }
         }
       },
@@ -156,8 +154,11 @@
   },
   "active": "65f1e42f66784101",
   "lastOpenFiles": [
-    "BASIS DATA/assets/FT_3.jpg",
     "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.jpg",
+    "BASIS DATA/PENGENALAN BASIS DATA.md",
+    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
+    "BASIS DATA/assets/FT_3.jpg",
     "Aset/F.L.JPG.md",
     "Aset/I.F.JPG.md",
     "Aset/Tabel.Jpg.md",
@@ -170,13 +171,11 @@
     "Aset/F...JPG.md",
     "Aset/L.I.JPG.md",
     "Aset",
-    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
-    "HTML HTTP JAVA/Aset/FT_3.jpg",
-    "HTML HTTP JAVA/Aset/R.H..jpg",
-    "HTML HTTP JAVA/Aset/F.D.L.F.jpg",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/FT_3.jpg",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/R.H..jpg",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.F.jpg",
     "HTML HTTP JAVA/Aset/WRN.JPG.md",
     "HTML HTTP JAVA/Aset/MRGN.JPG.md",
-    "HTML HTTP JAVA/Aset/F.D.L.jpg",
     "HTML/Pertemuan_1.md",
     "Pengenalan Web/Pengenalan Web.md",
     "HTML HTTP JAVA/Deskripsi.md",
@@ -188,13 +187,11 @@
     "Asets/BT.BS.JPG.md",
     "Asets/UP.BS.JPG.md",
     "HTML HTTP JAVA/Belajar HTML/H.T.M.L/F.A.D.I.L.jpg",
-    "Aset/F_F.JPG.md",
     "asset",
     "BASIS DATA/assets/WRN.W.jpg",
     "Asets",
     "BASIS DATA/assets/2.B.S.jpg",
     "BASIS DATA/assets/F.D.L.jpg",
-    "BASIS DATA/assets/Foto.png",
     "BASIS DATA/assets",
     "HTML HTTP JAVA/AseT(1)",
     "Aset/AseT(1)",

@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "ec41b7f762c28069",
+            "id": "65f1e42f66784101",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
+                "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
+            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
+            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md"
+            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md"
           }
         }
       },
@@ -154,50 +154,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9959f1c36237f74f",
+  "active": "65f1e42f66784101",
   "lastOpenFiles": [
-    "Basis.md",
+    "BASIS DATA/assets/FT_3.jpg",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
+    "Aset/F.L.JPG.md",
+    "Aset/I.F.JPG.md",
+    "Aset/Tabel.Jpg.md",
+    "Aset/S.L.JPG.md",
+    "Aset/F.f..JPG.md",
+    "Select lanjutan/Select Lanjutan.md",
+    "Aset/I-F.JPG.md",
+    "Aset/IF.2.JPG.md",
+    "Aset/A...JPG.md",
+    "Aset/F...JPG.md",
+    "Aset/L.I.JPG.md",
+    "Aset",
     "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
-    "BASIS DATA/Instalasi & Query awal data base/assets/1.D.jpg",
-    "BASIS DATA/Instalasi & Query awal data base/assets/WRN.W.jpg",
-    "asset/B.BS.JPG.md",
-    "CSS/Pengenalan CSS.md",
-    "Asets/UP.BS.JPG.md",
-    "asset",
-    "Asets/BT.BS.JPG.md",
-    "Asets",
-    "Aset/BT.BS.JPG.md",
+    "HTML HTTP JAVA/Aset/FT_3.jpg",
+    "HTML HTTP JAVA/Aset/R.H..jpg",
+    "HTML HTTP JAVA/Aset/F.D.L.F.jpg",
+    "HTML HTTP JAVA/Aset/WRN.JPG.md",
+    "HTML HTTP JAVA/Aset/MRGN.JPG.md",
+    "HTML HTTP JAVA/Aset/F.D.L.jpg",
+    "HTML/Pertemuan_1.md",
+    "Pengenalan Web/Pengenalan Web.md",
+    "HTML HTTP JAVA/Deskripsi.md",
+    "BASIS DATA/1.D.jpg",
     "Aset/B.BS.JPG.md",
+    "Aset/AND.BS.JPG.md",
     "Aset/H.T.BS.JPG.md",
-    "Aset/D.BS.JPG.md",
-    "Aset/UP.BS.JPG.md",
-    "Aset/N.BS.JPG.md",
-    "Aset/2.B.S.JPG.md",
-    "Aset/S.BS.JPG.md",
-    "Aset/MK.BS.JPG.md",
-    "Aset/2.BS.JPG.md",
-    "Aset/1.D.JPG.md",
-    "Aset/T.BS.JPG.md",
-    "Aset/F.BS.JPG.md",
-    "Aset/US.BS.JPG.md",
-    "Aset/HPS.BS.JPG.md",
-    "Aset/TML.BS.JPG.md",
-    "Aset/Buat.BS.JPG.md",
-    "Aset/Query.JPG.md",
-    "Aset/my..jpg.md",
-    "Aset/P..JPG.md",
-    "BASIS DATA/Instalasi & Query awal data base/assets/2.B.S.jpg",
-    "BASIS DATA/Instalasi & Query awal data base/assets/F.D.L.jpg",
-    "BASIS DATA/Instalasi & Query awal data base/assets/Foto.png",
-    "BASIS DATA/Instalasi & Query awal data base/assets/HJ.jpg",
-    "BASIS DATA/Instalasi & Query awal data base/assets/BR.jpg",
-    "BASIS DATA/Instalasi & Query awal data base/assets/CSS..jpg",
-    "BASIS DATA/Instalasi & Query awal data base/assets/SPN.jpg",
-    "BASIS DATA/Instalasi & Query awal data base/assets/Div.jpg",
-    "BASIS DATA/Instalasi & Query awal data base/assets",
+    "asset/AND.BS.JPG.md",
+    "Asets/BT.BS.JPG.md",
+    "Asets/UP.BS.JPG.md",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/F.A.D.I.L.jpg",
+    "Aset/F_F.JPG.md",
+    "asset",
+    "BASIS DATA/assets/WRN.W.jpg",
+    "Asets",
+    "BASIS DATA/assets/2.B.S.jpg",
+    "BASIS DATA/assets/F.D.L.jpg",
+    "BASIS DATA/assets/Foto.png",
+    "BASIS DATA/assets",
     "HTML HTTP JAVA/AseT(1)",
     "Aset/AseT(1)",
-    "Aset",
     "OBSIDIAN/_.trash",
     "OBSIDIAN/_.obsidian/plugins/table-editor-obsidian",
     "OBSIDIAN/_.obsidian/plugins/notion-like-tables",

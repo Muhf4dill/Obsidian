@@ -14,7 +14,7 @@ margin-top :50px;
 
 ### After 
 
-![gambar](../WRN.W.jpg)Color adalah memberikan warna kepada tulisan yang dimana sebelum di kasih color atau warna tulisan nya berwarna hitam. setelah dikasih color atau warna tulisan klik aku berwarna putih
+![gambar](WRN.W.jpg)Color adalah memberikan warna kepada tulisan yang dimana sebelum di kasih color atau warna tulisan nya berwarna hitam. setelah dikasih color atau warna tulisan klik aku berwarna putih
 ## TEXT-ALIGN
 
 ### Before

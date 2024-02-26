@@ -25,9 +25,11 @@
             "id": "65f1e42f66784101",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.jpg"
+                "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.jpg",
+            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.jpg",
+            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.jpg"
+            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md"
           }
         }
       },
@@ -154,11 +156,12 @@
   },
   "active": "65f1e42f66784101",
   "lastOpenFiles": [
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
     "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.jpg",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
+    "Aset/F_F.JPG.md",
     "BASIS DATA/PENGENALAN BASIS DATA.md",
     "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
-    "BASIS DATA/assets/FT_3.jpg",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/assets/FT_3.jpg",
     "Aset/F.L.JPG.md",
     "Aset/I.F.JPG.md",
     "Aset/Tabel.Jpg.md",
@@ -185,14 +188,13 @@
     "Aset/H.T.BS.JPG.md",
     "asset/AND.BS.JPG.md",
     "Asets/BT.BS.JPG.md",
-    "Asets/UP.BS.JPG.md",
     "HTML HTTP JAVA/Belajar HTML/H.T.M.L/F.A.D.I.L.jpg",
     "asset",
-    "BASIS DATA/assets/WRN.W.jpg",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/assets/WRN.W.jpg",
     "Asets",
-    "BASIS DATA/assets/2.B.S.jpg",
-    "BASIS DATA/assets/F.D.L.jpg",
-    "BASIS DATA/assets",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/assets/2.B.S.jpg",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/assets/F.D.L.jpg",
+    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/assets",
     "HTML HTTP JAVA/AseT(1)",
     "Aset/AseT(1)",
     "OBSIDIAN/_.trash",

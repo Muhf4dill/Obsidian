@@ -12,22 +12,18 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML HTTP JAVA/Deskripsi.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
           {
-            "id": "65f1e42f66784101",
+            "id": "68733f186a04b6bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
+                "file": "Catatan HTML/Pertemuan_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
+            "file": "Catatan HTML/Pertemuan_1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
+            "file": "Catatan HTML/Pertemuan_1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md"
+            "file": "Catatan HTML/Pertemuan_1.md"
           }
         }
       },
@@ -154,53 +150,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65f1e42f66784101",
+  "active": "68733f186a04b6bf",
   "lastOpenFiles": [
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/SPN.jpg",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/Div.jpg",
-    "Aset/Div.jpg.md",
+    "Catatan HTML/Aset/Foto.png",
+    "Catatan HTML/Belajar HTML.md",
+    "HTML/Pertemuan_1.md",
+    "Catatan HTML/Pertemuan_1.md",
+    "Catatan HTML/Deskripsi.md",
+    "Select lanjutan/Select Lanjutan.md",
+    "assets/ISLAND.JPG.md",
+    "assets",
+    "BASIS DATA/Basis data/assets/IAOAND.jpg",
+    "assets.md",
+    "BASIS DATA/Basis data/assets/IOAND.jpg",
     "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F_F.jpg",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.A.jpg",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.F.F (1).jpg",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F...jpg",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.f..jpg",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.F (1).jpg",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.L.jpg",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/FT_3 (1).jpg",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/I-F.jpg",
+    "assets/I.md",
+    "BASIS DATA/Basis data/assets/IAND.jpg",
+    "CSS/Pengenalan CSS.md",
+    "HTML HTTP JAVA/Deskripsi.md",
+    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
+    "BASIS DATA/Basis data/assets/WRN.W.jpg",
+    "BASIS DATA/Basis data/assets/F.D.L.F.jpg",
+    "BASIS DATA/Basis data/assets/F.D.L.jpg",
+    "BASIS DATA/Basis data/assets/F.BS.jpg",
+    "BASIS DATA/Basis data/assets/D.BS.jpg",
+    "BASIS DATA/Basis data/assets/CSS..jpg",
+    "BASIS DATA/Basis data/assets/Buat.BS.jpg",
+    "Aset/A...JPG.md",
+    "Assets/F...jpg.md",
+    "Assets/1.D.JPG.md",
+    "assets/1.D.JPG.md",
+    "assets 1.md",
+    "Assets",
+    "Pengenalan Web/Pengenalan Web.md",
+    "Aset/Div.jpg.md",
     "Aset/F_F.JPG.md",
     "BASIS DATA/PENGENALAN BASIS DATA.md",
-    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
     "Aset/F.L.JPG.md",
     "Aset/I.F.JPG.md",
     "Aset/Tabel.Jpg.md",
     "Aset/S.L.JPG.md",
-    "Aset/F.f..JPG.md",
-    "Select lanjutan/Select Lanjutan.md",
-    "Aset/I-F.JPG.md",
-    "Aset/IF.2.JPG.md",
-    "Aset/A...JPG.md",
-    "Aset/F...JPG.md",
-    "Aset/L.I.JPG.md",
     "Aset",
-    "HTML HTTP JAVA/Aset/WRN.JPG.md",
-    "HTML HTTP JAVA/Aset/MRGN.JPG.md",
-    "HTML/Pertemuan_1.md",
-    "Pengenalan Web/Pengenalan Web.md",
-    "HTML HTTP JAVA/Deskripsi.md",
-    "Aset/B.BS.JPG.md",
-    "Aset/AND.BS.JPG.md",
-    "Aset/H.T.BS.JPG.md",
-    "asset/AND.BS.JPG.md",
     "asset",
     "Asets",
     "BASIS DATA/Basis data/assets",
     "HTML HTTP JAVA/AseT(1)",
     "Aset/AseT(1)",
     "OBSIDIAN/_.trash",
-    "OBSIDIAN/_.obsidian/plugins/table-editor-obsidian",
-    "OBSIDIAN/_.obsidian/plugins/notion-like-tables",
-    "OBSIDIAN/_.obsidian/plugins"
+    "OBSIDIAN/_.obsidian/plugins/table-editor-obsidian"
   ]
 }

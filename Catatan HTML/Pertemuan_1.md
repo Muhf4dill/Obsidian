@@ -37,7 +37,6 @@ Background-color:White;
 ```
 
 
-![gambar](Foto.png)
-
+![gambar](Aset/Foto.png)
 
 

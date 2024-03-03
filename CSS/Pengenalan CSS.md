@@ -14,21 +14,21 @@ margin-top :50px;
 
 ### After 
 
-![gambar](WRN.W.jpg)Color adalah memberikan warna kepada tulisan yang dimana sebelum di kasih color atau warna tulisan nya berwarna hitam. setelah dikasih color atau warna tulisan klik aku berwarna putih
+![gambar](asetCSS/WRN.W.jpg)Color adalah memberikan warna kepada tulisan yang dimana sebelum di kasih color atau warna tulisan nya berwarna hitam. setelah dikasih color atau warna tulisan klik aku berwarna putih
 ## TEXT-ALIGN
 
 ### Before
-![gambar](WRN.jpg)
+![gambar](asetCSS/WRN.jpg)
 ### After 
-![gambar](RGHT.jpg)
 
+![gambar](asetCSS/RGHT.jpg)
 Text-align adalah memberikan perataan kepada teks dimana saat kita menggunakan text-align = right  membuat posisi teks lebih ke samping kanan. 
 ## margin-top 
 ### Before
-![Gambar](WRN.jpg)
+![Gambar](asetCSS/WRN.JPG)
 ### After
-![gambar](MRGN.jpg)
 
+![gambar](asetCSS/MRGN.JPG)
 Margin top digunakan untuk menentukan jarak antara batas atas suatu elemen dengan elemen di atasnya.
 
 ## Pemanggilan CSS
@@ -92,7 +92,7 @@ Margin top digunakan untuk menentukan jarak antara batas atas suatu elemen denga
 
 ```
 **Hasil**
-![gambar](BR.jpg)
+![gambar](asetCSS/BR.jpg) 
 
 
 
@@ -129,4 +129,4 @@ Margin top digunakan untuk menentukan jarak antara batas atas suatu elemen denga
 
 ```
 **Hasil**
-![gambar](HJ.jpg)
+![gambar](asetCSS/HJ.jpg)

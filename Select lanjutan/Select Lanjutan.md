@@ -173,7 +173,9 @@ perintah  `Select * from mobil where pemilik IN ("Ibrahim","Baim")`akan menampil
 ## IN + AND
 ### Struktur
 ```
-
+Select * from nama_tabel
+Where warna IN (nilai kolom_warna)
+And harga_rental = nilai harga ;
 ```
 ### Contoh
 ```
@@ -181,26 +183,52 @@ Select * from mobil
 Where warna IN ("Hitam","Silver")
 And harga_rental = 50000;
 ```
-
+**Penjelasan**
+- `SELECT`:  adalah bagian dari pernyataan `SELECT` yang menentukan mengambil semua kolom dari tabel `mobil`.
+- `FROM mobil`: adalah bagian dari perintah  `FROM` yang menunjukkan tabel mana yang akan diambil dari data tabel `mobil`.
+- `WHERE warna IN ("Hitam","Silver")`: adalah bagian dari perintah `WHERE` yang memberikan kriteria  data yang akan dipilih. Kriteria tersebut adalah `kolom_warna` yang bernilai `("Hitam","Silver")`. 
+- `AND harga_rental = 50000`: adalah bagian tambahan dari perintah `WHERE` yang memberikan kriteria tambahan data yang akan dipilih. Kriteria tersebut adalah menampilkan data kolom `harga_rental` adalah `50000`.
+**Kesimpulan**
+Perintah tersebut akan menampilkan semua kolom untuk setiap entri di tabel ``"mobil"`` di mana warna mobil adalah `Hitam' atau 'Silver'` dan harga `rental_mobil` adalah `50.000`.
 ![gambar](assets/IAND.JPG)
 
 ## IN + OR
 ### Struktur
 ```
-
+Select * from nama_tabel
+Where warna IN (nilai kolom_warna)
+And harga_rental = nilai harga ;
 ```
 ### Contoh
 ```
 Select * from mobil
 Where warna IN ("Hitam","Silver")
-Harga_rental = 50000;
+OR Harga_rental = 50000;
 ```
-
+**Penjelasan**
+-`SELECT`:  adalah bagian dari pernyataan `SELECT` yang menentukan mengambil semua kolom dari tabel `mobil`.
+- `FROM mobil`: adalah bagian dari perintah  `FROM` yang menunjukkan tabel mana yang akan diambil dari data tabel `mobil`.
+- `WHERE warna IN ("Hitam","Silver")`: adalah bagian dari perintah `WHERE` yang memberikan kriteria  data yang akan dipilih. Kriteria tersebut adalah `kolom_warna` yang bernilai `("Hitam","Silver")`. 
+- `OR harga_rental = 50000`: adalah bagian tambahan dari perintah `WHERE` yang memberikan kriteria tambahan  data yang akan dipilih. Kriteria tersebut adalah menampilkan data kolom `harga_rental` adalah `50000`.Dengan menggunakan operator `OR`, kita memastikan bahwa entri yang memenuhi salah satu dari dua kriteria ini akan dipilih.
+**Kesimpulan**
+Perintah tersebut akan menampilkan semua kolom untuk setiap entri di tabel `mobil`di mana warna mobil adalah `Hitam atau Silver`, atau harga rental mobil adalah `50.000`. 
 ![gambar](assets/IOAND.JPG)
 
 ## IN + AND + OPERATOR
 ### Struktur
 ```
+Perintah Pertama
+Select * from nama_tabel
+Where warna IN (nilai kolom_warna)
+And harga_rental > nilai harga ;
+
+Perintah kedua
+
+Select * from nama_tabel
+Where warna IN (nilai kolom_warna)
+And harga_rental < nilai harga ;
+
+
 
 ```
 ### Contoh
@@ -213,6 +241,14 @@ Select * from mobil
 Where warna IN ("Hitam","Silver")
 And harga_rental < 100000
 ```
+**Penjelasan**
+- `SELECT`:  adalah bagian dari pernyataan `SELECT` yang menentukan mengambil semua kolom dari tabel `mobil`.
+- `FROM mobil`: adalah bagian dari perintah  `FROM` yang menunjukkan tabel mana yang akan diambil dari data tabel `mobil`.
+- `WHERE warna IN ("Hitam","Silver")`: adalah bagian dari perintah `WHERE` yang memberikan kriteria  data yang akan dipilih. Kriteria tersebut adalah `kolom_warna` yang bernilai `("Hitam","Silver")`. 
+- `AND harga_rental > 50000`: Kriteria tambahan ini memilih baris-baris di mana nilai kolom `"harga_rental"`lebih besar dari `50.000`.
+- `AND harga_rental < 100000`: Kriteria tambahan ini memilih baris-baris di mana nilai kolom `"harga_rental"` kurang dari `100.000`.
+**Kesimpulan**
+Perintah tersebut untuk mengambil data dari tabel `"mobil"`dengan kriteria yang sama terkait warna dan berbeda di kolom `harga_rental mobil`. Perintah pertama memilih mobil dengan `harga_rental`lebih dari `50000`. Perintah kedua memilih mobil dengan `harga_rental` kurang dari `100000`.
 ![gambar](assets/IAOAND.JPG)
 # LIKE
 

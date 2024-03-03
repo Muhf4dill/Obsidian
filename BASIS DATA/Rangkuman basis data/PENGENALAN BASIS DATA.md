@@ -60,7 +60,7 @@ internal klik izinkan/allow acces.
 
 3 . Lakukan update dan sekaligus upgrade paket
 **Pkg update && upgrade -y**
-![gambar](assets/P..)
+![gambar](assets/P..jpg)
 4 . Jika ada konfirmasi untuk melanjutkan instalasi. Silahkan klik **y** dan enter
 5 . Instal aplikasi MariaDB
 **Pkg install mariadb**

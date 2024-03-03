@@ -70,3 +70,14 @@ Penggunaan HTML dan CSS sangat penting dalam pengembangan web. Dan menyarankan u
 
 Web, singkatan dari World Wide Web (WWW), merupakan bagian dari Internet yang terdiri dari halaman-halaman yang dapat diakses melalui browser web. Sejarah web dimulai pada tahun 1990-an dengan Tim Berners-Lee yang memperkenalkan konsep sistem dokumen terhubung melalui internet, juga menciptakan protokol HTTP sebagai jembatan antara server dan client. HTML, bahasa fundamental untuk pengembangan web, diciptakan oleh Berners-Lee untuk memudahkan pembacaan dokumen yang diformat, dengan struktur dasar mirip tulang tubuh manusia. Pada tahun 1994, CSS diperkenalkan untuk memisahkan tata letak dan struktur HTML, memudahkan pemeliharaan dan styling halaman web. Kombinasi HTML, CSS, dan pengembangan keterampilan dengan mempelajari framework serta bahasa pemrograman seperti JavaScript menjadi kunci penting dalam pengembangan web modern.
 
+![gambar](Aset/HCJ.jpg) 
+# HTML
+
+Gambar pertama mengibaratkan HTML di mana cuma  berbentuk pondasi sama dengan HTML cuma berbentuk struktur belum ada warna atau memberikan interaksi.
+
+# CSS
+Gambar kedua mengibaratkan CSS. Dimana CSS berfungsi menghiasi website. Sama seperti gambar kedua yang sudah di hiasi seperti ada warna, pintu, jendela, dan cerobong asap.
+
+# JAVASCRIPT 
+Gambar ketiga mengibaratkan Javascript. Dimana Javascript berfungsi memberikan interaksi sama dengan Gambar ketiga yang di berikan interaksi seperti keluar asap, lampu nyala atau saklar on, pintu tertutup .
+

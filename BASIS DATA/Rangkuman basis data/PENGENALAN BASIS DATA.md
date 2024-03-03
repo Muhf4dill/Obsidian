@@ -285,7 +285,7 @@ values(1, "Ahmad", "Satya", "089587652345")
 Kesimpulan:
 perintah `"INSERT INTO Pelanggan VALUES(1, 'Ahmad', 'Satya', '089587652345')"` digunakan untuk menyisipkan data pelanggan baru ke dalam tabel `"Pelanggan"` dengan nilai tertentu untuk setiap kolomnya.
 **Hasil**
-![gambar](assets/1.D.JPG)
+![gambar](assets/1.D.jpg)
 
 ## Insert >1 data
 

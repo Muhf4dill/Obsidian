@@ -134,7 +134,7 @@ Br= Digunakan untuk membuat baris baru dimana awal cuma satu baris tapi di kasih
 
 ```
 **Hasil Program**:
-![gambar](P.B..jpg)
+![gambar](Aset/P.B..jpg)
 ____
 
 

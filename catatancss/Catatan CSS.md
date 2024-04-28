@@ -1161,17 +1161,9 @@ box-1{
 ### Kesimpulan
 `position: sticky`, elemen akan seperti posisi relatif sampai jarak scroll mencapai nilai tertentu. elemen akan tetap berada pada posisi yang telah ditentukan saat jarak scroll mencapai nilai tertentu, sambil tetap mengikuti pergeseran scroll di bawahnya.
 # Tantangan Position
-- `body {...}`: Mengatur warna latar belakang halaman menjadi biru.
-- `.card {...}`: Menetapkan tata letak dan tampilan untuk kartu, seperti lebar maksimum, warna latar belakang putih, dan sudut lengkung.
-- `img {...}`: Mengatur ukuran dan sudut lengkung untuk gambar, membuatnya penuh lebar dan tingginya 25rem.
-- `.content {...}`: Menambahkan jarak dan posisi relatif untuk konten dalam kartu.
-- `.content p:first-child {...}`: Mengubah warna teks untuk paragraf pertama di dalam konten menjadi abu-abu.
-- `.content h2 {...}`: Menghilangkan margin atas dari judul kedua di dalam konten.
-- `button {...}`: Mengatur tampilan tombol, termasuk tinggi, padding, dan posisi teks.
-- `.thumbs-up {...}`: Menetapkan tampilan tombol suka, termasuk posisi, ukuran, dan latar belakang gambar. Namun, ada kesalahan pada pengaturan latar belakang gambar yang perlu diperbaiki.
 
 ### Kode Program 
-```html
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>

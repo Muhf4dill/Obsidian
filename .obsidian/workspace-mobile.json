@@ -18,19 +18,79 @@
             }
           },
           {
-            "id": "68733f186a04b6bf",
+            "id": "785d0be4ee37fe35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Pengenalan CSS.md",
+                "file": "Responsive/Catatan responsive.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4faf2130a98a58fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Responsive/Catatan responsive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75d8e810a347a4c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALTER/CATATAN ALTER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ca8bd8733de463f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT & GITHUB/Catatan GIT & GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fe22b1dd80ae580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS2/Catatan CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b67ee7d2a1b1a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT & GITHUB/Catatan GIT & GITHUB.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -96,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CSS/Pengenalan CSS.md",
+            "file": "GIT & GITHUB/Catatan GIT & GITHUB.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CSS/Pengenalan CSS.md",
+            "file": "GIT & GITHUB/Catatan GIT & GITHUB.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CSS/Pengenalan CSS.md"
+            "file": "GIT & GITHUB/Catatan GIT & GITHUB.md"
           }
         }
       },
@@ -150,53 +210,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68733f186a04b6bf",
+  "active": "9959f1c36237f74f",
   "lastOpenFiles": [
-    "BASIS DATA/Rangkuman basis data",
-    "Catatan HTML/Rangkuman HTML",
-    "Select lanjutan/Select Lanjutan.md",
-    "CSS/Pengenalan CSS.md",
-    "CSS/asetCSS/E.jpg",
-    "CSS/asetCSS/INC.jpg",
-    "CSS/asetCSS/I.jpg",
-    "CSS/asetCSS/ES.jpg",
-    "Catatan HTML/Belajar HTML.md",
-    "asetCSS.md",
-    "CSS/asetCSS/PP.jpg",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/F.D.L.F.jpg.md",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/R.H..jpg.md",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset/Tabel.jpg.md",
+    "CSS2/Catatan CSS.md",
+    "CSS2/asetcss/TP.jpg",
+    "GIT & GITHUB/assets/Screenshot_20240428_195216.jpg",
+    "HTML/Select lanjutan/Select Lanjutan.md",
+    "CSS2/asetcss/AP.jpg",
+    "CSS2/asetcss/BT.jpg",
+    "CSS2/asetcss/AT.jpg",
+    "CSS2/asetcss/ACS.jpg",
+    "CSS2/asetcss/ACCS.jpg",
+    "CSS2/asetcss/I.jpg",
+    "CSS2/asetcss/AFI.jpg",
+    "CSS2/asetcss/E.jpg",
     "BASIS DATA/Instalasi & Query awal Database.md",
-    "BASIS DATA/PENGENALAN BASIS DATA.md",
-    "asetsCSS/WRN.W.jpg.md",
-    "asetsCSS",
-    "BASIS DATA/Basis data/assets/TTN.jpg",
-    "Aset/Div.JPG.md",
-    "Aset",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L",
-    "HTML HTTP JAVA/Belajar HTML",
-    "HTML HTTP JAVA",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Aset",
-    "Catatan HTML/Aset/TD.jpg",
-    "BASIS DATA/Basis data/assets/UP.BS.jpg",
-    "Catatan HTML/Aset/Div.jpg",
-    "Catatan HTML/Aset/F.F (1).jpg",
-    "Catatan HTML/Pengenalan Web.md",
-    "Catatan HTML/Deskripsi.md",
-    "Catatan HTML/Pertemuan_1.md",
-    "Pengenalan Web/Pengenalan Web.md",
-    "HTML/Pertemuan_1.md",
-    "assets/ISLAND.JPG.md",
+    "Bootstrap/Catatan Bootstrap.md",
+    "Responsive/Catatan responsive.md",
+    "Semantic HTML/Catatan SEMANTIC HTML.md",
+    "GIT & GITHUB/Catatan GIT & GITHUB.md",
+    "GIT & GITHUB/assets",
+    "AsetGit/Giv.png.md",
+    "AsetGit",
+    "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+    "asetCSS/B.JPG.md",
+    "asetCSS/AC.JPG.md",
+    "asetCSS/TRANS.JPG.md",
+    "asetcss/B.JPG.md",
+    "asetCSS/PA.JPG.md",
+    "asetCSS/FI.JPG.md",
+    "asetCSS/BI.JPG.md",
+    "asetCSS/BGH.JPG.md",
+    "asetCSS/BUP.JPG.md",
+    "asetcss/TDU.JPG.md",
+    "asetCSS/TDU.JPG.md",
+    "asetcss/TBU.JPG.md",
+    "asetCSS/TBU.JPG.md",
+    "asetCSS/BU.JPG.md",
+    "asetCSS/BC.JPG.md",
+    "asetCSS",
+    "ALTER/CATATAN ALTER.md",
+    "Bootstrap/Asetb",
+    "CSS2",
+    "Bootstrap",
+    "Bootstrap1",
     "assets",
-    "assets.md",
-    "HTML HTTP JAVA/Belajar HTML/H.T.M.L/Belajar HTML.md",
-    "assets/I.md",
-    "HTML HTTP JAVA/Deskripsi.md",
-    "BASIS DATA/Instalasi & Query awal data base/Instalasi & Query awal Database.md",
-    "Aset/A...JPG.md",
-    "Assets/F...jpg.md",
-    "Assets/1.D.JPG.md",
-    "Assets",
-    "asset"
+    "assets/Github",
+    "AsetGIT"
   ]
 }

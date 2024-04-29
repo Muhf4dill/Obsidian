@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "CSS2/Catatan CSS.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -210,11 +210,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b67ee7d2a1b1a17",
+  "active": "9959f1c36237f74f",
   "lastOpenFiles": [
-    "GIT & GITHUB/Catatan GIT & GITHUB.md",
+    "CSS2/asetcss/PT.jpg",
     "CSS2/Catatan CSS.md",
     "CSS2/asetcss/TP.jpg",
+    "GIT & GITHUB/Catatan GIT & GITHUB.md",
     "GIT & GITHUB/assets/Screenshot_20240428_195216.jpg",
     "HTML/Select lanjutan/Select Lanjutan.md",
     "CSS2/asetcss/AP.jpg",
@@ -224,7 +225,6 @@
     "CSS2/asetcss/ACCS.jpg",
     "CSS2/asetcss/I.jpg",
     "CSS2/asetcss/AFI.jpg",
-    "CSS2/asetcss/E.jpg",
     "BASIS DATA/Instalasi & Query awal Database.md",
     "Bootstrap/Catatan Bootstrap.md",
     "Responsive/Catatan responsive.md",

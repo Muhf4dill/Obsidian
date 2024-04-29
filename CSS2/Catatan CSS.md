@@ -26,6 +26,7 @@ Contoh lain, yang ingin dimodifikasi adalah seluruh jendela pada komponen kusenn
 **Hasil**
 ![gambar](asetCSS/ACCS.JPG)
 ![gambar](asetcss/ACS.JPG)
+
 # Percobaan Pertama
 ## Penjelasan
 - `<!DOCTYPE html>`: Mendefinisikan jenis dokumen HTML yang digunakan, dalam hal ini HTML5.
@@ -1228,7 +1229,7 @@ height: 50px;
   right: 10px;
   width: 50px;
   height: 50px;
-  background-image:"Belajar/Like.Jpg"; 
+  background-image: url("Camera/like.jpg"); 
   background-size: cover;
   border-radius: 50px;
 }
@@ -1241,7 +1242,7 @@ height: 50px;
         <img src="Camera/F.png" alt="Nature Image">
         <div class="content">
             <button class="thumbs-up"></button>
-          <p>Kamis, 16 Juli 2015</p>
+          <p>Kamis, 19 oktober 2025</p>
           <h2>Potongan teks Lorem Ipsum standar</h2>
           <p>Sed posuere consectetur est at lobortis. Aenean eu leo quam.</p>
           <div>
@@ -1255,4 +1256,4 @@ height: 50px;
 ```
 
 ### Hasil
-![gambar](asetcss/TP.JPG)
+![gambar](asetcss/ATP.JPG)

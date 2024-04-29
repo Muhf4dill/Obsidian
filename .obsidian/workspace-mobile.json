@@ -81,11 +81,9 @@
             "id": "7b67ee7d2a1b1a17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CSS2/Catatan CSS.md",
-                "mode": "source",
-                "source": false
+                "file": "Bootstrap/Asetb/laravel-7.png"
               }
             }
           }
@@ -156,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CSS2/Catatan CSS.md",
+            "file": "Bootstrap/Asetb/laravel-7.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CSS2/Catatan CSS.md",
+            "file": "Bootstrap/Asetb/laravel-7.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CSS2/Catatan CSS.md"
+            "file": "Bootstrap/Asetb/laravel-7.png"
           }
         }
       },
@@ -210,12 +208,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9959f1c36237f74f",
+  "active": "7b67ee7d2a1b1a17",
   "lastOpenFiles": [
-    "CSS2/asetcss/PT.jpg",
+    "Bootstrap/Catatan Bootstrap.md",
+    "Asetb/bf-2.jpg.md",
+    "PHP/CATATAN PHP.md",
+    "PHP/Catatan PHP/Catatan PHP.md",
+    "PHP/Catatan PHP",
+    "aset.md",
+    "PHP",
+    "Asetb/btn-27.png.md",
+    "Asetb",
+    "Responsive/Catatan responsive.md",
+    "Semantic HTML/Catatan SEMANTIC HTML.md",
     "CSS2/Catatan CSS.md",
-    "CSS2/asetcss/TP.jpg",
     "GIT & GITHUB/Catatan GIT & GITHUB.md",
+    "CSS2/asetcss/PT.jpg",
+    "CSS2/asetcss/TP.jpg",
     "GIT & GITHUB/assets/Screenshot_20240428_195216.jpg",
     "HTML/Select lanjutan/Select Lanjutan.md",
     "CSS2/asetcss/AP.jpg",
@@ -226,9 +235,6 @@
     "CSS2/asetcss/I.jpg",
     "CSS2/asetcss/AFI.jpg",
     "BASIS DATA/Instalasi & Query awal Database.md",
-    "Bootstrap/Catatan Bootstrap.md",
-    "Responsive/Catatan responsive.md",
-    "Semantic HTML/Catatan SEMANTIC HTML.md",
     "GIT & GITHUB/assets",
     "AsetGit/Giv.png.md",
     "AsetGit",
@@ -245,17 +251,10 @@
     "asetcss/TDU.JPG.md",
     "asetCSS/TDU.JPG.md",
     "asetcss/TBU.JPG.md",
-    "asetCSS/TBU.JPG.md",
-    "asetCSS/BU.JPG.md",
-    "asetCSS/BC.JPG.md",
     "asetCSS",
-    "ALTER/CATATAN ALTER.md",
     "Bootstrap/Asetb",
     "CSS2",
     "Bootstrap",
-    "Bootstrap1",
-    "assets",
-    "assets/Github",
-    "AsetGIT"
+    "Bootstrap1"
   ]
 }

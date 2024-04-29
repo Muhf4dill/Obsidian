@@ -118,6 +118,7 @@ Selalu urutkan elemen header berdasarkan kepentingannya.
 
 Misalnya, semua judul H3 yang mengikuti judul H2 tertentu harus menjadi subtopik dari H2 tersebut.
 ![gambar](AsetSemantic/BP.png)
+
 Dengan cara ini, struktur judul menciptakan hierarki logis dari topik dalam konten Anda dan membantu pembaca dan mesin pencari lebih memahami dan menavigasi teks.
 
 ## Jangan Hanya Menyalin Tata Letak Visual Anda

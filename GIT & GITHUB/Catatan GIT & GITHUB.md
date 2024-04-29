@@ -7,15 +7,15 @@ Sedangkan, **GitHub** adalah website yang digunakan untuk menyimpan dan mengelol
 # Membuat Akun Github
 1. Pertama, kunjungi website GitHub di [github.com](https://github.com/)
 2. Klik “Sign Up” di pojok kanan atas, untuk mendaftar
-3. ![Github Landing Page|100%](assets/akun-1.png)
+3. ![gambar](assets/akun-1.png)
 4. Kemudian, masukkan informasi yang dibutuhkan, seperti email, password, hingga username.
-5. ![Github Form Signup|100%](assets/akun-2.png)
+5. ![gambar](assets/akun-2.png)
 6. Setelah itu, Anda akan diminta memasukkan kode verifikasi yang dikirim ke email Anda. Jadi, cek inbox atau spam pada email Anda. Bila email GitHub belum masuk, Anda bisa klik Resend the code untuk mengirim ulang kodenya.
-7. ![Github Verification Email|100%](assets/akun-3.png)
+7. ![gambar](assets/akun-3.png)
 8. Kemudian masukkan kode verifikasi email, Anda bisa melakukan proses personalisasi akun. Jika tidak ingin melakukannya, klik Skip.
-9. ![Github Personalization|100%](assets/akun-4.png)
+9. ![gambar](assets/akun-4.png)
 10. Jika berhasil, maka akan tampil dashboard github kamu.
-11. ![Github Dashboard Account|100%](assets/akun-5.png)
+11. ![gambar](assets/akun-5.png)
 
 
 
@@ -24,20 +24,20 @@ Sedangkan, **GitHub** adalah website yang digunakan untuk menyimpan dan mengelol
 ### Instalasi
 1. Unduh Git dengan membuka tautan [download git](https://git-scm.com/downloads)
 2. Pilih **“Windows”**
-3. ![](assets/git-1.png)
+3. ![gambar](assets/git-1.png)
 4. Setelah itu tunggu hingga muncul berkas aplikasi yang terunduh otomatis atau jika tidak maka pilih unduhan sesuai dengan arsitektur komputer kamu. Kalau menggunakan 64 bit, unduh yang 64 bit. Begitu juga kalau menggunakan 32bit.
-5. ![](assets/git-2.png)
+5. ![gambar](assets/git-2.png)
 6. Setelah terunduh, lalu klik 2x berkas installer Git yang telah diunduh
-7. ![](assets/git-3.png)
+7. ![gambar](assets/git-3.png)
 8. Tinjau Lisensi Publik Umum GNU, dan jika kamu sudah siap untuk menginstal, klik **Next.**
-9. ![](assets/git-4.png)
+9. ![gambar](assets/git-4.png)
 10. Selanjutnya menentukan lokasi instalasi. Biarkan saja secara default, kemudian klik Next.
 11. Lalu pemilihan komponen, atur saja seperti di bawah ini, lalu Next.
-12. ![](assets/git-5.png)
+12. ![gambar](assets/git-5.png)
 13. Installer akan menawarkan untuk membuat icon start menu di layar Desktop. Cukup klik Next.
 14. Pilih editor teks yang ingin kamu gunakan ( Kita akan menggunakan Visual Studio Code ) untuk Git. Setelah itu klik Next
 15. Langkah selanjutnya memungkinkan kamu untuk memilih nama yang berbeda untuk branch awal kamu. Standarnya adalah 'master'. Kecuali kamu bekerja dalam tim yang memerlukan nama berbeda, biarkan opsi default dan klik Next
-16. ![](assets/git-6.png)
+16. ![gambar](assets/git-6.png)
 17. Langkah instalasi ini memungkinkan kamu untuk mengubah lingkungan PATH instalasi. PATH adalah set standar direktori yang disertakan saat kamu menjalankan perintah dari CMD. Biarkan pilihannya di tengah (rekomendasi) dan klik Next .
 18. Installer sekarang menanyakan klien SSH mana yang ingin kamu gunakan pada git. Git sudah hadir dengan klien SSH-nya sendiri, jadi jika Anda tidak membutuhkan yang spesifik, biarkan opsi default dan klik Next.
 19. Opsi selanjutnya berkaitan dengan sertifikat server. Sebagian besar pengguna harus menggunakan default, klik Next.
@@ -49,9 +49,9 @@ Sedangkan, **GitHub** adalah website yang digunakan untuk menyimpan dan mengelol
 25. Instaler Git mungkin menawarkan untuk menginstal fitur eksperimental, tanpa centang apapun, langsung saja klik Install.
 26. Setelah instalasi selesai, centang kotak untuk melihat Catatan Rilis atau Luncurkan Git Bash, lalu klik Selesai .
 27. Untuk meluncurkan Git Bash, kamu tinggal mencari Start Menu Windows lalu Enter pada Git Bash.
-28. ![](assets/git-7.png)
+28. ![gambar](assets/git-7.png)
 29. kemudian ketik perintah git –version
-30. ![](assets/git-8.png)
+30. ![gambar](assets/git-8.png)
 ### Konfigurasi
 Ada beberapa konfigurasi yang harus dilakukan sebelum mulai menggunakan Git, seperti menentukan _name_ dan _email_.
 
@@ -82,30 +82,33 @@ Pertama, Buat Folder bernama **“latihan-git”** dan Buka di Visual Studio Cod
  
 Klik “Open Folder” lalu pilih folder yang telah kita buat tadi.
 
-![](assets/open-folder-vsc.png)
+![gambar](assets/open-folder-vsc.png)
 
 Jika terdapat pop up “Trust Folder Author” maka pilih “Yes, i trust the authors”
 
- ![](assets/trust-author-vsc.png)
+ ![gambar](assets/trust-author-vsc.png)
 
 Buat File baru, kalian boleh memasukkan file apapun, disini saya membuat file “belajar.html”.
 
-![](assets/add%20file%20belajar%20html.png)
+![gambar](assets/add%20file%20belajar%20html.png)
+
 untuk membuat Repository secara Lokal atau Offline di komputer kita, ketik perintah berikut.
 ## `git init`
 Perintah git init berfungsi untuk membuat Repository secara offline di komputer lokal atau para developer biasa menyebutnya sebagai “Initialisasi Repo Lokal”. Jika berhasil, maka akan terdapat output seperti gambar dibawah ini.
 
-![](assets/init%20repository.png)
+![gambar](assets/init%20repository.png)
+
 sebelum kita menggugah berkas project kita, kita dapat melihat status folder/file kita
 dengan mengetikkan 
 ## `git status`
-![](assets/status%20repository.png)
+![gambar](assets/status%20repository.png)
 disini kita dapat melihat dimana status file kita bahwa terdapat file baru.
 
 sekarang kita akan mengunggah berkas project kita ke lokal dengan perintah
 ## `git add .`
 Perintah tersebut mengintruksikan git untuk menambahkan ( git add ) seluruh file ( . ) yang berada di folder project kita (latihan git) ke Staging Area. Staging Area adalah zona tak terlihat dimana seluruh file project bersiap untuk melalui tahap pengecekan terlebih dahulu riwayat perubahannya. Untuk pertama kali, jika kita menjalankan perintah diatas maka tidak akan mendapatkan output apapun.
-![](assets/working%20directory%20in%20git.png)
+![gambar](assets/working%20directory%20in%20git.png)
+
 selanjutnya yang harus kita lakukan adalah menyimpan riwayat atau catatan perubahannya, sebelum kita unggah ke repository online. Untuk melakukan hal tersebut, kita akan menggunakan perintah 
 ## `git commit –m "Tambah File HTML"`
 
@@ -119,9 +122,11 @@ sebelum kita mengunggah project kita, kita harus membuat repository di github ny
 > **Repository** adalah folder untuk menyimpan berkas-berkas project kita secara online, bahkan setiap perubahannya akan disimpan secara otomatis. ( Seperti membuat Folder di Google Drive atau Onedrive )
 ### Membuat Repository Di Github
 Untuk membuatnya, kita buka dan masuk menggunakan akun github yang telah didaftarkan di https://www.github.com - Sekarang setelah berhasil masuk, maka kita berada di halaman Dashboard github
-![](assets/github%20dashboard.png)
+![gambar](assets/github%20dashboard.png)
+
 Untuk membuat repository, maka klik **“Create Repository”**
-![](assets/create%20repository.png)
+![gambar](assets/create%20repository.png)
+
 Setelah itu akan ada beberapa form untuk memberikan beberapa informasi mengenai Folder (Kita sekarang akan menyebutnya sebagai Repository) yang akan kita buat.
 1. Repository Name
 	Ini adalah form untuk memberikan nama repository project kita ( Sering kita lakukan seperti membuat nama Folder ), disini kita akan memberi nama repositori “latihan-git”
@@ -134,10 +139,11 @@ Setelah itu akan ada beberapa form untuk memberikan beberapa informasi mengenai 
 	 - **Add Readme File** ( Membuat deskripsi repository secara detail dengan file Readme )
 	 - **Add .gitignore** ( Jika ini diaktifkan, maka riwayat perubahan tidak akan dicatat oleh sistem Git )
 	 - **Choose License** ( Memilih jenis lisensi untuk repository project )
-![][assets/github-rp.png]
+![gambar][assets/github-rp.png]
+
 Setelah semuanya diisi maka klik tombol **“Create Repository”** Jika berhasil maka akan tampil seperti ini
 
-![](assets/git%20command%20repository.png)
+![gambar](assets/git%20command%20repository.png)
 
 kemudian copy remote url nya
 ## `git remote add origin https://github.com/andirhn/latihan-git.git`
@@ -149,13 +155,15 @@ Kita mengintruksikan kepada git agar git menghubungkan ( remote ) dan menambahka
 
 ## `git push origin master`
 setelah berhasil maka akan muncul output seperti ini
-![](assets/push%20repo.png)
+![gambar](assets/push%20repo.png)
+
 Silahkan kembali ke browser, dan refresh halaman Repository Github kita, maka kita akan melihat perubahannya.
 
 Sebelummnya :
-![](assets/git%20command.png)
+![gambar](assets/git%20command.png)
+
 Setelah di push :
-![](assets/dashboard%20repo.png)
+![gambar](assets/dashboard%20repo.png)
 
 Baik, kita sekarang telah menambahkan berkas project kita di Repository Github, kamu bisa share link repository ke seseorang agar bisa melihat kode project aplikasi kamu.
 
@@ -166,13 +174,15 @@ Beberapa hal yang harus kita lakukan dalam berkolaborasi dalam project dengan gi
 > Karena disini saya menggunakan komputer yang sama maka saya harus mengubah konfigurasi git saya untuk memakai akun yang berbeda, namun jika kalian menggunakan komputer yang berbeda kamu mungkin perlu maupun tidak sama sekali melakukan konfigurasi tersebut. 
 
 Pertama, kita salin URL repository untuk digunakan saat kloning repository ke lokal.
-![](assets/git-clone.png)
+![gambar](assets/git-clone.png)
+
 Kemudian, kloning repository ke lokal menggunakan perintah git clone.
 ```bash
 git clone https://github.com/andirhn/latihan-git.git
 ```
 Jika berhasil maka akan tampil seperti ini
-![](assets/clone-result.png)
+![gambar](assets/clone-result.png)
+
 Setelah itu, Akan muncul folder baru, itu adalah folder yang berhasil kita ambil dari repository dan sekarang folder nya sudah ada di komputer kita.
 
 kemudian masuk ke folder repository dengan mengetik perintah berikut.
@@ -181,7 +191,8 @@ cd latihan-git
 ```
 
 Selanjutnya, kita membuat perubahan di kode dari repository yang sudah kita clone, disini kita akan membuat file baru, yaitu `contact.html`
-![](assets/git%20contact.png)
+![gambar](assets/git%20contact.png)
+
 ```html
 <!DOCTYPE html>
 
@@ -225,15 +236,16 @@ Kemudian, kita commit dengan pesan "menambahkan file contact.html" berikut perin
 ```bash
 git commit -m "menambahkan file contact.html"
 ```
-![](assets/git-commit.png)
+![gambar](assets/git-commit.png)
+
 Dan terakhir kita push ke repository langsung dengan perintah `git push origin`.
 ```bash
 git push origin
 ```
-![](assets/git-push.png)
+![gambar](assets/git-push.png)
 
 Sekarang bisa kita lihat bahwa saya telah berkontribusi dan berkolaborasi dengan rehan. Saya telah menambahkan “file baru yaitu contact.html” di projectnya
-![](assets/git-latihan-git.png)
+![gambar](assets/git-latihan-git.png)
 
 Dan saya ternyata ada ide baru, saya ingin menambahkan kodingan untuk halaman about, namun saya masih ragu apakah itu akan diperlukan atau tidak oleh rehan1.
 
@@ -245,11 +257,11 @@ git checkout –b halaman_about
 
 Artinya : kita untuk mengintruksikan kepada git agar membuat cabang baru dari cabang utama di repository dengan nama halaman_about.
 
-![](assets/git%20checkout%20about.png)
+![gambar](assets/git%20checkout%20about.png)
 
 Lalu kita akan membuat file baru bernama about.html dan kode halaman about.
 
-![](assets/create%20file%20about%20page.png)
+![gambar](assets/create%20file%20about%20page.png)
 
 ```html
 <!DOCTYPE html>
@@ -297,7 +309,7 @@ git push origin halaman_about
 
 Sekarang kita lihat di Repository github bahwa Branch yang saya buat telah ditambahkan ke repository milik rhn1.
 
-![](assets/branch%20halaman_about%20pull.png)
+![gambar](assets/branch%20halaman_about%20pull.png)
 
 # Melakukan Pembaruan & Penggabungan Project
 beberapa hari telah berlalu, rehan2 membuat fitur baru yaitu membuat halaman about, nah maka dari itu pasti di repository rehan1 belum terupdate akan segala perubahan yang dilakukan oleh rehan2
@@ -318,14 +330,14 @@ Lalu rhn1 menyukai fitur yang telah di buat oleh rhn2, dan ingin menerapkannya k
 git merge origin/halaman_about
 ```
 
-![](assets/git%20merge%20halaman_about.png)
+![gambar](assets/git%20merge%20halaman_about.png)
 
 Terakhir kita push dan lihat di repository github kita telah digabungkan branch dengan branch sebelumnya, notifikasi pull request dan compare telah tiada artinya kita telah berhasil berkolaborasi.
 ```bash
 git push origin main
 ```
 
-![](assets/git%20push%20last.png)
+![gambar](assets/git%20push%20last.png)
 
 # Perintah Perintah Dasar GIT
 ## `git init`

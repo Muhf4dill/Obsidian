@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remedial CSS/Tugas.md",
+                "file": "TugasUlangan/Tugas.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Remedial CSS/Tugas.md",
+            "file": "TugasUlangan/Tugas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Remedial CSS/Tugas.md",
+            "file": "TugasUlangan/Tugas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Remedial CSS/Tugas.md"
+            "file": "TugasUlangan/Tugas.md"
           }
         }
       },
@@ -210,12 +210,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9959f1c36237f74f",
+  "active": "7b67ee7d2a1b1a17",
   "lastOpenFiles": [
-    "Aset.md",
-    "Remedial CSS/Tugas.md",
-    "Remedial CSS/AsetR/R.jpg",
     "Remedial CSS/AsetR/BR.jpg",
+    "Remedial CSS/AsetR/R.jpg",
+    "Remedial CSS/Tugas.md",
+    "TugasUlangan/AsetR/BR.jpg",
+    "TugasUlangan/AsetR/R.jpg",
+    "TugasUlangan/AsetR",
+    "TugasUlangan/Tugas.md",
+    "TugasUlangan",
+    "Aset.md",
     "BASIS DATA/Instalasi & Query awal Database.md",
     "Remedial CSS",
     "HTML/Select lanjutan/Select Lanjutan.md",
@@ -230,7 +235,6 @@
     "ALTER/Asetalter/Balter.jpg",
     "ALTER/Asetalter/IMG_20240429_223709.jpg",
     "PHP/CATATAN PHP.md",
-    "Bootstrap/Asetb/laravel-7.png",
     "Bootstrap/Catatan Bootstrap.md",
     "PHP/Catatan PHP/Catatan PHP.md",
     "PHP/Catatan PHP",
@@ -242,7 +246,6 @@
     "Semantic HTML/Catatan SEMANTIC HTML.md",
     "CSS2/Catatan CSS.md",
     "GIT & GITHUB/Catatan GIT & GITHUB.md",
-    "CSS2/asetcss/PT.jpg",
     "GIT & GITHUB/assets",
     "AsetGit/Giv.png.md",
     "AsetGit",
@@ -253,10 +256,6 @@
     "asetcss/B.JPG.md",
     "asetCSS/PA.JPG.md",
     "asetCSS/FI.JPG.md",
-    "asetCSS/BI.JPG.md",
-    "asetCSS/BGH.JPG.md",
-    "asetCSS",
-    "Bootstrap/Asetb",
-    "CSS2"
+    "asetCSS"
   ]
 }

@@ -81,9 +81,11 @@
             "id": "7b67ee7d2a1b1a17",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bootstrap/Asetb/laravel-7.png"
+                "file": "Remedial CSS/Tugas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -154,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bootstrap/Asetb/laravel-7.png",
+            "file": "Remedial CSS/Tugas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bootstrap/Asetb/laravel-7.png",
+            "file": "Remedial CSS/Tugas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -183,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bootstrap/Asetb/laravel-7.png"
+            "file": "Remedial CSS/Tugas.md"
           }
         }
       },
@@ -210,9 +212,26 @@
   },
   "active": "7b67ee7d2a1b1a17",
   "lastOpenFiles": [
-    "Bootstrap/Catatan Bootstrap.md",
+    "Aset.md",
+    "Remedial CSS/Tugas.md",
+    "Remedial CSS/AsetR/R.jpg",
+    "Remedial CSS/AsetR/BR.jpg",
+    "BASIS DATA/Instalasi & Query awal Database.md",
+    "Remedial CSS",
+    "HTML/Select lanjutan/Select Lanjutan.md",
+    "ALTER/CATATAN ALTER.md",
+    "ALTER/Asetalter/MNT.jpg",
     "Asetb/bf-2.jpg.md",
+    "AselAlter/MNT.JPG.md",
+    "AselAlter",
+    "ALTER/Asetalter/MK.jpg",
+    "ALTER/Asetalter/MTDK.jpg",
+    "ALTER/Asetalter/Ralter.jpg",
+    "ALTER/Asetalter/Balter.jpg",
+    "ALTER/Asetalter/IMG_20240429_223709.jpg",
     "PHP/CATATAN PHP.md",
+    "Bootstrap/Asetb/laravel-7.png",
+    "Bootstrap/Catatan Bootstrap.md",
     "PHP/Catatan PHP/Catatan PHP.md",
     "PHP/Catatan PHP",
     "aset.md",
@@ -224,17 +243,6 @@
     "CSS2/Catatan CSS.md",
     "GIT & GITHUB/Catatan GIT & GITHUB.md",
     "CSS2/asetcss/PT.jpg",
-    "CSS2/asetcss/TP.jpg",
-    "GIT & GITHUB/assets/Screenshot_20240428_195216.jpg",
-    "HTML/Select lanjutan/Select Lanjutan.md",
-    "CSS2/asetcss/AP.jpg",
-    "CSS2/asetcss/BT.jpg",
-    "CSS2/asetcss/AT.jpg",
-    "CSS2/asetcss/ACS.jpg",
-    "CSS2/asetcss/ACCS.jpg",
-    "CSS2/asetcss/I.jpg",
-    "CSS2/asetcss/AFI.jpg",
-    "BASIS DATA/Instalasi & Query awal Database.md",
     "GIT & GITHUB/assets",
     "AsetGit/Giv.png.md",
     "AsetGit",
@@ -247,14 +255,8 @@
     "asetCSS/FI.JPG.md",
     "asetCSS/BI.JPG.md",
     "asetCSS/BGH.JPG.md",
-    "asetCSS/BUP.JPG.md",
-    "asetcss/TDU.JPG.md",
-    "asetCSS/TDU.JPG.md",
-    "asetcss/TBU.JPG.md",
     "asetCSS",
     "Bootstrap/Asetb",
-    "CSS2",
-    "Bootstrap",
-    "Bootstrap1"
+    "CSS2"
   ]
 }

@@ -1,11 +1,11 @@
 # Select lanjutan
 ## AND
 ### Struktur
-```
+```mysql
 Select kolom4,kolom5 from [nama_tabel] where kolom warna="isi kolom warna" And kolom pemilik="isi kolom pemilik"
 ```
 ### Contoh
-```
+```mysql
 select warna,pemilik From mobil where warna="Hitam" AND pemilik="Ibrahim";
 ```
 **PENJELASAN**
@@ -19,11 +19,11 @@ Perintah  `SELECT warna, pemilik FROM mobil WHERE warna='Hitam' AND pemilik='Ibr
 
 ## OR
 ### Struktur
-```
+```mysql
 Select kolom4,kolom5 from [nama_tabel] where kolom warna="isi kolom warna" And kolom pemilik="isi kolom pemilik"
 ```
 ### Contoh
-```
+```Mysql 
 select warna,pemilik From mobil where warna="Hitam" or pemilik="Ibrahim";
 ```
 **PENJELASAN**
@@ -37,11 +37,11 @@ select warna,pemilik From mobil where warna="Hitam" or pemilik="Ibrahim";
 
 ## BETWEEN  AND
 ### Struktur
-```
+```mysql
 Select * From nama_tabel where kolom harga_rental between nilai 1 and nilai 2;
 ```
 ### Contoh
-```
+```mysql
 select * from mobil where harga_rental between 100000 and 200000;
 ```
 **PENJELASAN**
@@ -55,11 +55,11 @@ Perintah `SELECT * FROM mobil WHERE harga_rental BETWEEN 100000 AND 200000;` dig
 
 ## NOT BETWEEN
 ### Struktur
-```
+```mysql
 Select * From nama_tabel where kolom harga_rental not between nilai 1 and nilai 2;
 ```
 ### Contoh
-```
+```mysql
 select * from mobil where harga_rental not between 100000 and 200000;
 ```
 **PENJELASAN**
@@ -75,12 +75,12 @@ Perintah `SELECT * FROM mobil WHERE harga_rental BETWEEN 100000 AND 200000;` dig
 
 ## <=
 ### Struktur
-```
+```mysql
 Select * From nama_tabel where kolom harga <= nilai 1
 ```
 
 ### Contoh
-```
+```mysql
 select * from mobil where harga_rental <=50000;
 ```
 **Penjelasan**
@@ -93,11 +93,11 @@ Perintah `SELECT * FROM mobil WHERE harga_rental <= 50000;` digunakan untuk meng
 
 ##  =>
 ### Struktur
-```
+```mysql
 Select * From nama_tabel where kolom harga_rental >= 50000;
 ```
 ### Contoh
-```
+```Mysql
 select * from mobil where harga_rental >=50000;
 ```
 **Penjelasan**
@@ -110,11 +110,11 @@ Perintah `SELECT * FROM mobil WHERE harga_rental >= 50000;` digunakan untuk meng
 
 ##  <> ATAU  !=
 ### Struktur
-```
+```mysql
 Select * From nama_tabel where kolom harga_rental <> nilai 1
 ```
 ### Contoh
-```
+```mysql
 select * from mobil where harga_rental <> 50000;
 Select * from mobil where harga_rental != 50000!;
 ```

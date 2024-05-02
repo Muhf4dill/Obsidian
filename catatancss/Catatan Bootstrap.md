@@ -56,7 +56,7 @@ kita dapat menemukan daftar komponen lengkap dan dokumentasi resmi di situs web 
 # Contoh Penerapan Komponen Bootstrap
 ## Typography
 1. Buka situs resmi Bootstrap di [getboostrap.com](getbootstrap.com)
-	![[btc-1.png]]
+	![gambar](Asetb/btc-1.png) 
 2. Klik "Read the docs". Maka kita akan diarahkan pada halaman web yang berisi berbagai macam Typografi (class Bootstrap).
 	![[btc-2.png]]
 3. Misalnya kita akan membuat sebuah teks quotes seperti di bawah ini:

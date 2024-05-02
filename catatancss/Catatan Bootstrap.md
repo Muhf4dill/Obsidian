@@ -106,11 +106,11 @@ Hasilnya adalah sebagai berikut:
 Untuk bagian "Dea Afrizal" adalah nama seseorang yang mengatakan quotes tersebut dan "Doroboka" adalah sumber dimana orang tersebut mengatakn kata-kata itu. Kata- kata yang dituliskan yaitu berada dalam tag ==`p`== .
 ## Navbar
 1. Bukalah Kembali [getbootstrap.com](getbootstrap.com) lalu ketik "navbar" dikolom "search" dan klik enter
-	![[btc-15.png]]
+	![gambar](Asetb/btc-15.png)
 2. Carilah jenis navbar yang diinginkan.
-	![[btc-16.png]]
+	![gambar](Asetb/btc-16.png)
 3. Jika misalnya kita telah menemukan jenis navbar yang kita inginkan, maka, salinlah kode program yang ada dibawah gambar contoh navbar tersebut
-	![[btc-17.png]]
+	![gambar](Asetb/btc-17.png)
 ```html
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
@@ -146,43 +146,43 @@ Untuk bagian "Dea Afrizal" adalah nama seseorang yang mengatakan quotes tersebut
 
 ```
 4. Tempelkanlah kode program yang terlah kita salin ke dalam tag body di file html kita. Jangan lupa untuk menautkan file html kita dengan bootstrap seperti pada langkah-langkah sebelumnya
-	![[btc-18.png]]
+	![gambar](Asetb/btc-18.png)
 5. Jalankanlah file html yang sudah ditempeli kode program bootstrap tadi melalui web browser. Maka lihatlah hasilnya
-	![[btc-19.png]]
+	![gambar](Asetb/btc-19.png)
 6. Misalnya kita ingin memberikan warna hijau pada background navbar kita. Pertama ketiklah "background" di kolom search
-	![[btc-20.png]]
+	![gambar](Asetb/btc-20.png)
 7. Carilah Warna yang kita inginkan. Misalnya dalam praktek ini adalah warna hijau
-	![[btc-21.png]]
-	![[btc-22.png]]
+	![gambar](Asetb/btc-21.png)
+	![gambar](Asetb/btc-22.png)
 	Terdapat banyak jenis warna dalam bootstrap.
 8. Karena kita ingin mengkostumisasi warna background kita menjadi hijau maka kita akan memakai bg-succes . ketikkan bg-succes pada class tag pembuka seperti di bawah ini
-	![[btc-23.png]]
+	![gambar](Asetb/btc-23.png)
 	*Keterangan*:
 	Karena kita akan memberikan warna background pada navbar maka untuk menerapkannya, langsung terapkan class tag yang membungkus semua eleme-elemen yang ada pada tag tersebut.
 9. Jika sudah maka hasilnya akan seperti ini:
-	![[btc-24.png]]
+	![gambar](Asetb/btc-24.png)
 10. Sekarang kita akan mengubah warna font yang ada pada navbar. Langkah pertama klik "Colors" pada bagian Utilities
-	![[btc-25.png]]
+	![gambar](Asetb/btc-25.png)
 11. Maka kita akan diarahkan pada halaman yang memuat berbagai macam warna font
-	![[btc-26.png]]
+	![gambar](Asetb/btc-26.png)
 12. Carilah warna font yang kita inginkan. Misalnya pada kostumisasi navbar ini. Kita akan menggunakan warna font putih
-	![[btc-27.png]]
+	![gambar](Asetb/btc-27.png)
 13. Karena kita ingin menggunakan warna font putih maka perintah yang digunakan adalah "text-white"
 14. Masuklah kembali ke dalam file html kita
 15. pada bagian class sebuah tag yang membungkus text yang akan kita ganti warna, ketiklah text-white . Contohny ada pada gambar berikut:
-	![[btc-28.png]]
+         ![gambar](Asetb/btc-28.png)
 16. Hasilnya akan terlihat seperti di gambar ini:
-	![[btc-29.png]]
+	![gambar](Asetb/btc-29.png)
 17. Terapkanlah Text-White diseluruh class pada tag yang membungkus text-text itu seperti halnya pada text navbar tadi
-	![[btc-30.png]]
+	![gambar](Asetb/btc-30.png)
 18. Jika file html dijalankan, hasilnya adalah sebagai berikut
-	![[btc-31.png]]
+	![gambar](Asetb/btc-31.png)
 19. Sekarang kita akan mengganti text yang ada di navbar tersebut. Caranya sangat mudah, yaitu cukup kita ganti text-text tadi dengan kata kata yang kita inginkan. Misalnya adalah sebagai berikut:
-	![[btc-32.png]]
+	![gambar](Asetb/btc-32.png)
 20. Maka hasilnya adalah sebagai berikut:
-	![[btc-33.png]]
+	![gambar](Asetb/btc-33.png)
 21. Sekarang kita akan menambahkan kolom search pada navbar kita. pada bagian navbar di [getbootstrap.com](getbootstrap.com) Scroll ke bawah hingga menemukan seperti pada gambar
-	![[btc-34.png]]
+	![gambar](Asetb/btc-34.png)
 22. Salin kodenya lalu tempelkan di bagian bawah kode navbar kita tadi. Jadi jangan disatukan ke dalam kode navbar tadi.
 ```html
 <nav class="navbar bg-body-tertiary">

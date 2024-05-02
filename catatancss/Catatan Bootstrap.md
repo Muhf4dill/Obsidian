@@ -764,12 +764,12 @@ sesudah
 ```html
 <style> #hero { height: 85vh; } </style>
 ```
-![[bf-r3.png]]
+![gambar](Asetb/bf-r3.png) 
 *Keterangan*:
 	 ini mengatur tinggi dari elemen yang memiliki ID `hero` menjadi 85% dari tinggi viewport (viewport height).
 
 18. Hasilnya akan seperti ini:
-	![[bf-13.png]]
+	![gambar](Asetb/bf-13.jpg) 
 19. Sekarang kita akan implementasikan komponen button nya, dapat kita lihat pada desainnya terdapat dua button sejajar secara horizontal, maka kita perlu memakai flexbox yang disediakan oleh bootstrap.
 ```html
 <div class="d-flex gap-4 justify-content-center align-items-center"> <a href="#" class="">Explore Remote Jobs</a> <a href="#" class="">How it works?</a> </div>
@@ -780,7 +780,7 @@ sesudah
 	3. ==`justify-content-center`== digunakan untuk mengatur posisinya konten di tengah bagian horizontal.
 	4. ==`align-items-center`== digunakan untuk mengatur posisinya konten di tengah bagian vertikal.
 
-![[bf-14.png]]
+![gambar](Asetb/bf-14.jpg) 
 20. Selanjutnya kita perlu beri space dari setiap buttonnya, dan beri warna pada button sebelah kiri
 ```html
 <div class="d-flex gap-4 justify-content-center align-items-center"> <a href="#" class="p-2 px-3 text-decoration-none bg-primary rounded-5 text-white shadow-sm ">Explore Remote Jobs</a> <a href="#" class="p-2 px-3 text-primary rounded-5 fw-semibold">How it works?</a> </div>
@@ -796,14 +796,14 @@ sesudah
 	8. ==`fw-semibold`== digunakan untuk mengatur font teks dengan berat font yang semibold.
 	9. ==`text-primary`== digunakan untuk mengatur warna teks pada tautan. Class ini menambahkan stil yang membuat warna teks tautan berwarna hitam.
 
-![[bf-15.png]]
+![gambar](Asetb/bf-15.jpg) 
 21. Sekarang kita akan mengganti background body nya
 ```html
 <style> body { background-color: #F6FAFF; background-image: linear-gradient(90deg, #0500FF 0%, #F8FB76 35%, #4EFF75 64%, #00FFD1 100%); background-blend-mode: overlay; } </style>
 ```
-![[bf-r4.png]]
+![gambar](Asetb/bf-r4.png) 
 22. Hasilnya akan seperti ini:
-	![[bf-16.png]]
+	![gambar](Asetb/bf-16.jpg) 
 # Best Practices dan Tips
 ## Gunakan Grid Sistem:
 Manfaatkan grid sistem Bootstrap untuk mengatur tata letak (layout) situs Anda dengan baik. Gunakan kelas-kelas seperti `container`, `row`, dan `col` untuk membagi konten Anda menjadi bagian-bagian yang sesuai.

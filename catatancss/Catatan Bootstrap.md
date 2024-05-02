@@ -58,13 +58,13 @@ kita dapat menemukan daftar komponen lengkap dan dokumentasi resmi di situs web 
 1. Buka situs resmi Bootstrap di [getboostrap.com](getbootstrap.com)
 	![gambar](Asetb/btc-1.png) 
 2. Klik "Read the docs". Maka kita akan diarahkan pada halaman web yang berisi berbagai macam Typografi (class Bootstrap).
-	![[btc-2.png]]
+	![gambar](Asetb/btc-2.png)
 3. Misalnya kita akan membuat sebuah teks quotes seperti di bawah ini:
-	![[btc-3.png]]
+	![gambar](Asetb/btc-3.png)
 4. Ketikan "Typography" di kolom search lalu enter. Maka kita akan masuk ke halaman berikut:
-	![[btc-4.png]]
+	![gambar](Asetb/btc-4.png)
 5. Carilah Subbab "Alignment":
-	![[btc-5.png]]
+	![gambar](Asetb/btc-5.png)
 6. Salinlah kode yang tertera, lalu tempelkan di tag body pada halaman html yang telah kita hubungkan dengan Bootstrap kita
 ```html
 <figure class="text-center">
@@ -77,9 +77,9 @@ Someone famous in
 </figcaption>
 </figure>
 ```
-![btc-6.png](btc-6.png)
+![gambar](Asetb/btc-6.png)
 7. Hasilnya akan terlihat seperti berikut:
-	![[btc-7.png]]
+	![gambar](Asetb/btc-7.png)
 8. Kita bisa mengganti kata kata nya dengan cara mengganti teks yang ada di dalam tag p dan untuk teks kecil bagian bawah kita ganti pada bagian dalam tag figcaption
 ```html
 <figure class="text-center">
@@ -95,7 +95,7 @@ Someone famous in
 </figure>
 ```
 Hasilnya adalah sebagai berikut:
-![[btc-8.png]]
+![gambar](Asetb/btc-8.png)
 *Keterangan :*
 1. ==`text-center`== pada ==`<figure>`==: Kelas ini diterapkan pada elemen ==`<figure>`== , yang mengakibatkan kontennya, termasuk elemen ==`<blockquote>`== dan ==`<figcaption>`== , akan diatur menjadi ketengah halaman maupun kontainer.
 2. blockquote pada ==`<blockquote>`== : Kelas ini memberikan gaya khusus pada elemen ==`<blockquote>`== . Elemen ini digunakan untuk merinci sebuah kutipan atau teks yang dianggap signifikan. Penggunaan kelas ini dari Bootstrap mungkin memberikan tampilan tertentu, seperti memodifikasi gaya margin atau padding, untuk memberikan estetika yang lebih baik.

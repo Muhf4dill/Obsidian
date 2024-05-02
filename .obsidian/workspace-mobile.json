@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TugasUlangan/Tugas.md",
+                "file": "Responsive/Catatan responsive.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TugasUlangan/Tugas.md",
+            "file": "Responsive/Catatan responsive.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TugasUlangan/Tugas.md",
+            "file": "Responsive/Catatan responsive.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TugasUlangan/Tugas.md"
+            "file": "Responsive/Catatan responsive.md"
           }
         }
       },
@@ -210,15 +210,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9959f1c36237f74f",
+  "active": "7b67ee7d2a1b1a17",
   "lastOpenFiles": [
+    "TugasUlangan/Tugas.md",
+    "test.txt",
     "Remedial CSS/AsetR/BR.jpg",
     "Remedial CSS/AsetR/R.jpg",
     "Remedial CSS/Tugas.md",
     "TugasUlangan/AsetR/BR.jpg",
     "TugasUlangan/AsetR/R.jpg",
     "TugasUlangan/AsetR",
-    "TugasUlangan/Tugas.md",
     "TugasUlangan",
     "Aset.md",
     "BASIS DATA/Instalasi & Query awal Database.md",
@@ -255,7 +256,6 @@
     "asetCSS/TRANS.JPG.md",
     "asetcss/B.JPG.md",
     "asetCSS/PA.JPG.md",
-    "asetCSS/FI.JPG.md",
-    "asetCSS"
+    "asetCSS/FI.JPG.md"
   ]
 }

@@ -298,5 +298,6 @@ body {
 
 ```
 ### Hasil
-![gambar](AsetR/BR.JPG)
-![gambar](AsetR/R.JPG)
+![gambar](AsetR/BR.jpg)
+
+![gambar](AsetR/R.jpg)

@@ -206,41 +206,41 @@ Untuk bagian "Dea Afrizal" adalah nama seseorang yang mengatakan quotes tersebut
 7. ==`btn`== dan ==`btn-outline-success`== : Kelas ini memberikan gaya pada elemen ==`<button>`== . Kelas btn mengindikasikan bahwa ini adalah elemen tombol Bootstrap, sedangkan btn-outline-success memberikan gaya tombol dengan warna tepi hijau ("success" dalam Bootstrap).
 8. ==`type="submit"`== pada tombol: Ini menentukan bahwa tombol tersebut bertindak sebagai tombol submit dalam formulir. Ketika ditekan, formulir akan dikirim.
 9. Maka hasilnya adalah seperti berikut:
-	![[btc-36.png]]
+	![gambar](Asetb/btc-36.png)
 10. Untuk membuat agar navbar tersebut terlihat menyatu, berikan background-color yang sama pada navbar diatasnya, yaitu menggunakan kode bg-succes . Letakkan di class tag yang membungkus seluruh elemen search tadi.
-	![[btc-37.png]]
-11. Maka hasil yang muncul akan seperti ini
-	![[btc-38.png]]
+	![gambar](Asetb/btc-37.png)
+12. Maka hasil yang muncul akan seperti ini
+	![gambar](Asetb/btc-38.png)
 ## Buttons
 Pada praktek sebelumnya kita sudah mengatur navbar dan juga menambahkan kolom search. Namun ada masalah dengan tombolnya. Karena tombolnya memiliki warna yang sama dengan warna background yang digunakan yaitu hijau, Maka tombol tersebut tidak terlihat akibat warnanya menyatu. Pada bagian kali kita akan membahas cara mengatur sebuah tombol di bootstrap. Berikut caranya:
 
 1. Permasalahan tadi ialah background color tombolnya yang menyatu dengan warna backgriund navbarnya. Untuk mengatur warna tombol, pertama di situs getbootstrap.com, carilah bagian "buttons" di Components
-	![[btc-39.png]]
+	![gambar](Asetb/btc-39.png)
 2. Jika sudah menemukan klik bagian tersebut, maka kita akan diarahkan pada bagian buttons seperti pada gambar
-	![[btc-40.png]]
+	![gambar](Asetb/btc-40.png)
 3. Scroll lah ke bawah hingga menemukan bagian "Outlines Buttons"
-	![[btc-41.png]]
+	![gambar](Asetb/btc-41.png)
 4. Saat ini kita akan menggunakan jenis warna putih agar tidak lagi menyatu dengan warna background navabrnya. Pada outline buttons yang berwarna putih, tertulis "Light". Oleh karena itu salinlah kode program yang ada tulisan "Light".
 ```html
 <button type="button" class="btn btn-outline-light">Light</button>
 ```
 5. Blok lah terlebih dahulu kode program yang mengatur tombol pada bagian search tadi
-	![[btc-42.png]]
+	![gambar](Asetb/btc-42.png)
 6. Tempelkanlah kode program outline light, untuk menggantikan kode program button yang lama
-	![[btc-43.png]]
+	![gambar](Asetb/btc-43.png)
 7. Maka hasilnya akan bagus seperti pada gambar dibawah ini:
-	![[btc-44.png]]
+	![gambar](Asetb/btc-44.png)
 8. Ubahlah Text "Light" menjadi "Search"
-	![[btc-45.png]]
+	![gambar](Asetb/btc-45.png)
 9. Maka hasilnya akan seperti ini:
-	![[btc-46.png]]
+	![gambar](Asetb/btc-46.png)
 ## Cards dan Form
 Sekarang kita akan membuat sebuah form, dimana form tersebut kita asumsikan sebagai login page dari web kita tadi. Dalam pembuatan form login ini, kita akan menggunakan cards sebagai layout/tata letak yang akan mengatur form login tadi. Berikut langkah-langkahnya:
 
 1. Yang pertama kita tentunya harus menentukan layout cards nya terlebih dahulu. Hal ini bertujuan agar jika tata letak card sudah ada, maka kita tinggal mengatur form nya di dalam card tadi. Masuk ke situs bootstrap tadi lalu pilih cards
-	![[btc-47.png]]
+	![gambar](Asetb/btc-47.png)
 2. Scrol ke bawah hingga menemukan layout yang kita inginkan, misalnya seperti pada gambar:
-	![[btc-48.png]]
+	![gambar](Asetb/btc-48.png)
 3. Pada bagian bawah contoh, terdapat kode program. Salinlah kode program tersebut
 ```html
 <div class="card">
@@ -256,7 +256,7 @@ Sekarang kita akan membuat sebuah form, dimana form tersebut kita asumsikan seba
 ```
 4. Tempelkanlah kode program itu pada halaman html terkait. Tentu saja dengan bootstrap yang sudah ditautkan, baik offline, maupun online.
 5. Maka hasil awalnya adalah sebagai berikut:
-	![[btc-49.png]]
+	![gambar](Asetb/btc-49.png)
 6. karena jarak atas antara card dengan batas website terlalu dekat maka pada class card tambahkan mt-2 .
 ```html
 <div class="card mt-2">
@@ -271,7 +271,7 @@ Sekarang kita akan membuat sebuah form, dimana form tersebut kita asumsikan seba
 </div>
 ```
 7. Maka hasilnya adalah seperti ini:
-	![[btc-50.png]]
+	![gambar](Asetb/btc-50.png)
 8. Sekarang kita ingin membuatnya terlihat ke tengah. Maka buatlah sebuah div dengan class yaitu "container", lalu salin masuklah kode program card tadi. Dengan kata lain, bungkuslah kode program card dengan sebuah div dengan class="container".
 ```html
 <div class="container">
@@ -288,9 +288,9 @@ Sekarang kita akan membuat sebuah form, dimana form tersebut kita asumsikan seba
 </div>
 ```
 9. Berikut hasil dari di bungkusnya cards tadi.
-	![[btc-51.png]]
+	![gambar](Asetb/btc-51.png)
 10. Sekarang kita akan membuat form nya. Pertama-tama, kita perlu membuat judul form. Caranya adalah ganti tulisan "Featured" di html kita dengan kata yang kita inginkan. misalnya pada program ini kita akan mengganti tulisan menjadi "Form Login".
-	![[btc-10.png]]
+	![gambar](Asetb/btc-10.png)
 ```html
 <div class="container">
     <div class="card mt-2">
@@ -325,7 +325,7 @@ Sekarang kita akan membuat sebuah form, dimana form tersebut kita asumsikan seba
 		- Lebar ==`container-fluid`== disesuaikan dengan lebar layar pengguna, sehingga konten dapat memanfaatkan seluruh lebar tampilan tanpa batasan piksel tertentu.
 		- Digunakan ketika Anda ingin membuat tata letak yang menyesuaikan diri dengan lebar layar dan memberikan tampilan responsif.
 11. Hasilnya adalah sebagai berikut
-	![[btc-9.png]]
+	![gambar](Asetb/btc-9.png)
 12. Sekarang pada bagian dalam div card-body hapus semua elemen yang ada didalamnya kecuali button:
 ```html
 <div class="container">
@@ -340,9 +340,9 @@ Sekarang kita akan membuat sebuah form, dimana form tersebut kita asumsikan seba
 </div>
 ```
 13. Hasilnya akan seperti ini
-	![[btc-11.png]]
+	![gambar](Asetb/btc-11.png)
 14. Langkah selanjutnya adalah menambahkan elemen-elemen form ke dalam card-body untuk membuat formulir login. Anda dapat menggunakan elemen-elemen HTML seperti form , input , dan button untuk ini. bukalah kembali getbootstrap.com dan pilihlah form yang kita inginkan:
-	![[btc-12.png]]
+	![gambar](Asetb/btc-12.png)
 15. Salinlah kode program dibawah contoh forms tadi:
 ```html
 <form>

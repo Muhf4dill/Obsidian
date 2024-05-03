@@ -1,4 +1,4 @@
-# Pengenalan Bootstrap
+jnji# Pengenalan Bootstrap
 ## Apa Itu Bootstrap?
 Bootstrap adalah salah satu dari banyak framework front-end yang ada di web development. Framework-front end menyediakan serangkaian alat dan gaya bawaan untuk mempercepat proses pengembangan web dengan menyediakan komponen-komponen UI siap pakai dan sistem grid yang responsif. Bootstrap khususnya, terkenal dengan kemampuannya dalam menciptakan tata letak yang responsif dan komponen-komponen UI yang seragam.
 # Instalasi Bootstrap

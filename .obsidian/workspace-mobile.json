@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALTER/CATATAN ALTER.md",
+                "file": "catatancss/Catatan responsive.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ALTER/CATATAN ALTER.md",
+            "file": "catatancss/Catatan responsive.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ALTER/CATATAN ALTER.md",
+            "file": "catatancss/Catatan responsive.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ALTER/CATATAN ALTER.md"
+            "file": "catatancss/Catatan responsive.md"
           }
         }
       },
@@ -212,12 +212,13 @@
   },
   "active": "7b67ee7d2a1b1a17",
   "lastOpenFiles": [
-    "ALTER/Asetalter/Alter.jpg",
-    "ALTER/CATATAN ALTER.md",
-    "Catatan HTML/Belajar HTML.md",
-    "BASIS DATA/Rangkuman basis data/Select Lanjutan.md",
-    "Catatan HTML/Rangkuman HTML/Pertemuan_1.md",
     "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+    "BASIS DATA/Rangkuman basis data/Select Lanjutan.md",
+    "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.md",
+    "ALTER/CATATAN ALTER.md",
+    "ALTER/Asetalter/Alter.jpg",
+    "Catatan HTML/Belajar HTML.md",
+    "Catatan HTML/Rangkuman HTML/Pertemuan_1.md",
     "HTML/Select lanjutan/Select Lanjutan.md",
     "CSS2/Catatan CSS.md",
     "catatancss/Catatan CSS.md",
@@ -231,13 +232,11 @@
     "Ekplorasi CSS/AsetTailwind/Screenshot 2024-04-15 141823.png",
     "Ekplorasi CSS/AsetTailwind/Screenshot 2024-04-15 132830.png",
     "Ekplorasi CSS/AsetTailwind/Screenshot 2024-04-15 132539 1.png",
-    "Ekplorasi CSS/AsetTailwind/Screenshot 2024-04-15 132539.png",
     "Ekplorasi CSS/AsetTailwind",
     "A.md",
     "Ekplorasi CSS",
     "Catatan HTML/Rangkuman HTML/Pengenalan Web.md",
     "Catatan HTML/Rangkuman HTML/Deskripsi.md",
-    "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.md",
     "BASIS DATA/Rangkuman basis data/Instalasi & Query awal Database.md",
     "Asetb(.md",
     "catatancss/Catatan Bootstrap.md",

@@ -15,7 +15,7 @@ select warna,pemilik From mobil where warna="Hitam" AND pemilik="Ibrahim";
 **KESIMPULAN**
 Perintah  `SELECT warna, pemilik FROM mobil WHERE warna='Hitam' AND pemilik='Ibrahim';` digunakan untuk mengambil informasi tentang mobil yang memiliki warna ``"Hitam"`` dan dimiliki oleh `"Ibrahim"`. 
 
-![gambar](AND.BS.jpg)
+![gambar](assets/AND.BS.jpg)
 
 ## OR
 ### Struktur
@@ -33,7 +33,7 @@ select warna,pemilik From mobil where warna="Hitam" or pemilik="Ibrahim";
 **KESIMPULAN**
  Perintah  `SELECT warna, pemilik FROM mobil WHERE warna='Hitam' AND pemilik='Ibrahim';` digunakan untuk mengambil informasi tentang mobil yang memiliki warna ``"Hitam"`` dan dimiliki oleh `"Ibrahim"`. 
 
-![gambar](OR.BS.jpg)
+![gambar](assets/OR.BS.jpg)
 
 ## BETWEEN  AND
 ### Struktur
@@ -51,7 +51,7 @@ select * from mobil where harga_rental between 100000 and 200000;
 - `WHERE harga_rental BETWEEN 100000 AND 200000`: adalah bagian dari pernyataan `WHERE`  yang memberikan kriteria untuk data yang akan dipilih. Kriteria tersebut adalah kolom `harga_rental` yang berada kisaran antara `100.000 dan 200.000`.
 **KESIMPULAN**
 Perintah `SELECT * FROM mobil WHERE harga_rental BETWEEN 100000 AND 200000;` digunakan untuk mengambil semua kolom dari `tabel mobil`di mana nilai kolom `harga_rental` yang berada kisaran antara `100.000` dan `200.000.`
-![Gambar](BTWN..jpg)
+![Gambar](assets/BTWN..jpg)
 
 ## NOT BETWEEN
 ### Struktur
@@ -71,7 +71,7 @@ Perintah `SELECT * FROM mobil WHERE harga_rental BETWEEN 100000 AND 200000;` dig
 
 
 
-![gambar](NBTWN..jpg)
+![gambar](assets/NBTWN..jpg)
 
 ## <=
 ### Struktur
@@ -89,7 +89,7 @@ select * from mobil where harga_rental <=50000;
 - `WHERE harga_rental <= 50000`: adalah bagian dari pernyataan `WHERE` yang memberikan kriteria data yang akan dipilih. Kriteria tersebut adalah kolom `harga_mobil` kurang atau sama dengan `50.000`.
 **Kesimpulan**
 Perintah `SELECT * FROM mobil WHERE harga_rental <= 50000;` digunakan untuk mengambil semua data dari tabel `mobil` di mana harga rental mobil kurang dari atau sama dengan `50.000`.
-![Gambar](LB..jpg)
+![Gambar](assets/LB..jpg)
 
 ##  =>
 ### Struktur
@@ -106,7 +106,7 @@ select * from mobil where harga_rental >=50000;
 - `WHERE harga_rental >= 50000`: adalah bagian dari pernyataan `WHERE` yang memberikan kriteria data yang akan dipilih. Kriteria tersebut adalah kolom `harga_rental` lebih besar dari atau sama dengan `50.000`.
 **Kesimpulan**
 Perintah `SELECT * FROM mobil WHERE harga_rental >= 50000;` digunakan untuk mengambil semua data dari tabel `mobil` di mana harga rental mobil lebih besar dari atau sama dengan `50.000`.
-![gambar](LK..jpg)
+![gambar](assets/LK..jpg)
 
 ##  <> ATAU  !=
 ### Struktur
@@ -128,16 +128,16 @@ Select * from mobil where harga_rental != 50000!;
 - `WHERE harga_rental != 50000`: adalah cara lain untuk menyatakan kriteria yang sama dengan pernyataan sebelumnya. `Operator !=` digunakan untuk menunjukkan ketidaksamaan, sehingga menampilkan data kolom `harga_rental` tidak sama dengan `50.000`.
 **Kesimpulan**
 Kesimpulan dari kedua pernyataan tersebut adalah bahwa hasilnya  berisi semua informasi tentang `mobil` yang memiliki `harga_rental` tidak sama dengan `50.000`.
-![Gambar](LK.LB..jpg)
+![Gambar](assets/LK.LB..jpg)
 
 
 ## Tantangan
 ### Struktur
-```
+```Mysql
 select pemilik from nama_tabel where no_plat=" Nilai no_plat";
 ```
 ### Contoh
-```
+```mysql
 select pemilik from mobil where no_plat ="DD 2650 XY";
 ```
 **Penjelasan**
@@ -148,7 +148,7 @@ select pemilik from mobil where no_plat ="DD 2650 XY";
 Perintah `SELECT pemilik FROM mobil WHERE no_plat = DD 2650 XY `; digunakan untuk mengambil nama `pemilik_ mobil` dari tabel `mobil` di mana `nomor plat mobil`adalah `DD 2650 XY`.
 
 **Hasil**
-![Gambar](TTN.jpg)
+![Gambar](assets/TTN.jpg)
 
 
 ## IN 

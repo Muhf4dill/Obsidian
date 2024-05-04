@@ -34,7 +34,7 @@ Tabel diatas memiliki
 - item data atau field isi dari tabel yang di buat contoh nya 
   Tabel pemain  Barca item data dalam kolom pemain barca yaitu Messi.
 
-![gambar](assets/F.D.L.JPG)
+![gambar](assets/F.D.L.jpg) 
 ## Pengertian 
 - Field adalah bagian terkecil dari sebuah record yang menyimpan data spesifik atau atribut tertentu. 
 - Record  adalah kumpulan nilai atau informasi yang terkait satu sama lain dan mewakili satu entitas tunggal. 

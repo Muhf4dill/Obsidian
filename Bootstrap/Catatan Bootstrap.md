@@ -717,7 +717,8 @@ Demikianlah kostumisasi template bootstrap ini. Kesimpulanya kita dapat menggant
 ```html
 <form class="d-flex" role="search"> <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" /> <button class="btn btn-outline-success" type="submit">Search</button> </form>
 ```
-![[bf-r1.png]]
+![gambar](Asetb/bf-r1.png)
+
 8. Hasilnya akan seperti ini:
 	  ![gambar](Asetb/bf-5.png) 
  
@@ -745,14 +746,16 @@ Demikianlah kostumisasi template bootstrap ini. Kesimpulanya kita dapat menggant
 ![gambar](Asetb/bf-7.png) 
 
 11. Selanjutnya ganti background navbarnya dari `bg-body-tertiary` menjadi transparan dengan menggunakan class `bg-trasnparent`
-![[bf-r2.png]]
-	![gambar](Asetb/bf-8.png) 
-12. Sekarang kita akan menengahkan list navbarnya dengan menggunakan class `m-auto`
+![gambar](Asetb/bf-r2.png)
+
+![gambar](Asetb/bf-8.png) 
+1. Sekarang kita akan menengahkan list navbarnya dengan menggunakan class `m-auto`
 
 sebelum
-![[bf-9.png]]
+![gambar](Asetb/bf-9.png)
 sesudah
-![[bf-10.png]]
+![gambar](Asetb/bf-10.png)
+
 13. Hasilnya akan seperti ini:
 	![gambar](Asetb/bf-11.png) 
 14. Sekarang kita akan implementasikan komponen hero section, tuliskan kode berikut.
@@ -777,7 +780,8 @@ sesudah
 ```html
 <style> #hero { height: 85vh; } </style>
 ```
-![[bf-r3.png]]
+![gambar](Asetb/bf-r3.png)
+
 *Keterangan*:
 	 ini mengatur tinggi dari elemen yang memiliki ID `hero` menjadi 85% dari tinggi viewport (viewport height).
 
@@ -793,7 +797,7 @@ sesudah
 	3. ==`justify-content-center`== digunakan untuk mengatur posisinya konten di tengah bagian horizontal.
 	4. ==`align-items-center`== digunakan untuk mengatur posisinya konten di tengah bagian vertikal.
 	
-![gambar](Asetb/bf-14.png) 
+![gambar](Asetb/bf-14.png)
 
 20. Selanjutnya kita perlu beri space dari setiap buttonnya, dan beri warna pada button sebelah kiri
 ```html
@@ -810,13 +814,15 @@ sesudah
 	8. ==`fw-semibold`== digunakan untuk mengatur font teks dengan berat font yang semibold.
 	9. ==`text-primary`== digunakan untuk mengatur warna teks pada tautan. Class ini menambahkan stil yang membuat warna teks tautan berwarna hitam.
 
-![gambar](Asetb/bf-15.png) 
+![gambar](Asetb/bf-15.png)
 
 21. Sekarang kita akan mengganti background body nya
 ```html
 <style> body { background-color: #F6FAFF; background-image: linear-gradient(90deg, #0500FF 0%, #F8FB76 35%, #4EFF75 64%, #00FFD1 100%); background-blend-mode: overlay; } </style>
 ```
-![[bf-r4.png]]
+
+![gambar](Asetb/bf-r4.png)
+
 22. Hasilnya akan seperti ini:
 	![gambar](Asetb/bf-16.png) 
 # Best Practices dan Tips

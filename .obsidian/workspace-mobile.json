@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Responsive/Catatan responsive.md",
+                "file": "catatancss/Catatan Bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Responsive/Catatan responsive.md",
+            "file": "catatancss/Catatan Bootstrap.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Responsive/Catatan responsive.md",
+            "file": "catatancss/Catatan Bootstrap.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Responsive/Catatan responsive.md"
+            "file": "catatancss/Catatan Bootstrap.md"
           }
         }
       },
@@ -212,50 +212,50 @@
   },
   "active": "7b67ee7d2a1b1a17",
   "lastOpenFiles": [
+    "catatancss/Catatan responsive.md",
+    "catatancss/AssetRes/res-3.png",
+    "catatancss/AssetRes/res-2.png",
+    "catatancss/AssetRes/responsive-1.png",
+    "catatancss/AssetRes",
+    "catatancss/Catatan Bootstrap.md",
+    "Bootstrap/Catatan Bootstrap.md",
+    "Responsive/ASETCSS(1)/responsive-1.png.md",
+    "Responsive/ASETCSS(1)",
+    "GIT & GITHUB/Catatan GIT & GITHUB.md",
+    "CSS2/Catatan CSS.md",
+    "catatancss/Catatan CSS.md",
+    "Responsive/AssetRes/res-3.png",
+    "Responsive/AssetRes/res-2.png",
+    "Responsive/AssetRes/responsive-1.png",
+    "Responsive/AssetRes",
+    "ALTER/CATATAN ALTER.md",
+    "Responsive/Catatan responsive.md",
+    "Asetb(.md",
+    "ALTER/Asetalter/Balter.jpg",
+    "ALTER/Asetalter/QT.jpg",
+    "ALTER/Asetalter/AMK.jpg",
+    "ALTER/Asetalter/MMC.jpg",
     "TugasUlangan/Tugas.md",
     "test.txt",
-    "Remedial CSS/AsetR/BR.jpg",
-    "Remedial CSS/AsetR/R.jpg",
     "Remedial CSS/Tugas.md",
-    "TugasUlangan/AsetR/BR.jpg",
-    "TugasUlangan/AsetR/R.jpg",
     "TugasUlangan/AsetR",
     "TugasUlangan",
     "Aset.md",
     "BASIS DATA/Instalasi & Query awal Database.md",
     "Remedial CSS",
     "HTML/Select lanjutan/Select Lanjutan.md",
-    "ALTER/CATATAN ALTER.md",
-    "ALTER/Asetalter/MNT.jpg",
     "Asetb/bf-2.jpg.md",
     "AselAlter/MNT.JPG.md",
     "AselAlter",
-    "ALTER/Asetalter/MK.jpg",
-    "ALTER/Asetalter/MTDK.jpg",
-    "ALTER/Asetalter/Ralter.jpg",
-    "ALTER/Asetalter/Balter.jpg",
-    "ALTER/Asetalter/IMG_20240429_223709.jpg",
     "PHP/CATATAN PHP.md",
-    "Bootstrap/Catatan Bootstrap.md",
     "PHP/Catatan PHP/Catatan PHP.md",
     "PHP/Catatan PHP",
     "aset.md",
     "PHP",
     "Asetb/btn-27.png.md",
-    "Asetb",
-    "Responsive/Catatan responsive.md",
     "Semantic HTML/Catatan SEMANTIC HTML.md",
-    "CSS2/Catatan CSS.md",
-    "GIT & GITHUB/Catatan GIT & GITHUB.md",
-    "GIT & GITHUB/assets",
     "AsetGit/Giv.png.md",
-    "AsetGit",
     "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
-    "asetCSS/B.JPG.md",
-    "asetCSS/AC.JPG.md",
-    "asetCSS/TRANS.JPG.md",
-    "asetcss/B.JPG.md",
-    "asetCSS/PA.JPG.md",
-    "asetCSS/FI.JPG.md"
+    "asetCSS/B.JPG.md"
   ]
 }

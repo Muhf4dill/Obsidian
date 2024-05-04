@@ -2,23 +2,34 @@
 ## Menambahkan Kolom
 ### Struktur Query
 ```
-ALTER TABLE nama_tabel ADD nama_kolom yang di tambahkan type(10) AFTER nama_kolom_tabel
+ALTER TABLE nama_table ADD nama_kolom_baru varchar(10) AFTER nama_kolom_lama;
 ```
-Query tambahan
-```
- UPDATE mobil SET batas_peminjaman='2024-04-24' WHERE peminjaman IS NOT NULL;
-```
+
 ### Contoh
 ```
 ALTER TABLE mobil ADD batas_peminjaman VARCHAR(10) AFTER peminjam;
 ```
 ### Penjelasan
+- `ALTER TABLE mobil`: Perintah untuk mengubah struktur tabel `mobil`.
+- `ADD batas_peminjaman varchar(10)`: Menambahkan kolom baru dengan nama `batas_peminjaman` yang memiliki tipe data `varchar(10)`.
+- `AFTER peminjam`: Menentukan bahwa kolom baru akan ditambahkan setelah kolom `peminjam` dalam struktur tabel.
 ### Kesimpulan
-
-
+`ALTER TABLE mobil ADD batas_peminjaman VARCHAR(10) AFTER peminjam;` digunakan untuk menambahkan kolom baru bernama `batas_peminjaman` dengan tipe data VARCHAR(10) ke tabel `mobil`, diletakkan setelah kolom `peminjam`.
 ### Hasil 
 ![gambar](AsetAlter/Alter.JPG)
-![gambar](AsetAlter/Balter.JPG)
+![Gambar](AsetAlter/AMK.JPG)
+## Query Tambahan
+```
+ UPDATE mobil SET batas_peminjaman='2024-04-24' WHERE peminjaman IS NOT 
+```
+### Penjelasan
+- `UPDATE mobil`: adalah perintah untuk memperbarui data dalam tabel `mobil`.
+- `SET batas_peminjaman='2024-04-24'`: menetapkan nilai '2024-04-24' ke kolom batas_peminjaman untuk baris yang sesuai dengan kondisi yang diberikan.
+- `WHERE peminjaman IS NOT NULL`: adalah klausa WHERE yang menentukan kondisi untuk baris yang akan diperbarui. Dalam hal ini, hanya baris di mana nilai kolom peminjaman tidak NULL yang akan diperbarui.
+### Kesimpulan
+`UPDATE mobil SET batas_peminjaman='2024-04-24' WHERE peminjaman IS NOT NULL`; digunakan untuk memperbarui nilai kolom batas_peminjaman menjadi '2024-04-24' untuk semua baris di tabel mobil di mana nilai kolom peminjaman tidak NULL. 
+### Hasil
+![gambar](AsetAlter/QT.JPG)
 ## Mengubah Nama kolom
 ### Struktur Query
 ```
@@ -69,7 +80,7 @@ ALTER deadline SET DEFAULT Ready;
 ### Kesimpulan
 `ALTER TABLE mobil ALTER deadline SET DEFAULT 'Ready';` digunakan untuk menetapkan nilai default 'Ready' pada kolom deadline dalam tabel mobil. 
 ### Hasil 
-
+![gambar](AsetAlter/MC.JPG)
 ## Menghapus Constraints
 ### Struktur Query
 ```
@@ -87,6 +98,7 @@ ALTER deadline DROP DEFAULT ;
 ### Kesimpulan
 `ALTER TABLE mobil ALTER deadline DROP DEFAULT;` digunakan untuk menghapus nilai default dari kolom `deadline`dalam tabel `mobil`. 
 ### Hasil 
+![gambar](AsetAlter/MMC.JPG)
 ## Menghapus Kolom
 ### Struktur Query
 ```

@@ -38,5 +38,3 @@ Background-color:White;
 
 
 ![gambar](Aset/Foto.png)
-
-

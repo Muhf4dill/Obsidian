@@ -1,4 +1,4 @@
-![gambar](HCJ.jpg) 
+![gambar](Aset/HCJ.jpg)
 # HTML
 
 Gambar pertama mengibaratkan HTML di mana cuma  berbentuk pondasi sama dengan HTML cuma berbentuk struktur belum ada warna atau memberikan interaksi.

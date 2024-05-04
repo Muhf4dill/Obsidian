@@ -25,7 +25,7 @@ Contoh diatas, yang ingin di modifikasi adalah seluruh tag `<p>` pada komponen w
 Contoh lain, yang ingin dimodifikasi adalah seluruh jendela pada komponen kusennya menjadi terbuka. 
 **Hasil**
 ![gambar](asetCSS/ACCS.JPG)
-![gambar](asetcss/ACS.JPG)
+![gambar](asetCSS/ACS.JPG)
 
 # Percobaan Pertama
 ## Penjelasan
@@ -56,7 +56,7 @@ Contoh lain, yang ingin dimodifikasi adalah seluruh jendela pada komponen kusenn
 
 ```
 ### Hasil
-![gambar](asetcss/Merah.JPG)
+![gambar](asetCSS/Merah.JPG)
 #  Percobaan Kedua
 ## Kode CSS
 ```
@@ -70,24 +70,24 @@ margin-top :50px;
 ```
 ## Color
 ### Before
-![gambar](asetcss/BW.JPG)
+![gambar](asetCSS/BW.JPG)
 ### After 
 
-![gambar](asetcss/AW.jpg)Color adalah memberikan warna kepada tulisan yang dimana sebelum di kasih color atau warna tulisan nya berwarna hitam. setelah dikasih color atau warna tulisan klik aku berwarna putih
+![gambar](asetCSS/AW.jpg)Color adalah memberikan warna kepada tulisan yang dimana sebelum di kasih color atau warna tulisan nya berwarna hitam. setelah dikasih color atau warna tulisan klik aku berwarna putih
 ## TEXT-ALIGN
 
 ### Before
-![gambar](asetcss/BW.jpg)
+![gambar](asetCSS/BW.jpg)
 ### After 
 
-![gambar](asetcss/TR.jpg)
+![gambar](asetCSS/TR.jpg)
 Text-align adalah memberikan perataan kepada teks dimana saat kita menggunakan text-align = right  membuat posisi teks lebih ke samping kanan. 
 ## margin-top 
 ### Before
-![Gambar](asetcss/BW.JPG)
+![Gambar](asetCSS/BW.JPG)
 ### After
 
-![gambar](asetcss/AM.JPG)
+![gambar](asetCSS/AM.JPG)
 Margin top digunakan untuk menentukan jarak antara batas atas suatu elemen dengan elemen di atasnya.
 
 # Pemanggilan CSS
@@ -271,9 +271,9 @@ Memeberikan warna hijau pada teks ini warna hijau menggunakan elemen `id`.
 ```
 ### Hasil
 **Before**
-![gambar](asetcss/TBC.JPG)
+![gambar](asetCSS/TBC.JPG)
 **After**
-![gambar](asetcss/TAC.JPG)
+![gambar](asetCSS/TAC.JPG)
 ### Kesimpulan
 Selamat datang" yang terdapat dalam elemen `<p>` akan diatur menjadi rata tengah secara horizontal di dalam elemen tersebut, karena properti CSS text-align: center; diterapkan pada elemen `<p>`. 
 
@@ -296,7 +296,7 @@ text-decoration : underline;
 **Before**
 ![gambar](asetCSS/TAC.JPG)
 **After**
-![gambar](asetcss/BTU.JPG)
+![gambar](asetCSS/BTU.JPG)
 ### Kesimpulan
 Selamat datang" Dan Terima kasih yang terdapat dalam elemen `<p>` akan membuat tulisan mempunyai garis bawah di teks. karena properti CSS text-decoration : underline ; diterapkan pada elemen `<p>`. 
 
@@ -323,7 +323,7 @@ p{
 **Before**
 ![gambar](asetCSS/BTU.JPG)
 **After**
-![gambar](asetcss/ATU.JPG)
+![gambar](asetCSS/ATU.JPG)
 ### Kesimpulan
 teks yang ada di dalam elemen `<p>` akan diubah menjadi huruf kapital semua. Dengan menerapkan properti `text-transform: uppercase;`, semua huruf dalam teks tersebut akan diubah menjadi huruf besar (uppercase).
 
@@ -336,10 +336,10 @@ teks yang ada di dalam elemen `<p>` akan diubah menjadi huruf kapital semua. Den
        }
 ```
 **Before**
-![gambar](asetcss/ATU.JPG) 
+![gambar](asetCSS/ATU.JPG) 
 
 **After**
-![gambar](asetcss/AT.JPG)
+![gambar](asetCSS/AT.JPG)
 ### Kesimpulan
 `text-indent: 100px;`, Anda memberikan indentasi sebesar 100 piksel dari kiri pada setiap baris teks yang menggunakan class tersebut.
 ## Letter Spacing
@@ -365,8 +365,8 @@ Background-color adalah properti CSS yang digunakan untuk mengatur warna latar b
 
 ### Hasil
 **Before**
-![gambar](asetcss/BBC.JPG)**After**
-![gambar](asetcss/ATU.JPG)
+![gambar](asetCSS/BBC.JPG)**After**
+![gambar](asetCSS/ATU.JPG)
 ### Kesimpulan
 `Background-color: aqua;`, di gunakan untuk membuat latar belakang dari elemen tersebut akan diubah menjadi warna aqua.
 
@@ -381,7 +381,7 @@ Background-image adalah properti CSS yang digunakan untuk menentukan gambar yang
 ```
 ### Hasil
 **Before**
-![gambar](asetcss/BBC.JPG)
+![gambar](asetCSS/BBC.JPG)
 ### Kesimpulan
 elemen yang memiliki kelas "halaman-1" akan memiliki gambar latar belakang yang ditentukan oleh URL "Camera/F.png".
 
@@ -399,10 +399,10 @@ Background-repeat adalah properti CSS yang digunakan untuk mengatur bagaimana ga
 
 ### Hasil
 **Before**
-![gambar](asetcss/BB.JPG)
+![gambar](asetCSS/BB.JPG)
 
 **After**
-![gambar](asetcss/AB.JPG)
+![gambar](asetCSS/AB.JPG)
 ### Kesimpulan
 elemen yang memiliki kelas "halaman-1" akan scrol terhadap gambar layar belakang.
 ## Background-Size
@@ -416,9 +416,9 @@ Background-size adalah properti CSS yang digunakan untuk mengatur ukuran dari ga
 ```
 ### Hasil
 **Before**
-![gambar](asetcss/BBS.JPG)
+![gambar](asetCSS/BBS.JPG)
 **After**
-![gambar](asetcss/AB.JPG)
+![gambar](asetCSS/AB.JPG)
 ### Kesimpulan
 properti `background-size: 100%;`, ukuran gambar latar belakang akan diatur sedemikian rupa sehingga seluruh area latar belakang elemen tersebut tercakup oleh gambar tersebut.
 ## Background-Position
@@ -434,9 +434,9 @@ Background-position adalah properti CSS yang digunakan untuk menentukan posisi a
 
 ### Hasil
 **Before**
-![gambar](asetcss/BP.JPG)
+![gambar](asetCSS/BP.JPG)
 **After**
-![gambar](asetcss/ABP.JPG)
+![gambar](asetCSS/ABP.JPG)
 ### Kesimpulan
 properti `background-position: 50px;`, gambar latar belakang akan dimulai dari posisi 50 piksel dari sisi kiri elemen tersebut dan tetap berada di posisi vertikal tengah secara default.
 
@@ -453,9 +453,9 @@ Font-size adalah properti CSS yang digunakan untuk mengatur ukuran font teks dal
 ```
 ### Hasil
 **Before**
-![gambar](asetcss/BFS.JPG)
+![gambar](asetCSS/BFS.JPG)
 **After**
-![gambar](asetcss/ATU.JPG)
+![gambar](asetCSS/ATU.JPG)
 ### Kesimpulan
 properti font-size: 100px;, ukuran font dalam elemen tersebut akn diperbesar menjadi 100 piksel.
 ## Font-style italic
@@ -471,9 +471,9 @@ italic: Menampilkan teks dalam gaya miring (italic), jika font tersebut mendukun
 
 ### Hasil
 **Before**
-![gambar](asetcss/ATU.JPG)
+![gambar](asetCSS/ATU.JPG)
 **After**
-![gambar](asetcss/BFSI.JPG)
+![gambar](asetCSS/BFSI.JPG)
 ### Kesimpulan
 properti `font-style: italic;`, teks dalam elemen tersebut akan ditampilkan dengan gaya huruf miring.
 
@@ -490,9 +490,9 @@ properti `font-style: italic;`, teks dalam elemen tersebut akan ditampilkan deng
 ```
 ## Hasil
 **Before**
-![gambar](asetcss/ATU.JPG)
+![gambar](asetCSS/ATU.JPG)
 **After**
-![gambar](asetcss/AWB.JPG)
+![gambar](asetCSS/AWB.JPG)
 ### Kesimpulan
 `font-weight: bold;`, teks dalam elemen tersebut akan memiliki gaya huruf tebal.
 
@@ -514,7 +514,7 @@ img{
 ### Hasil
 ![gambar](asetCSS/BSS.JPG)
 **After**
-![gambar](asetcss/ASS.JPG)
+![gambar](asetCSS/ASS.JPG)
 ### Kesimpulan
 `border-style: solid;` adalah properti CSS yang mengatur gaya border menjadi garis lurus dan solid dan memberikan warna putih pada pinggir gambar.
 
@@ -644,7 +644,7 @@ F{
 ```
 ### Hasil
 **Before**
-![gambar](asetcss/MR.JPG)
+![gambar](asetCSS/MR.JPG)
 
 **After**
 
@@ -690,9 +690,9 @@ button:hover{
 ```
 ## Hasil
 **Before**
-![gambar](asetcss/BPH.JPG)
+![gambar](asetCSS/BPH.JPG)
 **After**
-![gambar](asetcss/APS.JPG)
+![gambar](asetCSS/APS.JPG)
 ### Kesimpulan
 Setiap property memberikan perubahan yang berbeda dari hover akan memberikan perubahan saat di klik, width dan height untuk mengatur lebar dan tinggi, background-color red memberikan warna merah ketika diklik, dan color white digunakan untuk memberikan warna putih pada teks. 
 
@@ -706,7 +706,7 @@ button:active{
 }
 ```
 ### Hasil
-![gambar](asetcss/APS.JPG)
+![gambar](asetCSS/APS.JPG)
 
 
 ![gambar](asetCSS/PAK.JPG)
@@ -729,9 +729,9 @@ button:hover{
 }
 ```
 **Before**
-![gambar](asetcss/BPH.JPG)
+![gambar](asetCSS/BPH.JPG)
 **After**
-![gambar](asetcss/APS.JPG)
+![gambar](asetCSS/APS.JPG)
 ### Kesimpulan
 `transition` dalam desain web memberikan kemampuan untuk mengatur perubahan visual pada elemen-elemen dengan mulus dan menarik. Dan berbeda sesuai dengan properti diatas. 
 # Transform
@@ -753,9 +753,9 @@ button:active{
 ### Hasil
 **Before**
 
-![gambar](asetcss/BPH.JPG)
+![gambar](asetCSS/BPH.JPG)
 **After**
-![gambar](asetcss/ATH.JPG)
+![gambar](asetCSS/ATH.JPG)
 
 ### Kesimpulan
 Setiap properti transform mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
@@ -784,9 +784,9 @@ Setiap properti transform mengubah tampilan elemen dengan cara yang berbeda-beda
 ```
 ## Hasil
 **Before**
-![gambar](asetcss/BFD.JPG)
+![gambar](asetCSS/BFD.JPG)
 **After**
-![gambar](asetcss/AFD.JPG)
+![gambar](asetCSS/AFD.JPG)
 
 ### Kesimpulan
 Setiap properti flex-direction mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
@@ -808,9 +808,9 @@ Contoh`column` untuk tata letak vertikal dari atas ke bawah.
 ```
 ### Hasil
 **Before**
-![gambar](asetcss/BAI.JPG)
+![gambar](asetCSS/BAI.JPG)
 **After**
-![gambar](asetcss/AFD.JPG)
+![gambar](asetCSS/AFD.JPG)
 ### Kesimpulan
 Setiap properti align-items mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
 Contoh`center` untuk menempatkan flex items di tengah-tengah sumbu silang.`flex-start` untuk menempatkan flex items di awal sumbu silang.`flex-end` untuk menempatkan flex items di akhir sumbu silang.`baseline` untuk menempatkan flex items sehingga garis dasar teks masing-masing item berada pada level yang sama.`stretch` untuk memperpanjang flex items sehingga mencapai tinggi maksimal flex container, mengisi ruang kosong di sepanjang sumbu silang.
@@ -828,7 +828,7 @@ Contoh`center` untuk menempatkan flex items di tengah-tengah sumbu silang.`flex-
 }
 ```
 ### Hasil
-![gambar](asetcss/AFD.JPG)
+![gambar](asetCSS/AFD.JPG)
 ### Kesimpulan
 Setiap properti justify-Content mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
 Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`flex-end` untuk menempatkan flex items di akhir (akhir) sumbu utama.`center` untuk menempatkan flex items di tengah-tengah sumbu utama.`space-around` untuk mendistribusikan flex items secara merata di sekitar sumbu utama dengan ruang yang sama di antara mereka.`space-between` untuk mendistribusikan flex items secara merata di sepanjang sumbu utama dengan ruang yang sama di antara flex items pertama dan terakhir, tetapi tidak ada ruang di antara flex items yang berdekatan.
@@ -848,9 +848,9 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
 ```
 ### Hasil
 **Before**
-![gambar](asetcss/AFD.JPG)
+![gambar](asetCSS/AFD.JPG)
 **After**
-![gambar](asetcss/AFI.JPG)
+![gambar](asetCSS/AFI.JPG)
 ### Kesimpulan
 `flex-shrink: 1;`, `flex-basis: auto;`, dan `flex-grow: 1;`, elemen tersebut akan menyusut jika perlu, ukuran awalnya akan disesuaikan dengan konten di dalamnya, dan akan memperluas untuk mengisi ruang yang tersedia dalam kontainer flex jika ada ruang tambahan.
 ### Penjelasan HTML
@@ -958,7 +958,7 @@ img{
 
 ```
 ### Hasil
-![gambar](asetcss/TB.JPG)
+![gambar](asetCSS/TB.JPG)
 # Tantangan Transition
 ## Penjelasan
 - `background-color: purple;` pada `body`: Mengatur warna latar belakang halaman (body) menjadi ungu.
@@ -1064,9 +1064,9 @@ img{
 ### Hasil
 ## Kesimpulan
 **Before**
-![gambar](asetcss/BT.JPG)
+![gambar](asetCSS/BT.JPG)
 **After**
-![gambar](asetcss/AP.JPG)
+![gambar](asetCSS/AP.JPG)
 ### Kesimpulan
 Memberikan gaya atau menggeser dimana klik disini posisi awal berasa samping  kiri di bawah selamat datang di web Fadhli dimana jika di klik maka posisi klik disini pindah ke sebelah kanan pas di bawah fadhil dan gambarnya ikut juga geser. 
 # Position
@@ -1256,4 +1256,4 @@ height: 50px;
 ```
 
 ### Hasil
-![gambar](asetcss/ATP.JPG)
+![gambar](asetCSS/ATP.JPG)

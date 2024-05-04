@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+                "file": "Catatan HTML/Belajar HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+            "file": "Catatan HTML/Belajar HTML.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+            "file": "Catatan HTML/Belajar HTML.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md"
+            "file": "Catatan HTML/Belajar HTML.md"
           }
         }
       },
@@ -212,8 +212,10 @@
   },
   "active": "7b67ee7d2a1b1a17",
   "lastOpenFiles": [
-    "Catatan HTML/Belajar HTML.md",
+    "BASIS DATA/Rangkuman basis data/Select Lanjutan.md",
+    "Catatan HTML/Rangkuman HTML/Pertemuan_1.md",
     "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+    "Catatan HTML/Belajar HTML.md",
     "HTML/Select lanjutan/Select Lanjutan.md",
     "CSS2/Catatan CSS.md",
     "catatancss/Catatan CSS.md",
@@ -231,7 +233,6 @@
     "Ekplorasi CSS/AsetTailwind",
     "A.md",
     "Ekplorasi CSS",
-    "Catatan HTML/Rangkuman HTML/Pertemuan_1.md",
     "Catatan HTML/Rangkuman HTML/Pengenalan Web.md",
     "Catatan HTML/Rangkuman HTML/Deskripsi.md",
     "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.md",

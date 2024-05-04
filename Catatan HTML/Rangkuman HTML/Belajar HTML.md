@@ -25,7 +25,7 @@ Struktur dasar HTML mencakup elemen-elemen dasar yang membentuk kerangka sebuah 
 </html>
 ```
 **Hasil Program:**
-![Gambar](Aset/ST.JPG)
+![Gambar](Aset/ST.jpg) 
 
 # Anatomi Elemen 
 **Penjelasan**:
@@ -52,7 +52,7 @@ Tag pembuka dan `</a>`tag penting
 - Klik Google" adalah konten isi dari tag  `<a>.` Ini adalah teks atau elemen lain yang akan menjadi bagian dari tautan tersebut. Ketika teks ini diklik, kita akan diarahkan ke situs web Google.
 **Contoh** **hasil**:
 
-![gambar](Aset/F_F.JPG)
+![gambar](Aset/F_F.jpg) 
 
 **Penjelasan**
 - Tag pembuka Menandai awal dari elemen yang berisi informasi dan di tutup oleh tag penutup contoh `<a `
@@ -79,7 +79,7 @@ Tag pembuka dan `</a>`tag penting
 **Hasil Program**:
 
 
-****![Gambar 22](Aset/F.F.F.JPG)
+****![Gambar 22](Aset/F.F.F.jpg) 
 
 # Tag Dasar
 ## Heading 
@@ -107,7 +107,7 @@ Jika kita ketik h1 makan ukuran font atau teks nya akan lebih besar.dan jika kit
 
 ```
 **Hasil Program**:
-![Gambar ](Aset/F.F.JPG)
+![Gambar ](Aset/F.F.jpg) 
 ____ 
 ## Teks paragraf 
 **Penjelasan**

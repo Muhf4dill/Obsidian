@@ -135,7 +135,7 @@ Br= Digunakan untuk membuat baris baru dimana awal cuma satu baris tapi di kasih
 
 ```
 **Hasil Program**:
-![gambar](Aset/P.B..JPG)
+![gambar](Aset/P.B..jpg) 
 ____
 
 
@@ -177,7 +177,7 @@ ____
  
 ```
 **HASIL**
-![gambar](Aset/SPN.JPG)
+![gambar](Aset/SPN.jpg) 
 
 
 
@@ -214,7 +214,7 @@ Atribut `Align` digunakan untuk mengatur perataan teks pada halaman HTML elemen 
 
 ```
 Hasil Program**:
-![gambar](Aset/F.A.JPG)
+![gambar](Aset/F.A.jpg) 
 
 ____________
 ## Komentar
@@ -239,7 +239,7 @@ Komentar **tidak akan ditampilkan** pada halaman website namun programmer biasan
 
 ```
 **Hasil Program**:
-![gambar]Aset/(F.A.JPG)
+![gambar](Aset/F.A.jpg) 
 
 _______
 ## List
@@ -279,7 +279,7 @@ Untuk menampilkan list dalam HTML dapat menggunakan tag `<li>`-`</li>` namun per
 
 ```
 **Hasil Program**:
-![gambar](Aset/I.M.JPG)
+![gambar](Aset/I.M.jpg) 
 
 _____
 ## Link
@@ -308,7 +308,7 @@ Atribut penting lainnya dari tag `<a>` adalah `target` Atribut target menentukan
  </html>
 ```
 **Hasil Program**:
-![gambar](Aset/L.I.JPG)
+![gambar](Aset/L.I.jpg) 
 
 _____
 ## Multimedia
@@ -332,8 +332,8 @@ _____
 
 ```
 **Hasil Program**:
-![gambar](Aset/HCJ.JPG) 
-![gambar](Aset/A...JPG) 
+![gambar](Aset/HCJ.jpg) 
+![gambar](Aset/A...jpg) 
 
 
 ### Video
@@ -361,8 +361,8 @@ _____
  </html>
 ```
 **Hasil Program**:
-![gambar](Aset/F.L.JPG) 
-![gambar](Aset/R.H..JPG)
+![gambar](Aset/F.L.jpg) 
+![gambar](Aset/R.H..jpg) 
 ____
 ### Audio
 **Penjelasan**
@@ -388,9 +388,9 @@ ____
 **Hasil Program**:
 
 
-![gambar](Aset/F._A.JPG)
+![gambar](Aset/F._A.jpg) 
 
-![gambar](Aset/F.D.L.F.JPG)
+![gambar](Aset/F.D.L.F.jpg) 
 ____
 ### IFRAME
 **Penjelasan**
@@ -415,9 +415,9 @@ ____
  </html>
 ```
 **Hasil Program**:
-![gambar](Aset/I.F.JPG)
+![gambar](Aset/I.F.jpg) 
 
-![gambar](Aset/R.H..JPG)
+![gambar](Aset/R.H..jpg) 
 
 ________
 
@@ -480,7 +480,7 @@ Tabel dalam HTML didefinisikan dengan tag `<table>`
 
 ```
 **Hasil Program**:
-![gambar](Aset/Tabel.JPG)
+![gambar](Aset/Tabel.jpg) 
 ____
 **Penjelasan**
 Tabel dalam HTML didefinisikan dengan tag `<table>`
@@ -522,7 +522,7 @@ Tabel dalam HTML didefinisikan dengan tag `<table>`
 
 ```
 **Hasil Program:**
-![gambar](Aset/S.L.JPG)
+![gambar](Aset/S.L.jpg) 
 _____
 ## Form
 **Penjelasan**
@@ -722,7 +722,7 @@ Elemen `<button>` yang berada di dalam sebuah `form` akan otomatis dianggap sama
 
 ```
 **Hasil Program**:
-![gambar](Aset/F.f..JPG) 
+![gambar](Aset/F.f..jpg) 
 
 Beberapa atribut yang digunakan pada contoh di atas yang perlu untuk diperjelas yaitu sebagai berikut:
 - `name` - digunakan sebagai nama variabel yang akan diproses oleh web server (contoh menggunakan PHP).
@@ -814,7 +814,7 @@ ____
 
 ```
 **Hasil Program:**
-![gambar](Aset/I-F.JPG)
+![gambar](Aset/I-F.jpg) 
 
 ____
 
@@ -887,4 +887,4 @@ ____
 
 ```
 **Hasil Program**
-![gambar](Aset/IF.2.JPG)
+![gambar](Aset/IF.2.jpg) 

@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan HTML/Belajar HTML.md",
+                "file": "ALTER/CATATAN ALTER.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Catatan HTML/Belajar HTML.md",
+            "file": "ALTER/CATATAN ALTER.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Catatan HTML/Belajar HTML.md",
+            "file": "ALTER/CATATAN ALTER.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +185,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Catatan HTML/Belajar HTML.md"
+            "file": "ALTER/CATATAN ALTER.md"
           }
         }
       },
@@ -212,10 +212,12 @@
   },
   "active": "7b67ee7d2a1b1a17",
   "lastOpenFiles": [
+    "ALTER/Asetalter/Alter.jpg",
+    "ALTER/CATATAN ALTER.md",
+    "Catatan HTML/Belajar HTML.md",
     "BASIS DATA/Rangkuman basis data/Select Lanjutan.md",
     "Catatan HTML/Rangkuman HTML/Pertemuan_1.md",
     "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
-    "Catatan HTML/Belajar HTML.md",
     "HTML/Select lanjutan/Select Lanjutan.md",
     "CSS2/Catatan CSS.md",
     "catatancss/Catatan CSS.md",
@@ -246,7 +248,6 @@
     "Responsive/ASETCSS(1)",
     "GIT & GITHUB/Catatan GIT & GITHUB.md",
     "Responsive/AssetRes",
-    "ALTER/CATATAN ALTER.md",
     "Responsive/Catatan responsive.md",
     "TugasUlangan/Tugas.md",
     "test.txt",
@@ -256,7 +257,6 @@
     "Aset.md",
     "BASIS DATA/Instalasi & Query awal Database.md",
     "Remedial CSS",
-    "Asetb/bf-2.jpg.md",
     "AselAlter"
   ]
 }

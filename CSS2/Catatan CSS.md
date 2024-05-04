@@ -24,8 +24,8 @@ Contoh diatas, yang ingin di modifikasi adalah seluruh tag `<p>` pada komponen w
 Contoh diatas, yang ingin di modifikasi adalah seluruh tag `<p>` pada komponen warna teksnya menjadi warna merah. 
 Contoh lain, yang ingin dimodifikasi adalah seluruh jendela pada komponen kusennya menjadi terbuka. 
 **Hasil**
-![gambar](asetCSS/ACCS.JPG)
-![gambar](asetCSS/ACS.JPG)
+![gambar](asetcss/ACCS.JPG)
+![gambar](asetcss/ACS.JPG)
 
 # Percobaan Pertama
 ## Penjelasan
@@ -56,7 +56,7 @@ Contoh lain, yang ingin dimodifikasi adalah seluruh jendela pada komponen kusenn
 
 ```
 ### Hasil
-![gambar](asetCSS/Merah.JPG)
+![gambar](asetcss/Merah.JPG)
 #  Percobaan Kedua
 ## Kode CSS
 ```
@@ -70,24 +70,24 @@ margin-top :50px;
 ```
 ## Color
 ### Before
-![gambar](asetCSS/BW.JPG)
+![gambar](asetcss/BW.JPG)
 ### After 
 
 ![gambar](asetCSS/AW.jpg)Color adalah memberikan warna kepada tulisan yang dimana sebelum di kasih color atau warna tulisan nya berwarna hitam. setelah dikasih color atau warna tulisan klik aku berwarna putih
 ## TEXT-ALIGN
 
 ### Before
-![gambar](asetCSS/BW.jpg)
+![gambar](asetcss/BW.jpg)
 ### After 
 
-![gambar](asetCSS/TR.jpg)
+![gambar](asetcss/TR.jpg)
 Text-align adalah memberikan perataan kepada teks dimana saat kita menggunakan text-align = right  membuat posisi teks lebih ke samping kanan. 
 ## margin-top 
 ### Before
-![Gambar](asetCSS/BW.JPG)
+![Gambar](asetcss/BW.JPG)
 ### After
 
-![gambar](asetCSS/AM.JPG)
+![gambar](asetcss/AM.JPG)
 Margin top digunakan untuk menentukan jarak antara batas atas suatu elemen dengan elemen di atasnya.
 
 # Pemanggilan CSS
@@ -110,7 +110,7 @@ Margin top digunakan untuk menentukan jarak antara batas atas suatu elemen denga
 
 ```
 **Hasil**
-![gambar](asetCSS/I.JPG)
+![gambar](asetcss/I.JPG)
 ### Kesimpulan
 `class .F` akan membuat teks menjadi tebal dan berwarna merah, dengan border dan padding sebesar 10 piksel di sebelah kiri dan kanan teks.
 ### Internal
@@ -146,7 +146,7 @@ Property yang kita atur untuk mengubah padding, margin, color, backgrounddan lai
 
 ```
 **Hasil**
-![gambar](asetCSS/INC.JPG)
+![gambar](asetcss/INC.JPG)
 ### Kesimpulan
 Property yang kita atur untuk mengubah padding, margin, color, backgrounddan lain lain tidak perlu bikin file baru css cukup bisa di satukan di file html yang diketik dibawah title dengan ketik `<style>`.
 ### External
@@ -167,7 +167,7 @@ Property yang kita atur untuk mengubah padding, margin, color, backgrounddan lai
 
 ```
 **Hasil**
-![gambar](asetCSS/E.JPG)
+![gambar](asetcss/E.JPG)
 ### Kesimpulan
 `<link rel="stylesheet" href="Style.CSS">`: Menautkan dokumen HTML dengan file CSS eksternal bernama "Style.CSS", sehingga dokumen HTML dapat menerapkan gaya yang didefinisikan dalam file CSS tersebut.
 # Selektor CSS
@@ -185,7 +185,7 @@ h1 {
 
 ```
 **Hasil**
-![gambar](asetCSS/ES.JPG)
+![gambar](asetcss/ES.JPG)
 Memberikan H 1 pada teks Halo RPL 1 dan memberikan warna biru pada teks dan memberikan jarak pada elemen atas sebesar 10000px.
 ### Class Selector
 **Penjelasan**
@@ -218,7 +218,7 @@ Memberikan H 1 pada teks Halo RPL 1 dan memberikan warna biru pada teks dan memb
 
 ```
 **Hasil**
-![gambar](asetCSS/BR.jpg) 
+![gambar](asetcss/BR.jpg) 
 ### Kesimpulan
 Memeberikan warna biru pada teks ini warna biru menggunakan elemen `class`. 
 
@@ -249,7 +249,7 @@ Memeberikan warna biru pada teks ini warna biru menggunakan elemen `class`.
 
 ```
 **Hasil**
-![gambar](asetCSS/HJ.jpg)
+![gambar](asetcss/HJ.jpg)
 ### Kesimpulan
 Memeberikan warna hijau pada teks ini warna hijau menggunakan elemen `id`. 
 # TEXT 
@@ -271,9 +271,9 @@ Memeberikan warna hijau pada teks ini warna hijau menggunakan elemen `id`.
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/TBC.JPG)
+![gambar](asetcss/TBC.JPG)
 **After**
-![gambar](asetCSS/TAC.JPG)
+![gambar](asetcss/TAC.JPG)
 ### Kesimpulan
 Selamat datang" yang terdapat dalam elemen `<p>` akan diatur menjadi rata tengah secara horizontal di dalam elemen tersebut, karena properti CSS text-align: center; diterapkan pada elemen `<p>`. 
 
@@ -294,9 +294,9 @@ text-decoration : underline;
 
 ### Hasil
 **Before**
-![gambar](asetCSS/TAC.JPG)
+![gambar](asetcss/TAC.JPG)
 **After**
-![gambar](asetCSS/BTU.JPG)
+![gambar](asetcss/BTU.JPG)
 ### Kesimpulan
 Selamat datang" Dan Terima kasih yang terdapat dalam elemen `<p>` akan membuat tulisan mempunyai garis bawah di teks. karena properti CSS text-decoration : underline ; diterapkan pada elemen `<p>`. 
 
@@ -321,9 +321,9 @@ p{
 
 ### Hasil
 **Before**
-![gambar](asetCSS/BTU.JPG)
+![gambar](asetcss/BTU.JPG)
 **After**
-![gambar](asetCSS/ATU.JPG)
+![gambar](asetcss/ATU.JPG)
 ### Kesimpulan
 teks yang ada di dalam elemen `<p>` akan diubah menjadi huruf kapital semua. Dengan menerapkan properti `text-transform: uppercase;`, semua huruf dalam teks tersebut akan diubah menjadi huruf besar (uppercase).
 
@@ -336,10 +336,10 @@ teks yang ada di dalam elemen `<p>` akan diubah menjadi huruf kapital semua. Den
        }
 ```
 **Before**
-![gambar](asetCSS/ATU.JPG) 
+![gambar](asetcss/ATU.JPG) 
 
 **After**
-![gambar](asetCSS/AT.JPG)
+![gambar](asetcss/AT.JPG)
 ### Kesimpulan
 `text-indent: 100px;`, Anda memberikan indentasi sebesar 100 piksel dari kiri pada setiap baris teks yang menggunakan class tersebut.
 ## Letter Spacing
@@ -365,8 +365,8 @@ Background-color adalah properti CSS yang digunakan untuk mengatur warna latar b
 
 ### Hasil
 **Before**
-![gambar](asetCSS/BBC.JPG)**After**
-![gambar](asetCSS/ATU.JPG)
+![gambar](asetcss/BBC.JPG)**After**
+![gambar](asetcss/ATU.JPG)
 ### Kesimpulan
 `Background-color: aqua;`, di gunakan untuk membuat latar belakang dari elemen tersebut akan diubah menjadi warna aqua.
 
@@ -381,7 +381,7 @@ Background-image adalah properti CSS yang digunakan untuk menentukan gambar yang
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/BBC.JPG)
+![gambar](asetcss/BBC.JPG)
 ### Kesimpulan
 elemen yang memiliki kelas "halaman-1" akan memiliki gambar latar belakang yang ditentukan oleh URL "Camera/F.png".
 
@@ -399,10 +399,10 @@ Background-repeat adalah properti CSS yang digunakan untuk mengatur bagaimana ga
 
 ### Hasil
 **Before**
-![gambar](asetCSS/BB.JPG)
+![gambar](asetcss/BB.JPG)
 
 **After**
-![gambar](asetCSS/AB.JPG)
+![gambar](asetcss/AB.JPG)
 ### Kesimpulan
 elemen yang memiliki kelas "halaman-1" akan scrol terhadap gambar layar belakang.
 ## Background-Size
@@ -416,9 +416,9 @@ Background-size adalah properti CSS yang digunakan untuk mengatur ukuran dari ga
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/BBS.JPG)
+![gambar](asetcss/BBS.JPG)
 **After**
-![gambar](asetCSS/AB.JPG)
+![gambar](asetcss/AB.JPG)
 ### Kesimpulan
 properti `background-size: 100%;`, ukuran gambar latar belakang akan diatur sedemikian rupa sehingga seluruh area latar belakang elemen tersebut tercakup oleh gambar tersebut.
 ## Background-Position
@@ -434,9 +434,9 @@ Background-position adalah properti CSS yang digunakan untuk menentukan posisi a
 
 ### Hasil
 **Before**
-![gambar](asetCSS/BP.JPG)
+![gambar](asetcss/BP.JPG)
 **After**
-![gambar](asetCSS/ABP.JPG)
+![gambar](asetcss/ABP.JPG)
 ### Kesimpulan
 properti `background-position: 50px;`, gambar latar belakang akan dimulai dari posisi 50 piksel dari sisi kiri elemen tersebut dan tetap berada di posisi vertikal tengah secara default.
 
@@ -453,9 +453,9 @@ Font-size adalah properti CSS yang digunakan untuk mengatur ukuran font teks dal
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/BFS.JPG)
+![gambar](asetcss/BFS.JPG)
 **After**
-![gambar](asetCSS/ATU.JPG)
+![gambar](asetcss/ATU.JPG)
 ### Kesimpulan
 properti font-size: 100px;, ukuran font dalam elemen tersebut akn diperbesar menjadi 100 piksel.
 ## Font-style italic
@@ -471,9 +471,9 @@ italic: Menampilkan teks dalam gaya miring (italic), jika font tersebut mendukun
 
 ### Hasil
 **Before**
-![gambar](asetCSS/ATU.JPG)
+![gambar](asetcss/ATU.JPG)
 **After**
-![gambar](asetCSS/BFSI.JPG)
+![gambar](asetcss/BFSI.JPG)
 ### Kesimpulan
 properti `font-style: italic;`, teks dalam elemen tersebut akan ditampilkan dengan gaya huruf miring.
 
@@ -490,9 +490,9 @@ properti `font-style: italic;`, teks dalam elemen tersebut akan ditampilkan deng
 ```
 ## Hasil
 **Before**
-![gambar](asetCSS/ATU.JPG)
+![gambar](asetcss/ATU.JPG)
 **After**
-![gambar](asetCSS/AWB.JPG)
+![gambar](asetcss/AWB.JPG)
 ### Kesimpulan
 `font-weight: bold;`, teks dalam elemen tersebut akan memiliki gaya huruf tebal.
 
@@ -512,9 +512,9 @@ img{
     }
 ```
 ### Hasil
-![gambar](asetCSS/BSS.JPG)
+![gambar](asetcss/BSS.JPG)
 **After**
-![gambar](asetCSS/ASS.JPG)
+![gambar](asetcss/ASS.JPG)
 ### Kesimpulan
 `border-style: solid;` adalah properti CSS yang mengatur gaya border menjadi garis lurus dan solid dan memberikan warna putih pada pinggir gambar.
 
@@ -528,9 +528,9 @@ img{
 ```
 ## Hasil 
 **Before**
-![gambar](asetCSS/BCO.JPG)
+![gambar](asetcss/BCO.JPG)
 **After**
-![gambar](asetCSS/BBCO.JPG)
+![gambar](asetcss/BBCO.JPG)
 ### Kesimpulan
 Mengatur warna atau memberikan warna orangered pada pinggiran  border 
 # Padding
@@ -545,9 +545,9 @@ F{
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/PL.JPG)
+![gambar](asetcss/PL.JPG)
 **After**
-![gambar](asetCSS/BBCO.JPG)
+![gambar](asetcss/BBCO.JPG)
 ### Kesimpulan
 elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian kiri sebesar 29 piksel.  Dan membuat tulisan klik disini tidak terlalu ke kiri. 
 ## Padding-bottom
@@ -561,9 +561,9 @@ elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian kiri 
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/PB.JPG)
+![gambar](asetcss/PB.JPG)
 **After**
-![gambar](asetCSS/BBCO.JPG)
+![gambar](asetcss/BBCO.JPG)
 ### Kesimpulan
  elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian bawah sebesar 25 piksel.  Dan membuat tulisan klik disini tidak terlalu ke bawah. 
 ## Padding-Right
@@ -577,9 +577,9 @@ elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian kiri 
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/PR.JPG)
+![gambar](asetcss/PR.JPG)
 **After**
-![gambar](asetCSS/BBCO.JPG)
+![gambar](asetcss/BBCO.JPG)
 ### Kesimpulan
 elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian kanan sebesar 29 piksel.  Dan membuat tulisan klik disini tidak terlalu ke kanan. 
 ## Padding-top
@@ -594,9 +594,9 @@ elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian kanan
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/PT.JPG)
+![gambar](asetcss/PT.JPG)
 **After**
-![gambar](asetCSS/BBCO.JPG)
+![gambar](asetcss/BBCO.JPG)
 ### Kesimpulan
 elemen HTML yang memiliki kelas "F" akan memiliki ruang tambahan di bagian atasnya sebesar 20 piksel.  Dan membuat tulisan klik disini tidak terlalu ke atas. 
 # Margin
@@ -611,9 +611,9 @@ img{
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/ML.JPG)
+![gambar](asetcss/ML.JPG)
 **After**
-![gambar](asetCSS/AML.JPG)
+![gambar](asetcss/AML.JPG)
 ### Kesimpulan
 `margin-left: 600px;` pada elemen `img`, Anda akan memberikan jarak 600 piksel antara batas kiri elemen gambar dan batas kiri elemen. 
 ## Margin-Top
@@ -627,10 +627,10 @@ img{
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/MT.JPG)
+![gambar](asetcss/MT.JPG)
 
 **After**
-![gambar](asetCSS/AML.JPG)
+![gambar](asetcss/AML.JPG)
 ### Kesimpulan
 atura gaya ini memengaruhi tata letak (layout) elemen-elemen HTML dengan tag "F" dengan menambahkan margin di bagian atas sebesar 60 piksel.
 ## Margin-Right
@@ -644,11 +644,11 @@ F{
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/MR.JPG)
+![gambar](asetcss/MR.JPG)
 
 **After**
 
-![gambar](asetCSS/AML.JPG)
+![gambar](asetcss/AML.JPG)
 ### Kesimpulan
 elemen-elemen HTML dengan tag "F" akan memiliki jarak atau spasi tambahan sebesar 60 piksel di sebelah kanan. 
 ## Margin-Bottom
@@ -664,9 +664,9 @@ elemen-elemen HTML dengan tag "F" akan memiliki jarak atau spasi tambahan sebesa
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/MB.JPG)
+![gambar](asetcss/MB.JPG)
 **After**
-![gambar](asetCSS/AML.JPG)
+![gambar](asetcss/AML.JPG)
 ### Kesimpulan
 elemen-elemen yang memiliki kelas "F" akan memiliki jarak atau spasi sebesar 90 piksel di bagian bawahnya.
 # Pseudo-classes
@@ -690,9 +690,9 @@ button:hover{
 ```
 ## Hasil
 **Before**
-![gambar](asetCSS/BPH.JPG)
+![gambar](asetcss/BPH.JPG)
 **After**
-![gambar](asetCSS/APS.JPG)
+![gambar](asetcss/APS.JPG)
 ### Kesimpulan
 Setiap property memberikan perubahan yang berbeda dari hover akan memberikan perubahan saat di klik, width dan height untuk mengatur lebar dan tinggi, background-color red memberikan warna merah ketika diklik, dan color white digunakan untuk memberikan warna putih pada teks. 
 
@@ -706,10 +706,10 @@ button:active{
 }
 ```
 ### Hasil
-![gambar](asetCSS/APS.JPG)
+![gambar](asetcss/APS.JPG)
 
 
-![gambar](asetCSS/PAK.JPG)
+![gambar](asetcss/PAK.JPG)
 ### Kesimpulan
 Teks klik akan berganti warna menjadi kuning jika ditekan dan berputar. 
 
@@ -729,9 +729,9 @@ button:hover{
 }
 ```
 **Before**
-![gambar](asetCSS/BPH.JPG)
+![gambar](asetcss/BPH.JPG)
 **After**
-![gambar](asetCSS/APS.JPG)
+![gambar](asetcss/APS.JPG)
 ### Kesimpulan
 `transition` dalam desain web memberikan kemampuan untuk mengatur perubahan visual pada elemen-elemen dengan mulus dan menarik. Dan berbeda sesuai dengan properti diatas. 
 # Transform
@@ -753,9 +753,9 @@ button:active{
 ### Hasil
 **Before**
 
-![gambar](asetCSS/BPH.JPG)
+![gambar](asetcss/BPH.JPG)
 **After**
-![gambar](asetCSS/ATH.JPG)
+![gambar](asetcss/ATH.JPG)
 
 ### Kesimpulan
 Setiap properti transform mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
@@ -784,9 +784,9 @@ Setiap properti transform mengubah tampilan elemen dengan cara yang berbeda-beda
 ```
 ## Hasil
 **Before**
-![gambar](asetCSS/BFD.JPG)
+![gambar](asetcss/BFD.JPG)
 **After**
-![gambar](asetCSS/AFD.JPG)
+![gambar](asetcss/AFD.JPG)
 
 ### Kesimpulan
 Setiap properti flex-direction mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
@@ -808,9 +808,9 @@ Contoh`column` untuk tata letak vertikal dari atas ke bawah.
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/BAI.JPG)
+![gambar](asetcss/BAI.JPG)
 **After**
-![gambar](asetCSS/AFD.JPG)
+![gambar](asetcss/AFD.JPG)
 ### Kesimpulan
 Setiap properti align-items mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
 Contoh`center` untuk menempatkan flex items di tengah-tengah sumbu silang.`flex-start` untuk menempatkan flex items di awal sumbu silang.`flex-end` untuk menempatkan flex items di akhir sumbu silang.`baseline` untuk menempatkan flex items sehingga garis dasar teks masing-masing item berada pada level yang sama.`stretch` untuk memperpanjang flex items sehingga mencapai tinggi maksimal flex container, mengisi ruang kosong di sepanjang sumbu silang.
@@ -828,7 +828,7 @@ Contoh`center` untuk menempatkan flex items di tengah-tengah sumbu silang.`flex-
 }
 ```
 ### Hasil
-![gambar](asetCSS/AFD.JPG)
+![gambar](asetcss/AFD.JPG)
 ### Kesimpulan
 Setiap properti justify-Content mengubah tampilan elemen dengan cara yang berbeda-beda sesuai dengan property. 
 Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`flex-end` untuk menempatkan flex items di akhir (akhir) sumbu utama.`center` untuk menempatkan flex items di tengah-tengah sumbu utama.`space-around` untuk mendistribusikan flex items secara merata di sekitar sumbu utama dengan ruang yang sama di antara mereka.`space-between` untuk mendistribusikan flex items secara merata di sepanjang sumbu utama dengan ruang yang sama di antara flex items pertama dan terakhir, tetapi tidak ada ruang di antara flex items yang berdekatan.
@@ -848,9 +848,9 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
 ```
 ### Hasil
 **Before**
-![gambar](asetCSS/AFD.JPG)
+![gambar](asetcss/AFD.JPG)
 **After**
-![gambar](asetCSS/AFI.JPG)
+![gambar](asetcss/AFI.JPG)
 ### Kesimpulan
 `flex-shrink: 1;`, `flex-basis: auto;`, dan `flex-grow: 1;`, elemen tersebut akan menyusut jika perlu, ukuran awalnya akan disesuaikan dengan konten di dalamnya, dan akan memperluas untuk mengisi ruang yang tersedia dalam kontainer flex jika ada ruang tambahan.
 ### Penjelasan HTML
@@ -958,7 +958,7 @@ img{
 
 ```
 ### Hasil
-![gambar](asetCSS/TB.JPG)
+![gambar](asetcss/TB.JPG)
 # Tantangan Transition
 ## Penjelasan
 - `background-color: purple;` pada `body`: Mengatur warna latar belakang halaman (body) menjadi ungu.
@@ -1064,9 +1064,9 @@ img{
 ### Hasil
 ## Kesimpulan
 **Before**
-![gambar](asetCSS/BT.JPG)
+![gambar](asetcss/BT.JPG)
 **After**
-![gambar](asetCSS/AP.JPG)
+![gambar](asetcss/AP.JPG)
 ### Kesimpulan
 Memberikan gaya atau menggeser dimana klik disini posisi awal berasa samping  kiri di bawah selamat datang di web Fadhli dimana jika di klik maka posisi klik disini pindah ke sebelah kanan pas di bawah fadhil dan gambarnya ikut juga geser. 
 # Position
@@ -1087,9 +1087,9 @@ box-1{
 ```
 ### Hasil 
 **BEFORE**
-![gambar](asetCSS/P.JPG)
+![gambar](asetcss/P.JPG)
 **AFTER**
-![gambar](asetCSS/PRBA.JPG)
+![gambar](asetcss/PRBA.JPG)
 ### Kesimpulan
 elemen dengan kelas "box-1" mengatur latar belakang menjadi warna aqua dan menggeser elemen 20 piksel ke bawah dan 30 piksel ke kanan dari posisi defaultnya.
 ## Position Absolute
@@ -1110,9 +1110,9 @@ elemen dengan kelas "box-1" mengatur latar belakang menjadi warna aqua dan mengg
 ```
 ### Hasil 
 **BEFORE**
-![gambar](asetCSS/P.JPG)
+![gambar](asetcss/P.JPG)
 **AFTER**
-![gambar](asetCSS/PAP.JPG)
+![gambar](asetcss/PAP.JPG)
 ### Kesimpulan
 kelas "box-2" menetapkan latar belakangnya menjadi warna ungu (purple) dan mengatur posisinya secara absolut,dimana elemen digeser 15 piksel dari atas dan 10 piksel dari kiri.
 
@@ -1133,9 +1133,9 @@ box-1{
 ```
 ### Hasil 
 **BEFORE**
-![gambar](asetCSS/P.JPG)
+![gambar](asetcss/P.JPG)
 **AFTER**
-![gambar](asetCSS/PF.JPG)
+![gambar](asetcss/PF.JPG)
 ### Kesimpulan
 position: fixed, elemen akan tetap berada pada posisinya yang ditentukan jika discrool.properti top dan left digunakan untuk menentukan jarak elemen dari tepi atas dan kiri. 
 
@@ -1156,9 +1156,9 @@ box-1{
 ```
 ### Hasil 
 **BEFORE**
-![gambar](asetCSS/P.JPG)
+![gambar](asetcss/P.JPG)
 **AFTER**
-![gambar](asetCSS/PS.JPG)
+![gambar](asetcss/PS.JPG)
 ### Kesimpulan
 `position: sticky`, elemen akan seperti posisi relatif sampai jarak scroll mencapai nilai tertentu. elemen akan tetap berada pada posisi yang telah ditentukan saat jarak scroll mencapai nilai tertentu, sambil tetap mengikuti pergeseran scroll di bawahnya.
 # Tantangan Position
@@ -1256,4 +1256,4 @@ height: 50px;
 ```
 
 ### Hasil
-![gambar](asetCSS/ATP.JPG)
+![gambar](asetcss/ATP.JPG)

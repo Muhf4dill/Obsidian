@@ -54,43 +54,19 @@
             }
           },
           {
-            "id": "5ca8bd8733de463f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT & GITHUB/Catatan GIT & GITHUB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6fe22b1dd80ae580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS2/Catatan CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b67ee7d2a1b1a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "catatancss/Catatan responsive.md",
+                "file": "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "catatancss/Catatan responsive.md",
+            "file": "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "catatancss/Catatan responsive.md",
+            "file": "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "catatancss/Catatan responsive.md"
+            "file": "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md"
           }
         }
       },
@@ -210,52 +186,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b67ee7d2a1b1a17",
+  "active": "6fe22b1dd80ae580",
   "lastOpenFiles": [
-    "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
-    "BASIS DATA/Rangkuman basis data/Select Lanjutan.md",
-    "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.md",
-    "ALTER/CATATAN ALTER.md",
-    "ALTER/Asetalter/Alter.jpg",
-    "Catatan HTML/Belajar HTML.md",
-    "Catatan HTML/Rangkuman HTML/Pertemuan_1.md",
-    "HTML/Select lanjutan/Select Lanjutan.md",
-    "CSS2/Catatan CSS.md",
-    "catatancss/Catatan CSS.md",
-    "Catatan HTML/Rangkuman HTML/Aset/ST.jpg",
-    "Ekplorasi CSS/TAILWIND CSS.md",
-    "Ekplorasi CSS/AsetTailwind/9.png",
-    "Ekplorasi CSS/AsetTailwind/8.png",
-    "Ekplorasi CSS/AsetTailwind/l1.png",
-    "Ekplorasi CSS/AsetTailwind/Deku.jpg",
-    "Ekplorasi CSS/AsetTailwind/10.png",
-    "Ekplorasi CSS/AsetTailwind/Screenshot 2024-04-15 141823.png",
-    "Ekplorasi CSS/AsetTailwind/Screenshot 2024-04-15 132830.png",
-    "Ekplorasi CSS/AsetTailwind/Screenshot 2024-04-15 132539 1.png",
-    "Ekplorasi CSS/AsetTailwind",
-    "A.md",
-    "Ekplorasi CSS",
-    "Catatan HTML/Rangkuman HTML/Pengenalan Web.md",
-    "Catatan HTML/Rangkuman HTML/Deskripsi.md",
+    "PHP/CATATAN PHP.md",
+    "PRAKTIKUM 5/Catatan.md",
+    "PHP/AssetPHP/V1.jpg",
+    "PHP MYSQL/Catatan.md",
+    "PHP Basis Data/Catatan PHP BS.md",
+    "Catatan HTML/Rangkuman HTML/assets/git-7.png",
+    "Catatan HTML/Rangkuman HTML/assets/git-commit.png",
+    "Catatan HTML/Rangkuman HTML/assets/open-folder-vsc.png",
+    "Catatan HTML/Rangkuman HTML/assets/create file about page.png",
+    "Catatan HTML/Rangkuman HTML/assets/git command repository.png",
+    "Catatan HTML/Rangkuman HTML/assets/dashboard repo.png",
+    "Catatan HTML/Rangkuman HTML/assets/branch halaman_about pull.png",
+    "Catatan HTML/Rangkuman HTML/assets/git-3.png",
+    "Catatan HTML/Rangkuman HTML/assets/akun-3.png",
+    "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
+    "Catatan HTML/Rangkuman HTML/assets",
+    "Asset.md",
+    "aset/7.png.md",
+    "Query/Praktikum 6.md",
+    "Query.zip",
+    "aset/6.png.md",
+    "aset/5.png.md",
+    "aset/4.png.md",
+    "aset",
     "BASIS DATA/Rangkuman basis data/Instalasi & Query awal Database.md",
-    "Asetb(.md",
-    "catatancss/Catatan Bootstrap.md",
-    "catatancss/Catatan responsive.md",
-    "catatancss/AssetRes",
-    "Bootstrap/Catatan Bootstrap.md",
-    "Responsive/ASETCSS(1)/responsive-1.png.md",
-    "Responsive/ASETCSS(1)",
-    "GIT & GITHUB/Catatan GIT & GITHUB.md",
-    "Responsive/AssetRes",
-    "Responsive/Catatan responsive.md",
-    "TugasUlangan/Tugas.md",
-    "test.txt",
-    "Remedial CSS/Tugas.md",
-    "TugasUlangan/AsetR",
-    "TugasUlangan",
-    "Aset.md",
+    "ALTER/CATATAN ALTER.md",
+    "BASIS DATA/Rangkuman basis data/Select Lanjutan.md",
+    "BASIS DATA/PENGENALAN BASIS DATA.md",
+    "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.md",
+    "Query/Catatan.md",
+    "PHP MYSQL/Asetsql",
     "BASIS DATA/Instalasi & Query awal Database.md",
-    "Remedial CSS",
-    "AselAlter"
+    "PHP MYSQL",
+    "Untitled.md",
+    "PHP Mysql.md",
+    "PRAKTIKUM 5.zip",
+    "PRAKTIKUM 5/Aset",
+    "PRAKTIKUM 5",
+    "Query",
+    "BASIS DATA/Rangkuman basis data/Query.md",
+    "catatancss/Catatan Bootstrap.md",
+    "catatancss/Catatan CSS.md",
+    "catatancss/Catatan responsive.md",
+    "Semantic HTML/Catatan SEMANTIC HTML.md",
+    "AssetPHP"
   ]
 }

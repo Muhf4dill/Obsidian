@@ -756,13 +756,13 @@ Select COUNT(peminjam) From mobil;
 
 ## MIN 
 ### Struktur query
-```
+```Mysql
 Select MI(nama_kolom) AS nilai_minimum
 From nama_tabel
 Where kondisi_opsional;
 ```
 ### Contoh query
-```
+```Mysql
 Select MIN(harga_rental) AS minimal From mobil;
 ```
 ### Penjelasan
@@ -774,13 +774,13 @@ Perintah `Select MIN(harga_rental) AS minimal From mobil` Digunakan untuk menamp
 ![gambar](assets/MIN.JPG)
 ## MAX 
 ### Struktur query
-```
+```Mysql
 Select MAX(nama_kolom) AS nilai_maksimum
 From nama_tabel 
 Where kondisi_opsional;
 ```
 ### Contoh query
-```
+```Mysql
 Select MAX(harga_rental) AS MAXIMAL From mobil;
 ```
 ### Penjelasan
@@ -793,13 +793,13 @@ Perintah `Select MIN(harga_rental) AS MAXIMAL From mobil` Digunakan untuk menamp
 
 ## AVG 
 ### Struktur query
-```
+```Mysql
 Select AVG(nama_kolom) AS rata-rata
 From nama_tabel
 Where kondisi_opsional;
 ```
 ### Contoh query
-```
+```Mysql
 Select AVG(harga_rental) AS RATA_RATA From mobil;
 ```
 ### Penjelasan

@@ -62,23 +62,23 @@ Sedangkan di PasswoRD" Kolom NBIK (tapi 1 karakter dari kiri), kolom NDEP (tapi 
 
 - CREATE TABLE anika = merupakan Perintah untuk membuat sebuah Tabel dalam databaSe Yang digunakan.
    angka adalah nama tabel Yang Ingin dibuat.
--(Indeks int (10) PRIMARY KEY NOT NULL,) = Indeks adalah nama kolom Yang ingin dibuat dalam tabel Yang Ingin dibuat.
+- (Indeks int (10) PRIMARY KEY NOT NULL,) = Indeks adalah nama kolom Yang ingin dibuat dalam tabel Yang Ingin dibuat.
     int(10) = merupakan tipe data dari kolom Indeks yang ditentukan dengan rande Selbanyak 10 karakter. (tipe data untuk bilangan bulat /numerik/angka). 
     PRIMARY KEY = Constraint dari kolom Indeks, merupakan kunci induk dari tabel angka.
     NOT NULL = Constraint kolom Indeks, memberikan Perintah kepada suatu kolom agar datanya tidak boleh kosong.
 
-(Nilai float(10) NOT NULL) = Nilai adalah nama kojom Yang ingin dibuat dalam tabel Yang ingin dibuat.
+- (Nilai float(10) NOT NULL) = Nilai adalah nama kojom Yang ingin dibuat dalam tabel Yang ingin dibuat.
     float (10) = merupakan tipe data dari kolom Nilai yang ditentukan dengan range sebanyak 10 Karakter. (untuk bilangan desimal / Pecahan /numerik, angka).
     NOT NULL = constraint kolom Nilai, memberikan Perintah kepada suatu kolom agar datanya tidak boleh kosong.
 
--Hasilnya = akan membuat tabel bernama angka yang berisi kolom Indeks bertipe data integer dan merupakan kunci induk dari tabel angka, Adapun kolm Nilai Yang bertipe data, float Yang tidak boleh kosong.
+- Hasilnya = akan membuat tabel bernama angka yang berisi kolom Indeks bertipe data integer dan merupakan kunci induk dari tabel angka, Adapun kolm Nilai Yang bertipe data, float Yang tidak boleh kosong.
 # 5
 
 ![Tabel 1](AsetQ/Tabel_Angka.png)
 
-`SELECT` = untuk memilih kolom mana Sara Yand indin dililih untuk ditampilkan
-`*`=merupakan tanda untuk memilih semya kolom Pada tabel Yang dipilih,
-`From angka`= untuk memilih dari tabel mana Yang datanya ingin ditampilkan.
+- `SELECT` = untuk memilih kolom mana Sara Yand indin dililih untuk ditampilkan
+- `*`=merupakan tanda untuk memilih semya kolom Pada tabel Yang dipilih,
+- `From angka`= untuk memilih dari tabel mana Yang datanya ingin ditampilkan.
 angka adalah nama tabel Yang dipilih.
 Hasilnya= merupakan isi dari tabel angka, Di kolom Indeks terdapat 1, 2,3,4.5,6,3,8
 dan pada kolom Nilai terdapat 574, 57.4, 5.74, 0.577,315, 31.5, 3.15, 0.315.
@@ -87,21 +87,21 @@ dan pada kolom Nilai terdapat 574, 57.4, 5.74, 0.577,315, 31.5, 3.15, 0.315.
 ![Tabel2](AsetQ/Tabel_Indeks.png)
 
 
-`SELECT` = untuk memilih Kolom mana Saja Yang ingin dipilih untuk ditampilkan/dihitung.
-`Indeks` = merupakan nama kolom Yang dipilih untuk ditampilkan.
-`Nilai` = nama kolom Yang ingin ditampilkan,
+- `SELECT` = untuk memilih Kolom mana Saja Yang ingin dipilih untuk ditampilkan/dihitung.
+- `Indeks` = merupakan nama kolom Yang dipilih untuk ditampilkan.
+- `Nilai` = nama kolom Yang ingin ditampilkan,
 `CEILING` (Nilai) = untuk membulatkan bilangan Pecahan ke atas. Nilai adalah kolom
 Yang dipilih untuk dibulatkan datanya Jadi semisal 57.4 dibulatkan ke atas jadi 58.
-`AS ceilval` = untuk mengganti nama dari kolom hasil CEILING (nilai) menradi ceival untuk sementara,
-`FlooR (Nilai)` =untuk membulatkan kolom Yang dipilih bilangan desimal ke bawah nilai adalah kolom Yang dililih untuk dibulatkan datanya Jadi semisal 57.4 dibulatkan ke bawah Jadi 57.
-`As Fival`= untuk mengganti nama, dari, kolom hasil Floor (Nibi) menjodi Flval sementara.
+- `AS ceilval` = untuk mengganti nama dari kolom hasil CEILING (nilai) menradi ceival untuk sementara,
+- `FlooR (Nilai)` =untuk membulatkan kolom Yang dipilih bilangan desimal ke bawah nilai adalah kolom Yang dililih untuk dibulatkan datanya Jadi semisal 57.4 dibulatkan ke bawah Jadi 57.
+- `As Fival`= untuk mengganti nama, dari, kolom hasil Floor (Nibi) menjodi Flval sementara.
 `ROUND (Nilai, 2)` = membulatkan bilangan dari kolom Nilai Sampai Jumlah digit tertentu
 Sesuai dengan Pilihan yang dibuat Yaitu 2.semisal 574 dibulatkan 2 kali jadi 574.00.
-`As Rnd2val` = untuk mengganti nama dari kolom hasil `ROUND (Nilai, 2)` menjadi `Rnd2val`
+- `As Rnd2val` = untuk mengganti nama dari kolom hasil `ROUND (Nilai, 2)` menjadi `Rnd2val`
 untuk sementara.
- `ROUND (nilai, 0)` = untuk membulatkan bilangan dari kolom nilai sampai jumlah tertentu Yaitu 0. Semisal 574 dibulatkan 0 kali jadi 574 karena o kali berarti tidak dibulatkan.
- `AS Rndoval` = untuk mengganti nama dari kolom hasil `ROUND (Nilai,0)` menjadi `Rndoval` untuk sementara.
-`ROUND (Nilai,-1)` = untuk membulatkan bilangan dari kolom nilai sampai Jumlah tertentu Yaitu -1. semisal 574 jika dibawah 5 maka Jadi 570 Jika diatasnya Jadi 580.
-`As Rnd-1val` = untuk mengganti nama dari kolom hasil `ROUND (Nilai, -1)` menjadi Rnd-1val. untuk sementara.
-`FROM angka` = untuk memilih dari tabel mana yang datanya ingin ditampilkan angka adalah nama tabel Yang dipilih.
-`Hasilnya` = merupakan hasil bulatan berbagai nilai memakai `ceiling`, `fror` dan `ROUND`.
+-  `ROUND (nilai, 0)` = untuk membulatkan bilangan dari kolom nilai sampai jumlah tertentu Yaitu 0. Semisal 574 dibulatkan 0 kali jadi 574 karena o kali berarti tidak dibulatkan.
+-  `AS Rndoval` = untuk mengganti nama dari kolom hasil `ROUND (Nilai,0)` menjadi `Rndoval` untuk sementara.
+- `ROUND (Nilai,-1)` = untuk membulatkan bilangan dari kolom nilai sampai Jumlah tertentu Yaitu -1. semisal 574 jika dibawah 5 maka Jadi 570 Jika diatasnya Jadi 580.
+- `As Rnd-1val` = untuk mengganti nama dari kolom hasil `ROUND (Nilai, -1)` menjadi Rnd-1val. untuk sementara.
+- `FROM angka` = untuk memilih dari tabel mana yang datanya ingin ditampilkan angka adalah nama tabel Yang dipilih.
+- `Hasilnya` = merupakan hasil bulatan berbagai nilai memakai `ceiling`, `fror` dan `ROUND`.

@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
+                "file": "Query/Praktikum 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
+            "file": "Query/Praktikum 6.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
+            "file": "Query/Praktikum 6.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md"
+            "file": "Query/Praktikum 6.md"
           }
         }
       },
@@ -186,23 +186,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fe22b1dd80ae580",
+  "active": "9959f1c36237f74f",
   "lastOpenFiles": [
-    "PHP/CATATAN PHP.md",
     "PRAKTIKUM 5/Catatan.md",
-    "PHP/AssetPHP/V1.jpg",
+    "PHP/CATATAN PHP.md",
+    "PHP/AssetPHP/3p.jpg",
+    "PHP/AssetPHP/2p.jpg",
+    "PRAKTIKUM 5/Aset/15 (1).png",
+    "PRAKTIKUM 5/Aset/18 (1).jpg",
+    "PRAKTIKUM 5/Aset/13 (1).jpg",
+    "PRAKTIKUM 5/Aset/gbr1.png",
+    "PRAKTIKUM 5/Aset/4.jpg",
+    "PRAKTIKUM 5/Aset/9 (1).jpg",
+    "PRAKTIKUM 5/Aset/2.jpg",
+    "PRAKTIKUM 5/Aset/14 (1).png",
+    "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
     "PHP MYSQL/Catatan.md",
     "PHP Basis Data/Catatan PHP BS.md",
-    "Catatan HTML/Rangkuman HTML/assets/git-7.png",
-    "Catatan HTML/Rangkuman HTML/assets/git-commit.png",
-    "Catatan HTML/Rangkuman HTML/assets/open-folder-vsc.png",
-    "Catatan HTML/Rangkuman HTML/assets/create file about page.png",
-    "Catatan HTML/Rangkuman HTML/assets/git command repository.png",
-    "Catatan HTML/Rangkuman HTML/assets/dashboard repo.png",
-    "Catatan HTML/Rangkuman HTML/assets/branch halaman_about pull.png",
-    "Catatan HTML/Rangkuman HTML/assets/git-3.png",
-    "Catatan HTML/Rangkuman HTML/assets/akun-3.png",
-    "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
     "Catatan HTML/Rangkuman HTML/assets",
     "Asset.md",
     "aset/7.png.md",

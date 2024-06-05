@@ -26,17 +26,12 @@ if ($koneksi) {
 - `else` digunakan jika koneksi gagal.
 - `echo "error, tidak bisa koneksi ke database";`menampilkan pesan kesalahan jika koneksi gagal.
 - `?>` adalah tag penutup php
-### Kesimpulan
-bertujuan untuk membuat koneksi ke database MySQL menggunakan `mysqli_connect()` dengan parameter hostname (`localhost`), username (`root`), password (kosong), dan nama database (`rental_fadhil`). Koneksi diperiksa dengan kondisi `if ($koneksi)`; jika koneksi berhasil, ditampilkan pesan "koneksi aman", jika gagal, ditampilkan pesan kesalahan "error, tidak bisa koneksi ke database".
-
-
-
 ### Hasil
 ![gambar](Asetsql/S1.jpg)
 
 # Tampilkan Data
 ## Query
-```PHP
+```php
 <?php
 // Koneksi ke database
 $koneksi = mysqli_connect('localhost', 'root', '', 'rental_fadhil');
@@ -75,18 +70,27 @@ mysqli_close($koneksi);
 ?>
 ```
 ### Analisis
-- `<?Php` tag pembuka php
-- `echo 'Berikut mobil-mobil beserta pemiliknya<br>'; ` Menampilkan teks pengantar untuk daftar mobil.`<br>`menambahkan baris baru setelah teks.
-- `$a = 1;` Mendefinisikan variabel `$a` dengan nilai awal 1. Variabel ini digunakan untuk memberi nomor urut pada daftar mobil.
-- `foreach ($select as $key => $data)` adalah loop yang mengiterasi setiap elemen dalam array $select.
-- `$key` adalah indeks dari elemen dalam array $select.
-- `$data` adalah nilai dari elemen dalam array $select.
-- `echo $a++ . ". " . $data['no_plat'] . " : " . $data['pemilik'] . '<br>';` menampilkan nomor urut, nomor plat mobil, dan pemilik mobil dari array $data.
-- `$a++` menambah nilai $a setelah digunakan, sehingga memberikan nomor urut untuk setiap item.
-- `?>` tag penutup php
-### Kesimpulan
-Kode menggunakan echo untuk mencetak teks HTML dan variabel dari array. Nomor urut ditampilkan menggunakan variabel $a yang diincrement setiap iterasi dalam loop foreach. Kode ini memanfaatkan data dari array $result untuk menampilkan nama pemilik dan array $select untuk menampilkan informasi mobil.
-  
+- `mysqli_connect('localhost', 'root', '', 'rental_fadhil')`: adalah fungsi untuk menghubungkan ke database MySQL.
+- `'localhost'`: Nama host, biasanya "localhost" jika database ada di server yang sama dengan server web.
+- `'root'`: Nama pengguna database.
+- `''`: Kata sandi pengguna database. Kosong dalam hal ini.
+- `'rental_fadhil'`: Nama database yang akan dihubungkan.
+- `if ($koneksi)`: Mengecek apakah koneksi ke database berhasil.Jika berhasil, mencetak pesan "koneksi aman".
+Jika gagal, mencetak pesan "Error, tidak bisa koneksi ke database" dan menghentikan skrip dengan exit.
+- `$query`: Mendefinisikan query SQL untuk mengambil kolom no_plat dan pemilik dari tabel mobil.
+- `$result = mysqli_query($koneksi, $query)`: Menjalankan query SQL tersebut pada koneksi database $koneksi.
+- `if ($result)`: Mengecek apakah query berhasil dieksekusi.
+- `$select = mysqli_fetch_all($result, MYSQLI_ASSOC)`: Mengambil semua hasil query dalam bentuk array asosiatif
+- echo 'Berikut mobil-mobil beserta pemiliknya<br>';: Menampilkan pesan pengantar.
+- `if (!empty($select))`: Mengecek apakah ada data yang diambil dari query.
+- `$a = 1;`: Menginisialisasi counter untuk penomoran.
+- `foreach ($select as $key => $data)`: Iterasi melalui setiap baris data hasil query.
+- `htmlspecialchars($data['no_plat'])`: Menghindari masalah XSS dengan mengonversi karakter khusus HTML dalam nilai no_plat.
+- `htmlspecialchars($data['pemilik'])`: Menghindari masalah XSS dengan mengonversi karakter khusus HTML dalam nilai pemilik.
+- Menampilkan nomor urut, plat nomor, dan pemilik mobil.
+- `else`: Jika tidak ada data yang diambil, menampilkan pesan "Tidak ada data mobil yang tersedia."
+- Jika query gagal dieksekusi, mencetak pesan error dengan penjelasan dari fungsi mysqli_error.
+- `mysqli_close($koneksi)`: Menutup koneksi ke database.
 ### Hasil 
 ![gambar](Asetsql/S2.jpg)
 
@@ -353,7 +357,7 @@ header('Location: login.php');
 - `$result = mysqli_query($koneksi, "SELECT * FROM user WHERE username = '$username' AND password = '$password'");` : Menjalankan query untuk memeriksa username dan password.
 - `$data = mysqli_fetch_assoc($result);`: Mengambil data pengguna dari hasil query.
 - `if (isset($data)) {  ​$SESSION['username'] = $data['username'];  ​$SESSION['nama'] = $data['nama'];$_SESSION['status'] = 'login'; header('Location: user.php');} else { echo "Username dan Password Salah";}`: Jika cocok, mengatur variabel sesi dan mengarahkan ke user.php. Jika tidak cocok, menampilkan pesan kesalahan.
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

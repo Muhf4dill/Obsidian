@@ -72,7 +72,7 @@ Operator dalam pemrograman adalah simbol atau tanda yang digunakan untuk melakuk
 ### Aritmatika
 Operator Aritmatika: Digunakan untuk melakukan operasi matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian. Contoh: `+, -, *, /, % (modulus)`.
 #### Kode Program
-```
+```Php
 <!DOCTYPE html>
 <html>
 <head>
@@ -108,7 +108,7 @@ Operator Aritmatika: Digunakan untuk melakukan operasi matematika seperti penjum
 </body>
 </html>
 ```
-#### Penjelasan
+#### Analisis
 - `<!DOCTYPE html>`: Mendefinisikan tipe dokumen HTML yang digunakan.
 - `<html>`: Menandai awal elemen HTML.
 - `<head>`: Bagian kepala dokumen HTML yang berisi informasi metadata, seperti judul halaman.
@@ -139,7 +139,7 @@ Operator Aritmatika: Digunakan untuk melakukan operasi matematika seperti penjum
 - `Operator penambahan (+)`digunakan untuk menambahkan dua nilai.
 - `Operator pengurangan (-)`digunakan untuk mengurangkan dua nilai.
 - `Operator perkalian (*)` digunakan untuk mengalikan dua nilai.
-- `Operator pembagian (/)`digunakan untuk membagi dua nilai.
+- `Operator pembagian (/)`digunakan untuk membagi dua nilai.in
 - `Operator modulus (%)`digunakan untuk menghitung sisa pembagian dari pembagian dua nilai.
 Kalkulator ini memungkinkan pengguna untuk dengan cepat dan mudah melakukan operasi matematika dasar antara dua angka dan melihat hasilnya secara langsung.
 #### Hasil 
@@ -147,7 +147,7 @@ Kalkulator ini memungkinkan pengguna untuk dengan cepat dan mudah melakukan oper
 
 ### Perbandingan
 ### kode 
-```
+```php
 <!DOCTYPE html>
 <html>
 <head>
@@ -185,7 +185,7 @@ Kalkulator ini memungkinkan pengguna untuk dengan cepat dan mudah melakukan oper
 </body>
 </html>
 ```
-### Penjelasan
+### Analisis
 - `<!DOCTYPE html>`: Mendefinisikan tipe dokumen HTML yang digunakan.
 - `<html>`: Menandai awal elemen HTML.
 - `<head>`: Bagian kepala dokumen HTML yang berisi informasi metadata, seperti judul halaman.
@@ -224,7 +224,7 @@ Kalkulator ini memungkinkan pengguna untuk dengan cepat dan mudah melakukan oper
 ![gambar](AssetPHP/OP.jpg)
 ### Logika 
 ### Kode 
-``` 
+```php
 <!DOCTYPE html>
 <html>
 <head>
@@ -262,7 +262,7 @@ Kalkulator ini memungkinkan pengguna untuk dengan cepat dan mudah melakukan oper
 </body>
 </html>
 ```
-### Penjelasan
+### Analisis
 - `<!DOCTYPE html>`: Mendefinisikan tipe dokumen HTML yang digunakan.
 - `<html>`: Menandai awal elemen HTML.
 - `<head>`: Bagian kepala dokumen HTML yang berisi informasi metadata, seperti judul halaman.

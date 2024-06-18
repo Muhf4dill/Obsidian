@@ -1,12 +1,13 @@
 # PRAKTIKUM 6
 ## 1
+![gambar](AsetQ/P1.png)
 ### Program
 ```Mysql
 SELECT NIP, CONCAT(NDep, " ", NBik) AS NamaLengkap
     -> FROM pegawai
     -> WHERE Jabatan ='Sales';
 ```
-### Penjelasan
+### Analisis
 - `Select`= untuk memilih kolom mana saja yang ingin dipilih untuk ditampilkan/digabung
 - `NIP`= Merupakan nama kolom yang dipilih untuk ditampilkan 
 - `CONCAT (NDEP,NBLK)`= Menggabungkan beberapa data dalam kolom yang dipilih menjadi satu kolom `(NDEP)`adalah  nama kolom yang dipilih untuk digabungkan datanya `(" ")` Adalah spasi yang diberikan diantara dua kolom yang gabungan yang di pilih.`(data ! Bukan kolom) (NBLK)` adalah nama kolom yang dipilih untuk digabungkan datanya 

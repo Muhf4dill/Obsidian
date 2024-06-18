@@ -1170,7 +1170,8 @@ box-1{
 - `.content h2 {...}`: Menghilangkan margin atas dari judul kedua di dalam konten.
 - `button {...}`: Mengatur tampilan tombol, termasuk tinggi, padding, dan posisi teks.
 - `.thumbs-up {...}`: Menetapkan tampilan tombol suka, termasuk posisi, ukuran, dan latar belakang gambar. Namun, ada kesalahan pada pengaturan latar belakang gambar yang perlu diperbaiki.
-
+### Kesimpulan
+berfungsi untuk menampilkan sebuah card berisi gambar, teks, dan tombol dalam halaman web dengan latar belakang biru. Card ini menampilkan informasi seperti gambar, tanggal, judul, dan deskripsi, serta memiliki tombol untuk menyukai
 ### Kode Program 
 ```html
 <!DOCTYPE html>
@@ -1256,4 +1257,4 @@ height: 50px;
 ```
 
 ### Hasil
-![gambar](asetcss/ATP.JPG)
+![gambar](asetcss/ATP.jpg)

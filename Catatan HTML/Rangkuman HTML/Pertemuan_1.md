@@ -10,7 +10,7 @@ Web adalah sistem informasi global di internet yang memungkinkan akses dan pertu
 3. TUJUAN WEB
 Tujuan web adalah menyediakan akses cepat dan efisien ke berbagai informasi,
 ## TEMAN KELOMPOK 
-- Nabil
+- Fadil
 - Ardi
 - Fachri
 - Rehan 

@@ -15,20 +15,20 @@ USE sekolah_fadil
     -> tanggal_lahir date not null);
 ```
 ## Analisis 
-**Q 1**
+### Q 1
 - `Create`:  digunakan untuk membuat objek baru dalam basis data, seperti tabel, database, atau indeks.
 - `database`: sebuah data base yang ingin kita buat. 
 - `sekolah_fadil`: nama database yang telah di buat. 
 - `;`: menandakan akhir dari perintah yang diberikan.
-**Kesimpulan**:
+## Kesimpulan
 `create database sekolah_fadil;` digunakan untuk membuat sebuah database baru dengan sebuah nama `"sekolah_fadil"`Dan diakhiri tanda titik koma. 
-**Q2**
+### Q2
 - `USE`: Perintah yang digunakan untuk memilih atau beralih ke sebuah database tertentu.
 - `sekolah_fadil` : adalah nama database yang ingin kita gunakan atau aktifkan. 
 - `;`: menandakan akhir dari perintah yang diberikan. 
-**Kesimpulan**:
+## Kesimpulan
 `USE sekolah_fadil;` digunakan untuk memilih atau beralih ke database yang bernama `sekolah_fadil` dan diakhiri tanda titik koma. 
-**Q3**
+### Q3
 - `CREATE TABLE tabel_guru (` :Digunakan untuk membuat tabel baru dalam database.`tabel_guru` Nama dari tabel baru yang  dibuat.
 - `id_guru int(10) primary key`:Membuat kolom id_guru dengan tipe data integer, panjang maksimum 10 digit, dan menetapkannya sebagai kunci utama (primary key) tabel. 
 - `nama_depan varchar(25) not null`:Membuat kolom nama_depan dengan tipe data karakter, panjang maksimum 25 karakter, dan menetapkan bahwa kolom ini tidak boleh kosong (not null).
@@ -38,7 +38,7 @@ USE sekolah_fadil
 - `usia int(10) not null`:Membuat kolom usia dengan tipe data integer, panjang maksimum 10 digit, dan menetapkan bahwa kolom ini tidak boleh kosong (not null).
 - `tanggal_lahir date not null`:Membuat kolom tanggal_lahir dengan tipe data tanggal dan menetapkan bahwa kolom ini tidak boleh kosong (not null).
 - `);`: Menandakan akhir dari definisi tabel.
-**Kesimpulan**
+## Kesimpulan
 Perintah `CREATE TABLE tabel_guru (id_guru int(10) primary key, nama_depan varchar(25) not null, nama_belakang varchar(25) not null, mapel varchar(25) not null, jabatan varchar(50) not null, usia int(10) not null, tanggal_lahir date not null);` digunakan untuk membuat sebuah tabel baru dengan nama "tabel_guru" dalam database yang aktif. Tabel ini memiliki beberapa kolom dengan tipe data yang telah ditentukan dan aturan seperti kunci utama (primary key) dan tidak boleh kosong (not null), dan diakhiri dengan tanda titik koma.
 ## Hasil 
 ![gambar](AsetRBS/Q1.jpg)
@@ -62,12 +62,12 @@ INSERT INTO tabel_guru values
 - Nilai-nilai yang akan dimasukkan ke dalam baris kedua  tabel tabel_guru:`id_guru`: 2`nama_depan`: "Ibrahim" `nama_belakang`: "Mallombasang"`mapel`: "Basis Data"
 `jabatan`: "Kepala Sekolah"`usia`: 21`tanggal_lahir`: '2000-09-21'
 - Baris 3: (3, "Muhammad", "Yusuf", "Pemodelan Perangkat Lunak", NULL, 28, '1992-12-24'):
-- Nilai-nilai yang akan dimasukkan ke dalam baris ketiga tabel tabel_guru:`id_guru`: 3`nama_depan`: "Muhammad" `nama_belakang`: "Yusuf"`mapel`: "Pemodelan Perangkat Lunak" jabatan: NULL (kosong)`usia`: 28`tanggal_lahir`: '1992-12-24'
-- Baris 4: (4, "Rusdyansyar", NULL, "Pemrograman Berorientasi Objek", "Asisten Kepala Sekolah", 25, '1996-01-21'):
-- Nilai-nilai yang akan dimasukkan ke dalam baris keempat tabel tabel_guru:`id_guru`: 4`nama_depan`: "Rusdyansyar"
-`nama_belakang`: NULL (kosong)`mapel`: "Pemrograman Berorientasi Objek"`jabatan`: "Asisten Kepala Sekolah"
-`usia`: 25`tanggal_lahir`: '1996-01-21'
-**Kesimpulan**
+- Nilai-nilai yang akan dimasukkan ke dalam baris ketiga tabel tabel_guru:`id_guru`: 3`nama_depan`: "Muhammad" `nama_belakang`: "Yusuf"`mapel`: "Pemodelan Perangkat Lunak" jabatan: NULL (kosong)`usia : 28 tanggal_lahir: '1992-12-24'`
+- Baris 4: (4, "Rusdyansyar", NULL, "Pemrograman Berorientasi Objek", `"Asisten Kepala Sekolah", 25, '1996-01-21'):`
+- Nilai-nilai yang akan dimasukkan ke dalam baris keempat tabel tabel_guru:`id_guru: 4 `nama_depan`: "Rusdyansyar"
+`nama_belakang`: NULL (kosong)`mapel`: "Pemrograman Berorientasi Objek"`jabatan: "Asisten Kepala Sekolah"
+`usia: 25tanggal_lahir: '1996-01-21'`
+## Kesimpulan
 `INSERT INTO tabel_guru values(1,"Adrianty",NULL,"Pemrograman Web","Ketua Jurusan",34,1982-06-29),(2,"Ibrahim","Mallombasang","Basis Data","Kepala Sekolah",21,2000-09-21),(3,"Muhammad","Yusuf","Pemodelan Perangkat Lunak",NULL,28,1992-12-24),(4,"Rusdyansyar",NULL,"Pemrograman Berorientasi Objek","Asisten Kepala Sekolah",25,1996-01-21);` digunakan untuk memasukkan data ke dalam tabel tabel_guru. Setiap baris data diwakili oleh satu set nilai yang dipisahkan oleh koma, dan setiap nilai sesuai dengan kolom dalam tabel dalam urutan yang sama. Jika nilai NULL dimasukkan, itu menunjukkan bahwa tidak ada nilai yang tersedia untuk kolom tersebut.
 ## Hasil 
 ![gambar](AsetRBS/Q2.jpg)

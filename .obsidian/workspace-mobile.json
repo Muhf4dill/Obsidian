@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP MYSQL/Catatan.md",
+                "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PHP MYSQL/Catatan.md",
+            "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PHP MYSQL/Catatan.md",
+            "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PHP MYSQL/Catatan.md"
+            "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md"
           }
         }
       },
@@ -188,50 +188,51 @@
   },
   "active": "6fe22b1dd80ae580",
   "lastOpenFiles": [
-    "PHP Basis Data/Catatan PHP BS.md",
-    "Remedial_BS/UJIAN BS.md",
-    "BASIS DATA/Rangkuman basis data/Instalasi & Query awal Database.md",
-    "Remedial_BS/AsetRBS/Q12.jpg",
-    "Remedial_BS/AsetRBS/Q11.jpg",
-    "Remedial_BS/AsetRBS/Q10.jpg",
-    "Remedial_BS/AsetRBS/Q9.jpg",
-    "Remedial_BS/AsetRBS/Q8.jpg",
-    "Remedial_BS/AsetRBS/Q7.jpg",
-    "Remedial_BS/AsetRBS/Q6.jpg",
-    "Remedial_BS/AsetRBS/Q5.jpg",
-    "Remedial_BS/AsetRBS/Q4.jpg",
-    "Remedial_BS/AsetRBS/Q3.jpg",
-    "Remedial_BS/AsetRBS",
-    "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
-    "Asset.md",
-    "aset/5.png.md",
     "catatancss/Catatan CSS.md",
-    "PHP/CATATAN PHP.md",
-    "Query/Praktikum 6.md",
-    "PRAKTIKUM 5/Catatan.md",
+    "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+    "Catatan HTML/Rangkuman HTML/Pertemuan_1.md",
+    "Catatan HTML/Rangkuman HTML/Pengenalan Web.md",
+    "Catatan HTML/Rangkuman HTML/Deskripsi.md",
     "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
+    "Catatan HTML/Belajar HTML.md",
+    "catatancss/Catatan Bootstrap.md",
+    "Ekplorasi CSS/TAILWIND CSS.md",
+    "PHP/CATATAN PHP.md",
+    "PHP/AssetPHP/E1.jpg",
+    "PHP/AssetPHP/E2.jpg",
+    "PHP Basis Data/Catatan PHP BS.md",
     "PHP MYSQL/Catatan.md",
-    "Catatan HTML/Rangkuman HTML/assets",
-    "aset/7.png.md",
-    "Query.zip",
-    "aset/6.png.md",
-    "aset/4.png.md",
-    "aset",
-    "ALTER/CATATAN ALTER.md",
-    "BASIS DATA/Rangkuman basis data/Select Lanjutan.md",
-    "BASIS DATA/PENGENALAN BASIS DATA.md",
-    "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.md",
+    "PRAKTIKUM 5/Catatan.md",
+    "Query/Praktikum 6.md",
+    "AsetQ/P1.jpg.md",
+    "AsetQ/P.jpg.md",
+    "AsetQ",
     "Query/Catatan.md",
-    "PHP MYSQL/Asetsql",
+    "Remedial_BS/UJIAN BS.md",
+    "Responsive/Catatan responsive.md",
+    "Asset/responsive-1.png.md",
+    "Responsive/AssetRes/responsive-1.png",
+    "Responsive/AssetRes/res-3.png",
+    "Responsive/AssetRes/res-2.png",
+    "Asset",
+    "ASETCSS(1)/responsive-1.png.md",
+    "ASETCSS(1)",
+    "Semantic HTML/Catatan SEMANTIC HTML.md",
+    "TugasUlangan/Tugas.md",
+    "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.md",
     "BASIS DATA/Instalasi & Query awal Database.md",
-    "PHP MYSQL",
-    "Untitled.md",
-    "PHP Mysql.md",
-    "PRAKTIKUM 5.zip",
-    "PRAKTIKUM 5/Aset",
-    "PRAKTIKUM 5",
-    "Query",
-    "BASIS DATA/Rangkuman basis data/Query.md",
-    "catatancss/Catatan Bootstrap.md"
+    "BASIS DATA/Rangkuman basis data/Select Lanjutan.md",
+    "PHP Basis Data.zip",
+    "BASIS DATA/Rangkuman basis data/assets/TTNF.jpg",
+    "BASIS DATA/Rangkuman basis data/assets/TTN.jpg",
+    "PHP Basis Data/AsetPHPB/R.jpg",
+    "catatancss/asetcss/ATP.jpg",
+    "Remedial_BS/AsetRBS/Q12.jpg",
+    "Remedial_BS/AsetRBS",
+    "Catatan HTML/Rangkuman HTML/assets",
+    "Query.zip",
+    "aset",
+    "PHP MYSQL/Asetsql",
+    "PHP MYSQL"
   ]
 }

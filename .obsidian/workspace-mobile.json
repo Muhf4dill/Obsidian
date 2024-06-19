@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+                "file": "ALTER/CATATAN ALTER.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+            "file": "ALTER/CATATAN ALTER.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+            "file": "ALTER/CATATAN ALTER.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Catatan HTML/Rangkuman HTML/Belajar HTML.md"
+            "file": "ALTER/CATATAN ALTER.md"
           }
         }
       },
@@ -188,8 +188,10 @@
   },
   "active": "6fe22b1dd80ae580",
   "lastOpenFiles": [
-    "catatancss/Catatan CSS.md",
+    "ALTER/Asetalter/Ready.jpg",
+    "PHP MYSQL/Catatan.md",
     "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+    "catatancss/Catatan CSS.md",
     "Catatan HTML/Rangkuman HTML/Pertemuan_1.md",
     "Catatan HTML/Rangkuman HTML/Pengenalan Web.md",
     "Catatan HTML/Rangkuman HTML/Deskripsi.md",
@@ -201,7 +203,6 @@
     "PHP/AssetPHP/E1.jpg",
     "PHP/AssetPHP/E2.jpg",
     "PHP Basis Data/Catatan PHP BS.md",
-    "PHP MYSQL/Catatan.md",
     "PRAKTIKUM 5/Catatan.md",
     "Query/Praktikum 6.md",
     "AsetQ/P1.jpg.md",
@@ -221,7 +222,6 @@
     "TugasUlangan/Tugas.md",
     "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.md",
     "BASIS DATA/Instalasi & Query awal Database.md",
-    "BASIS DATA/Rangkuman basis data/Select Lanjutan.md",
     "PHP Basis Data.zip",
     "BASIS DATA/Rangkuman basis data/assets/TTNF.jpg",
     "BASIS DATA/Rangkuman basis data/assets/TTN.jpg",

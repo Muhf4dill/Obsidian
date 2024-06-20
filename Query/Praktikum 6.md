@@ -15,7 +15,7 @@ SELECT NIP, CONCAT(NDep, " ", NBik) AS NamaLengkap
 - `FROM pegawai`= untuk memilih dari tabel  mana yang datanya ingin ditampilkan pegawai adalah nama dari tabel yang dipilih
 - `WHERE`= Kondisi yang harus dipenuhi oleh suatu data agar bisa ditampilkan
 - `(Jabatan = 'Sales')`= kondisi dari where yang harus dipenuhi. Jadi yang barisan data yang Kolom jabatannya berisi Sales, Maka kolom `NIP` dan gabungan kolom : `NDEP` dan `NBLK` akan ditampilkan
-- `Hasilnya`= Jadi, kolom yang ingin ditampilkan adalah `NIP dan NDEP, NBLK, NDEP dan NBLK` ingin digabung menggunakan `CONCAT`, Perintah `Concat`Menggabung data tanpa spasi, maka kita harus memasukkan pemisah secara manual yaitu `(" ")` Diantara `NDEP dan NBLK`. Adapun kondisi dari where yaitu hanya barisan data yang kolom jabatannya berisi sales yang bisa ditampilkan kolom NIP dan NDEP, NBLK. Kolom gabungan dari NDEP dan NBLK juga diubah namanya menjadi NamaLengkap, untuk sementara. (" ") Merupakan data yang kita masukkan yaitu spasi, yang bekerja  sebagai pemisah antara NDEP dan NBLK  yang merupakan kolom yang ingin di gabung. 
+- `Hasilnya`= Jadi, kolom yang ingin ditampilkan adalah `NIP dan NDEP, NBLK, NDEP dan NBLK` ingin digabung menggunakan `CONCAT`, Perintah `Concat`Menggabung data tanpa spasi, maka kita harus memasukkan pemisah secara manual yaitu `(" ")` Diantara `NDEP dan NBLK`. Adapun kondisi dari where yaitu hanya barisan data yang kolom jabatannya berisi sales yang bisa ditampilkan kolom `NIP` dan `NDEP, NBLK`. Kolom gabungan dari `NDEP` dan `NBLk`juga diubah namanya menjadi NamaLengkap, untuk sementara. (" ") Merupakan data yang kita masukkan yaitu spasi, yang bekerja  sebagai pemisah antara `NDEP` ddan`NBLK` yang merupakan kolom yang ingin di gabung. 
 ### Hasil
 ![gambar](AsetQ/1.jpg)
 Tabel Pegawai
@@ -23,34 +23,34 @@ Tabel Pegawai
 # 2
 ![gambar](AsetQ/P2.png)
 # Analisis
-- SELECT = untuk memilih kolom mana saja yang ingin dipilih untuk ditampilkan/didabund.
-- NIP = merupakan nama kolom Yang dipilih untuk ditampilkan.
-- CONCAT (NDEP,'', NBIF) = menggabungkan beberapa data dalam kolom Yang dipilih menjadi satu data kolom.
+- `SELECT` = untuk memilih kolom mana saja yang ingin dipilih untuk ditampilkan/didabund.
+- `NIP` = merupakan nama kolom Yang dipilih untuk ditampilkan.
+- `CONCAT (NDEP,'', NBIF)`= menggabungkan beberapa data dalam kolom Yang dipilih menjadi satu data kolom.
   (NDEP) adalah nama kolom Yang dipilih untuk disabunikan datanya.
   ('-') merupakan data biasa Yang dimasukkan. Yaitu Jaris bawah. Aletalkkan diantara NDEP, dan NBIk untuk sebalai pemisah antara kedua kolom Yang ingin digabungkan tersebut.
  (NBIK) adalah nama kolom Yang dipilih untuk disabun ikan datanya. bersama NDEP.
 - AS Namalengkap untuk mengganti nama dari kolom hasil CONCAT (NDEP, '`_`' , NBIK) menjadi NamaLengkap untuk sementara.
-- JK = merupakan nama kolom yang dipilih untuk ditampilkan.
+- `JK`= merupakan nama kolom yang dipilih untuk ditampilkan.
 - From Pegawai untuk memilih dari tabel mana Yang datanya ingin ditampilkan. Pegawai adalah nama dari tabel Yang dipilih.
-- WHERE = kondisi yang harus dipenuhi oleh suatu data agar bisa ditampilkan. 
-- Jabatan = "Manajer") kondisi dari WHERE Yang harus dipenuhi. jadi barisan data Yang Kolom Jabatan nya berisi Manajer, maka kolom NIP, NDEP, NBIk dan Ik dari barisan data tersebut akan tampil.
+- `WHERE` = kondisi yang harus dipenuhi oleh suatu data agar bisa ditampilkan. 
+- `Jabatan` = "Manajer") kondisi dari WHERE Yang harus dipenuhi. jadi barisan data Yang Kolom Jabatan nya berisi Manajer, maka kolom NIP, NDEP, NBIk dan Ik dari barisan data tersebut akan tampil.
 - Hasilnya Hampir sama seperti No 1., kecuali Yang berbeda adalah data yang dipilih untuk sebagai pemisah adalah '`_`' Yaitu garis bawah. Dan ada Juga kolom Yang ingin ditampilkan juga adalah JK, Hanya barisan data Yang kolom Jabatan nya berisi Manajer yang kolom JK nya bisa tampil, sesuai dengan Kondisi WHERE. 
  Adapun kondisi Yang berbeda Yaitu kolom Jabatan = Manajer, barisan data Yang mempenuhi data tersebut maka kolom NIP, dan NDep, NBIk dari barisan data tersebut akan tampil...
 # 3
 ![gambar](AsetQ/P3.png)
 # Analisis
 
-- SELECT = untuk memilih kolom mana saja yang ingin dipilih untuk ditampilkan /digabung
-- NIP = merupakan nama kolom yang dipilih untuk ditampilkan.
-- CONCAT (NDEP, RIGHT (NIP, 3)) = untuk menggabungkan beberapa data dalam kolam Yang dipilih menjadi satu data kolom.
+- `SELECT` = untuk memilih kolom mana saja yang ingin dipilih untuk ditampilkan /digabung
+- `NIP` = merupakan nama kolom yang dipilih untuk ditampilkan.
+- `CONCAT (NDEP, RIGHT (NIP, 3))` = untuk menggabungkan beberapa data dalam kolam Yang dipilih menjadi satu data kolom.
   (NDEP) = merupakan nama kolom Yang dipilih untuk digabungkan.
-- RIGHT (NIP, 3) merupakan Perintah untuk memotong data sejumlah 3 karakter dari kanan Pada kolom     NIP. seperti 10107 Jadi yang diambil adalah 107. 
-- As username = untuk mengganti nama dari kolom hasil CONCAT (NDep, RIGHT (NIP, 3)) menjadi username untuk sementara.
-- CONCAT (LEFT (NBIK, 1), RIGHT (NDep, 2), SUBSTRING (NBIk, 2, 4)) = untuk menggabungkankan beberapa data dalam kolom Yang dipilih menjadi satu kolom data. 
- LEFT (NBIK, 1) = untuk memotong data sejumlah 1 Karakter dari kiri Pada kolom NBIk. Seperti Salsalina Jadi Yang diambil adalah S 
+- `RIGHT (NIP, 3)`merupakan Perintah untuk memotong data sejumlah 3 karakter dari kanan Pada kolom     NIP. seperti 10107 Jadi yang diambil adalah 107. 
+- `As username` = untuk mengganti nama dari kolom hasil CONCAT (NDep, RIGHT (NIP, 3)) menjadi username untuk sementara.
+- `CONCAT (LEFT (NBIK, 1), RIGHT (NDep, 2), SUBSTRING (NBIk, 2, 4))` = untuk menggabungkankan beberapa data dalam kolom Yang dipilih menjadi satu kolom data. 
+  LEFT (NBIK, 1) = untuk memotong data sejumlah 1 Karakter dari kiri Pada kolom NBIk. Seperti Salsalina Jadi Yang diambil adalah S 
   RIGHT (NDEP, 2) = untuk memotong data sejumlah karakter dari kanan Pada kolom NDep, seperti Emya Jadi Yang diambil adalahYa
  SUBSTRING (NBIK, 2, 4) = untuk memotong data sejumlah 4. karakter Yang dimulai dari karakter ke-2 Yant dihitung dari kiri. seperti salšalina Jadi Yand diambil adalah alsa.
-- As Password = untuk mengganti nama dari kolom hasil CONCAT menjadi Password untuk Sementara.
+- `As Password`= untuk mengganti nama dari kolom hasil CONCAT menjadi Password untuk Sementara.
 - From pegawai untuk memilih dari tabel mana Yang datanta ingin ditampilkan. pegawai adalah nama tabel yang dipilih.
 Hasilnya = Jadi badi kolom "username" dan "Password" mereka memakai Perintah Yang unik seperti LEFT, RIGHT dan SUBSTRING. semisal di UserName Yang ingin digabung NDep dan NIP (tapi 3 karakter dari kanan). NDep nya Emya dan NIP terpotong adalah 107 Jadi digabung Emya 107 dan begitu seterusnya Pada kolom "userName".
 Sedangkan di PasswoRD" Kolom NBIK (tapi 1 karakter dari kiri), kolom NDEP (tapi 2 karakter kanan), dan kolom NBIK (tapi 4 karakter setelah 2 karakter dari kiri). Jadi S, Ya, dan alsa Jadi Syaalsa dan besitu seterusnya Pada kolom "Password".
@@ -61,18 +61,16 @@ Sedangkan di PasswoRD" Kolom NBIK (tapi 1 karakter dari kiri), kolom NDEP (tapi 
 
 # Analisis
 
-- CREATE TABLE anika = merupakan Perintah untuk membuat sebuah Tabel dalam databaSe Yang digunakan.
+- `CREATE TABLE anika`= merupakan Perintah untuk membuat sebuah Tabel dalam databaSe Yang digunakan.
    angka adalah nama tabel Yang Ingin dibuat.
-- (Indeks int (10) PRIMARY KEY NOT NULL,) = Indeks adalah nama kolom Yang ingin dibuat dalam tabel Yang Ingin dibuat.
-    int(10) = merupakan tipe data dari kolom Indeks yang ditentukan dengan rande Selbanyak 10 karakter. (tipe data untuk bilangan bulat /numerik/angka). 
+- `(Indeks int (10) PRIMARY KEY NOT NULL,)`= Indeks adalah nama kolom Yang ingin dibuat dalam tabel Yang Ingin dibuat.
+- `int(10)` = merupakan tipe data dari kolom Indeks yang ditentukan dengan rande Selbanyak 10 karakter. (tipe data untuk bilangan bulat /numerik/angka). 
     PRIMARY KEY = Constraint dari kolom Indeks, merupakan kunci induk dari tabel angka.
     NOT NULL = Constraint kolom Indeks, memberikan Perintah kepada suatu kolom agar datanya tidak boleh kosong.
-
-- (Nilai float(10) NOT NULL) = Nilai adalah nama kojom Yang ingin dibuat dalam tabel Yang ingin dibuat.
+- `(Nilai float(10) NOT NULL)` = Nilai adalah nama kojom Yang ingin dibuat dalam tabel Yang ingin dibuat.
     float (10) = merupakan tipe data dari kolom Nilai yang ditentukan dengan range sebanyak 10 Karakter. (untuk bilangan desimal / Pecahan /numerik, angka).
     NOT NULL = constraint kolom Nilai, memberikan Perintah kepada suatu kolom agar datanya tidak boleh kosong.
-
-- Hasilnya = akan membuat tabel bernama angka yang berisi kolom Indeks bertipe data integer dan merupakan kunci induk dari tabel angka, Adapun kolm Nilai Yang bertipe data, float Yang tidak boleh kosong.
+    - Hasilnya = akan membuat tabel bernama angka yang berisi kolom Indeks bertipe data integer dan merupakan kunci induk dari tabel angka, Adapun kolm Nilai Yang bertipe data, float Yang tidak boleh kosong.
 # 5
 
 ![Tabel 1](AsetQ/Tabel_Angka.png)

@@ -5,21 +5,21 @@ PHP (Hypertext Preprocessor) adalah sebuah bahasa skrip dengan fungsi umum yang 
 
 ## Penggunaan Awal PHP 
 untuk penggunaan awal PHP kita harus mengikuti langkah langkah berikut.
-1) Buka XAMPP lalu aktifkan "MySQL" dan "Apache". ![Gambar](1p.jpg)
+1) Buka XAMPP lalu aktifkan "MySQL" dan "Apache". ![Gambar](AssetPHP/1p.jpg)
 2) Masuk ke directory C.
-   ![gambar](2p.jpg)
+   ![gambar](AssetPHP/2p.jpg)
 3) Buka folder XAMPP lalu buka folder Htdocs. 
-![gambar](3p.jpg)
+![gambar](AssetPHP/3p.jpg)
 4) Buat folder dengan nama yang anda inginkan.
-![Gambar](4p.jpg)
+![Gambar](AssetPHP/4p.jpg)
 5) Kemudian Masuk ke VSCode lalu klik "Open Folder" dan pilih folder yang telah anda buat.
-![Gambar](5p.jpg)
+![Gambar](AssetPHP/5p.jpg)
 
 6) Buat Dokumen dengan ekstensi "php".
-   ![Gambar](6p.jpg)
+   ![Gambar](AssetPHP/6p.jpg)
  
  7) Untuk mengetikkan program php,  selalu dibuka dengan "`<?php`" dan di akhiri dengan `?>`.
-   ![Gambar](7p.jpg)
+   ![Gambar](AssetPHP/7p.jpg)
 8) Anda telah dapat membuat kode program PHP sesuai dengan keinginan anda.
 
 ## Echo & Komentar 

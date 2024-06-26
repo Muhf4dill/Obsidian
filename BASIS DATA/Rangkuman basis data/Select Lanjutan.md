@@ -178,7 +178,7 @@ Select * from mobil where pemilik IN ("Ibrahim","Baim")
 - `IN ("Ibrahim", "Baim")`: adalah kondisi yang kita tentukan menggunakan operator `IN`.  berarti kita hanya ingin baris-baris di mana nilai kolom `pemilik` adalah `Ibrahim` atau `Baim`.
 ### Kesimpulan
 perintah  `Select * from mobil where pemilik IN ("Ibrahim","Baim")`akan menampilkan semua kolom dari tabel `mobil` di mana nilai kolom `pemilik` adalah `Ibrahim`atau `Baim`.
-![gambar](assets/IN.JPG)
+![gambar](assets/IN.jpg)
 
 ## IN + AND
 ### Struktur
@@ -200,7 +200,7 @@ And harga_rental = 50000;
 - `AND harga_rental = 50000`: adalah bagian tambahan dari perintah `WHERE` yang memberikan kriteria tambahan data yang akan dipilih. Kriteria tersebut adalah menampilkan data kolom `harga_rental` adalah `50000`.
 ### Kesimpulan
 Perintah tersebut akan menampilkan semua kolom untuk setiap entri di tabel ``"mobil"`` di mana warna mobil adalah `Hitam' atau 'Silver'` dan harga `rental_mobil` adalah `50.000`.
-![gambar](assets/IAND.JPG)
+![gambar](assets/IAND.jpg)
 
 ## IN + OR
 ### Struktur
@@ -222,7 +222,7 @@ OR Harga_rental = 50000;
 - `OR harga_rental = 50000`: adalah bagian tambahan dari perintah `WHERE` yang memberikan kriteria tambahan  data yang akan dipilih. Kriteria tersebut adalah menampilkan data kolom `harga_rental` adalah `50000`.Dengan menggunakan operator `OR`, kita memastikan bahwa entri yang memenuhi salah satu dari dua kriteria ini akan dipilih.
 ### Kesimpulan
 Perintah tersebut akan menampilkan semua kolom untuk setiap entri di tabel `mobil`di mana warna mobil adalah `Hitam atau Silver`, atau harga rental mobil adalah `50.000`. 
-![gambar](assets/IOAND.JPG)
+![gambar](assets/IOAND.jpg)
 
 ## IN + AND + OPERATOR
 ### Struktur
@@ -279,7 +279,7 @@ Where pemilik LIKE "Ib%";
 - `WHERE pemilik LIKE "Ib%"`: adalah kondisi yang menggunakan operator `LIKE`. `LIKE` digunakan untuk mencocokkan pola string.  Dimana nanti akan menampilkan nilai dari kolom `pemilik` yang huruf namanya berawalan dari `IB`. 
 ### Kesimpulan
 perintah `Select * From mobil where pemilik LIKE Ib%`: akan menampilkan semua kolom dari tabel `mobil` di mana nilai kolom `pemilik` dimulai dengan `Ib`.
-![gambar](assets/LIKEIB.JPG)
+![gambar](assets/LIKEIB.jpg)
 
 
 
@@ -303,7 +303,7 @@ Where pemilik LIKE "%M"
 ### Kesimpulan
 Perintah `Select * from mobil Where pemilik LIKE "%M"`: 
 akan menampilkan semua kolom dari tabel-tabel `mobil` di mana nilai kolom `pemilik` diakhiri dengan `M`.
-![gambar](assets/LIKEM.JPG)
+![gambar](assets/LIKEM.jpg)
 
 ## LIKE B%M
 
@@ -323,7 +323,47 @@ Where pemilik LIKE "b%m"
 ### Kesimpulan
 perintah `Select * from mobil Where pemilik LIKE "b%m"`: akan menampilkan semua kolom dari tabel `mobil` di mana nilai kolom `pemilik` dimulai dengan `b` dan diikuti oleh karakter apa pun sebelum `m`.
 
-![Gambar](assets/LIKEBM.JPG)
+![Gambar](assets/LIKEBM.jpg)
+## Like i__
+### Struktur
+```Mysql
+select * From nama_tabel 
+where nama_kolom Like 'nilai i__'
+```
+### Contoh
+```Mysql
+SELECT * FROM mobil
+ WHERE pemilik LIKE 'I__';
+```
+### Analisis
+- `SELECT * FROM data_mobil`: untuk menampilkan semua data dari tabel `mobil`.
+- `WHERE pemilik LIKE 'I__';`: adalahpemilik yang dimulai dengan huruf 'I' diikuti oleh dua karakter tambahan.
+- `;`: menandakan akhir dari perintah yang diberikan
+### Kesimpulan
+`SELECT * FROM mobil WHERE pemilik LIKE 'I__';`digunakan untuk menampilkan semua data dari tabel mobil di mana kolom pemilik memiliki nilai yang dimulai dengan huruf 'I' dan diikuti oleh dua karakter lainnya, dan diakhiri tanda titik koma
+### Hasil
+![gambar](assets/I.jpg)
+
+## Like ____
+### Struktur
+```Mysql
+select * From nama_tabel
+where nama_kolom like 'nilai___';
+
+```
+### Contoh
+```Mysql
+SELECT * FROM data_mobil
+WHERE pemilik LIKE '___';
+```
+### Analisis
+- `SELECT * FROM mobil`: untuk menampilkan semua data dari tabel mobil.
+- `WHERE pemilik LIKE '___'`: adalah klausa yang menandakan bahwa kita ingin menyaring baris berdasarkan kolom pemilik yang memiliki tepat tiga karakter apa pun.
+- `;`: menandakan akhir dari perintah yang diberikan
+### Kesimpulan
+`SELECT * FROM mobil WHERE pemilik LIKE '___';`digunakan untuk menampilkan semua data dari tabel mobil di mana kolom pemilik memiliki nilai yang terdiri dari tepat tiga karakter apa pun, dan diakhiri tanda titik koma.
+### Hasil
+![gambar](assets/F.jpg)
 ## Mencari berdasarkan total karakter
 
 ## Kombinasi
@@ -343,7 +383,7 @@ select * from mobil  where pemilik LIKE "__r%" ;
 ### Kesimpulan
 Perintah `select * from mobil  where pemilik LIKE"__r%"`; : akan menampilkan semua kolom untuk setiap entri di tabel `"mobil"` di mana nama pemilik mobil dimulai dengan dua karakter apa pun, diikuti oleh huruf `r`, dan diikuti oleh nol atau lebih karakter apa pun.
 **Hasil**
-![gambar](assets/KR.JPG)
+![gambar](assets/KR.jpg)
 
 ## Kombinasi
 ### Struktur
@@ -361,7 +401,7 @@ select * from mobil  where pemilik LIKE "_b%" ;
 ### Kesimpulan
 Perintah `select * from mobil  where pemilik LIKE"__b%"`; : akan menampilkan semua kolom untuk setiap entri di tabel `mobil` di mana nama pemilik mobil dimulai dengan dua karakter apa pun, diikuti oleh huruf `b`, dan diikuti oleh nol atau lebih karakter apa pun.
 Hasil
-![gambar](assets/KB.JPG)
+![gambar](assets/KB.jpg)
 ## NOT LIKE 
 ### Struktur
 ```Mysql
@@ -379,7 +419,7 @@ Select * from mobil where peminjam NOT LIKE "a%";
 ### Kesimpulan
 Perintah `Select * from mobil where peminjam NOT LIKE "a%"` : akan menampilkan semua kolom dari tabel `mobil` di mana nilai kolom `peminjam` tidak dimulai dengan huruf `"a"`.
 
-![gambar](assets/NOTLIKE.JPG)
+![gambar](assets/NOTLIKE.jpg)
 # NULL & NOT NULL
 ## NULL
 ### Struktur
@@ -397,7 +437,7 @@ select * from mobil where peminjam IS NULL;
 ### Kesimpulan
 `SELECT * FROM mobil WHERE peminjam IS NULL;`digunakan untuk mengambil data dari tabel `mobil` di mana kolom `peminjam` memiliki nilai `NULL`.
 **Hasil**
-![gambar](assets/NULL.JPG)
+![gambar](assets/NULL.jpg)
 
 ## NOT NULL 
 ### Struktur
@@ -415,7 +455,7 @@ select * from mobil where peminjam IS NOT  NULL;
 ### Kesimpulan
 `SELECT * FROM mobil WHERE peminjam IS NOT NULL;` digunakan untuk mengambil data dari tabel `mobil` di mana kolom `peminjam` memiliki nilai yang tidak `NULL`. 
 **Hasil**
-![gambar](assets/NNULL.JPG) 
+![gambar](assets/NNULL.jpg) 
 # ORDER BY 
 ## ASC
 ### Struktur
@@ -433,7 +473,7 @@ select * from mobil ORDER BY pemilik ASC ;
 ### Kesimpulan
 `SELECT * FROM mobil ORDER BY pemilik ASC;`digunakan untuk mengambil semua data dari tabel `mobil`dan mengurutkannya berdasarkan kolom `pemilik` secara berurutan dari yang terkecil ke yang terbesar (ascendi)
 **Hasil**
-![gambar](assets/ASC.JPG)
+![gambar](assets/ASC.jpg)
 ## DESC
 ### Struktur
 ```Mysql
@@ -451,9 +491,27 @@ select * from mobil ORDER BY peminjam DESC ;
 `SELECT * FROM mobil ORDER BY peminjam DESC`; digunakan untuk mengambil semua data dari tabel `mobil`dan mengurutkannya berdasarkan kolom `peminjam` secara berurutan dari yang terbesar ke yang terkecil (descending).
 
 **Hasil**
-![gambar](assets/DESC.JPG)
+![gambar](assets/DESC.jpg)
 
 ## Limit 
+### Struktur
+```Mysql
+select * From nama_tabel Where kondisi kolom_warna ORDER BY kolom_harga ASC LIMIT 2;
+```
+### Contoh
+```Mysql
+SELECT * FROM mobil WHERE warna = 'Hitam' ORDER BY harga ASC LIMIT 2;
+```
+### Analisis
+- `SELECT *`: Memilih semua kolom dari tabel `data_mobil`.
+- `FROM data_mobil`: Menentukan tabel `data_mobil` sebagai sumber data.
+- `WHERE warna = 'Hitam'`: Menyaring baris yang memiliki nilai kolom `warna` sama dengan 'Hitam'.
+- `ORDER BY harga_rental ASC`: Mengurutkan hasil berdasarkan kolom `harga_rental` dalam urutan menaik (ASC: ascending).
+- `LIMIT 2`: Membatasi hasil yang dikembalikan maksimal 2 baris.
+### Kesimpulan
+`SELECT * FROM mobil WHERE warna = 'Hitam' ORDER BY harga ASC LIMIT 2;`digunakan untuk mencari semua mobil yang berwarna hitam dari tabel data_mobil dan mengurutkannya berdasarkan harga rental terendah terlebih dahulu. Dari hasil yang diurutkan tersebut, hanya dua mobil dengan harga rental terendah yang akan ditampilkan.
+### Hasil 
+![gambar](Assets/LM.jpg)
 # DISTINCT
 ### Struktur
 ```Mysql
@@ -487,7 +545,7 @@ Select DISTINCT (harga_rental) from mobil ORDER BY harga_rental DESC  ;
 **Perintah 2**
 `SELECT DISTINCT (harga_rental) FROM mobil ORDER BY harga_rental DESC;` menghasilkan daftar `harga rental`mobil yang unik dari tabel `mobil`, yang diurutkan secara descending dari harga tertinggi ke terendah.
 **Hasil** 
-![gambar](assets/DISTINCT.JPG)
+![gambar](assets/DISTINCT.jpg)
 
 # CONCAT, CONCAT_WS, AS
 ## CONCAT
@@ -508,7 +566,7 @@ Select CONCAT(pemilik,warna) From mobil;
 ### Kesimpulan
 `SELECT CONCAT(pemilik, warna) FROM mobil;`: digunakan untuk mengambil nilai dari kolom pemilik dan warna dari setiap baris dalam tabel mobil, lalu menggabungkannya menjadi satu string.
 ### Hasil 
-![gambar](assets/C.JPG)
+![gambar](assets/C.jpg)
 
 ## CONCAT_WS
 ### Struktur
@@ -530,7 +588,7 @@ Select CONCAT_WS ("-",no_plat,no_mesin,id_mobil) From mobil ;
 ### Kesimpulan
 `SELECT CONCAT_WS("-", no_plat, no_mesin, id_mobil) FROM mobil;`digunakan untuk mengambil nilai dari kolom `no_plat, no_mesin, dan id_mobil` dari setiap baris dalam tabel `mobil`, lalu menggabungkannya menjadi satu string dengan menggunakan separator tanda strip (-) sebagai pemisah.
 ### Hasil
-![gambar](assets/CWS.JPG)
+![gambar](assets/CWS.jpg)
 
 ## CONCAT AS
 ### Struktur
@@ -553,7 +611,7 @@ Select CONCAT_WS("+",pemilik,peminjam) AS COLLAB From mobil ;
 `SELECT CONCAT_WS("+", pemilik, peminjam) AS COLLAB FROM mobil;` digunakan untuk mengambil nilai dari kolom `pemilik` dan `peminjam` dari setiap baris dalam tabel `mobil`, lalu menggabungkannya menjadi satu string dengan menggunakan separator tanda tambah (+) sebagai pemisah.
 
 ### Hasil 
-![gambar](assets/CS.JPG)
+![gambar](assets/CS.jpg)
 # VIEW 
 ## Membuat Tabel Virtual
 ### Struktur
@@ -578,7 +636,7 @@ CREATE VIEW Nama_view AS
 ### Kesimpulan
 `CREATE VIEW info_no_plat AS SELECT id_mobil, no_plat, pemilik, peminjam FROM mobil WHERE pemilik = "Ibrahim"; ` digunakan untuk membuat sebuah view baru dalam basis data dengan nama "info_no_plat". akan menampilkan informasi tentang mobil-mobil yang dimiliki oleh "Ibrahim", termasuk id mobil, nomor plat, pemilik, dan peminjam.
 ### Hasil
-![gambar](assets/VIEW.JPG)
+![gambar](assets/VIEW.jpg)
 
 ## Menampilkan Tabel Virtual
 ### Struktur
@@ -595,7 +653,7 @@ Select * From info_no_plat ;
 ### Kesimpulan
 `SELECT * FROM info_no_plat;` digunakan untuk mengambil semua informasi tentang mobil-mobil yang dimiliki oleh "Ibrahim" dari view `info_no_plat`, termasuk id mobil, nomor plat, pemilik, dan peminjam.
 ### Hasil
-![gambar](assets/VMTV.JPG)
+![gambar](assets/VMTV.jpg)
 
 ## Menghapus Tabel Virtual
 ### Struktur
@@ -612,9 +670,9 @@ Drop View Info_no_plat ;
 ### Kesimpulan
 `DROP VIEW Info_no_plat;` digunakan untuk menghapus sebuah view dari database dengan nama `info_no_plat`. 
 ### Hasil
-![gambar](assets/VSH.JPG)
+![gambar](assets/VSH.jpg)
 
-![gambar](assets/VSD.JPG)
+![gambar](assets/VSD.jpg)
 ## Mobil Promo 
 ### Struktur
 ```Mysql
@@ -654,7 +712,7 @@ Select * From mobil_promo ;
 **Perintah Kedua**
 `SELECT * FROM mobil_promo;` digunakan untuk menampilkan semua data dari `view "mobil_promo"`yang telah dibuat sebelumnya. `view "mobil_promo"` menghasilkan daftar `mobil`yang memiliki `harga rental`di atas `100000`, dan akan menampilkan semua data dari `view mobil`. 
 ### Hasil 
-![gambar](assets/MP.JPG)
+![gambar](assets/MP.jpg)
 
 # Tantangan Login 
 >[! Info]- 1. Buatkan tabel Visual dan tampilkan isi data yang mana peminjamnya NULL minimal kolom yang tampil peminjam dan no_plat 
@@ -680,7 +738,7 @@ CREATE VIEW mobil_Tanpa_peminjam AS
 
 `SELECT * FROM mobil_Tanpa_peminjam;` digunakan untuk menampilkan semua data dari `view mobil_Tanpa_peminjam`, yang telah dibuat sebelumnya dengan kriteria yang bernilai `NULL`. 
 ### Hasil 
-![gambar](assets/Visual.JPG)
+![gambar](assets/Visual.jpg)
 
 >[!info] 2. Update atau ganti salah satu data peminjam dari tabel mobil dengan nilai NULL tampilkan isi data pada tabel Virtual hasilnya harus ada tiga data pada tabel Virtual
 ## Contoh
@@ -704,7 +762,7 @@ Kesimpulannya, perintah digunakan untuk menghapus atau mengubah nilai `peminjam`
 
 `SELECT * FROM mobil_Tanpa_peminjam;` digunakan untuk menampilkan semua data dari `view mobil_Tanpa_peminjam`, yang telah dibuat sebelumnya dengan mengubah atau menghapus nilai `peminjam` menjadi `NULL` untuk tabel `mobil` dimana peminjam memiliki nilai `Elia`.
 ### Hasil 
-![gambar](assets/UMTP.JPG)
+![gambar](assets/UMTP.jpg)
 
 >[!info] 3. Berikan Kesimpulan mengapa tabel Virtual 1,2 ini dibuat? 
 > - View dapat digunakan untuk menyaring data yang sesuai dengan kriteria tertentu, seperti menampilkan entri yang memiliki nilai NULL pada kolom tertentu atau mengubah salah satu data peminjam menjadi NULL. memberikan pandangan yang jelas tentang mobil yang tersedia untuk disewakan atau yang belum dipinjam.
@@ -733,7 +791,7 @@ Select SUM(harga_rental) From mobil;
 Perintah `Select SUM(harga_rental) From mobil;`  digunakan untuk  menghitung total  nilai-nilai dari kolom `harga_rental` pada tabel `mobil`. 
 
 ### Hasil
-![gambar](assets/SUM.JPG)
+![gambar](assets/SUM.jpg)
 
 ## Count
 ### Struktur query
@@ -760,7 +818,7 @@ Select COUNT(peminjam) From mobil;
 
 `SELECT COUNT(peminjam) FROM mobil;` menghitung jumlah baris dalam tabel `mobil` dimana nilai kolom `peminjam` tidak `NULL`, memberikan gambaran tentang jumlah pemilik mobil yang terdaftar dalam tabel.
 ### Hasil 
-![gambar](assets/COUNT.JPG)
+![gambar](assets/COUNT.jpg)
 
 ## MIN 
 ### Struktur query
@@ -779,7 +837,7 @@ Select MIN(harga_rental) AS minimal From mobil;
 ### Kesimpulan 
 Perintah `Select MIN(harga_rental) AS minimal From mobil` Digunakan untuk menampilkan nilai terkecil dari kolom `harga_rental` dalam tabel `mobil`, hasilnya membrikan informasi `harga_rental` terkecil atau terendah dalam tabel `mobil` dengan memberikan alias `MINIMAL`. 
 ### Hasil
-![gambar](assets/MIN.JPG)
+![gambar](assets/MIN.jpg)
 ## MAX 
 ### Struktur query
 ```Mysql
@@ -797,7 +855,7 @@ Select MAX(harga_rental) AS MAXIMAL From mobil;
 ### Kesimpulan
 Perintah `Select MIN(harga_rental) AS MAXIMAL From mobil` Digunakan untuk menampilkan nilai terbesar dari kolom `harga_rental` dalam tabel `mobil`, hasilnya memberikan informasi `harga_rental`terbesar dalam tabel `mobil` dengan memberikan alias `MAXIMAL`. 
 ### Hasil
-![gambar](assets/MAX.JPG)
+![gambar](assets/MAX.jpg)
 
 ## AVG 
 ### Struktur query
@@ -816,5 +874,5 @@ Select AVG(harga_rental) AS RATA_RATA From mobil;
 ### Kesimpulan
 Perintah `Select MIN(harga_rental) AS MAXIMAL From mobil` Digunakan untuk menampilkan nilai `RATA_RATA`dari kolom `harga_rental` dalam tabel `mobil`, hasilnya memberikan informasi Nilai `RATA_RATA` dari kolom `harga_rental`  dalam tabel `mobil` dengan memberikan alias `RATA_RATA`. 
 ### Hasil
-![gambar](assets/AVG.JPG)
+![gambar](assets/AVG.jpg)
 

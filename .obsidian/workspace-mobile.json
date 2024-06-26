@@ -57,9 +57,11 @@
             "id": "6fe22b1dd80ae580",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Instalasi & Query awal Database.pdf"
+                "file": "Belajar PHP/CATATAN PHP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -130,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Instalasi & Query awal Database.pdf",
+            "file": "Belajar PHP/CATATAN PHP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Instalasi & Query awal Database.pdf",
+            "file": "Belajar PHP/CATATAN PHP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Instalasi & Query awal Database.pdf"
+            "file": "Belajar PHP/CATATAN PHP.md"
           }
         }
       },
@@ -186,50 +188,51 @@
   },
   "active": "6fe22b1dd80ae580",
   "lastOpenFiles": [
+    "Catatan HTML/Pengenalan Web.md",
+    "Catatan HTML/Deskripsi.md",
+    "Catatan HTML/Rangkuman HTML/Pertemuan_1.md",
+    "Catatan HTML/Pertemuan_1.md",
+    "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
+    "BASIS DATA/Rangkuman basis data/Select Lanjutan.md",
+    "BASIS DATA/Rangkuman basis data/assets/LM.jpg",
+    "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.md",
+    "BASIS DATA/Rangkuman basis data/Instalasi & Query awal Database.md",
+    "BASIS DATA/Rangkuman basis data/Catatan PHP BS.md",
+    "ALTER/CATATAN ALTER.md",
     "catatancss/Catatan CSS.md",
-    "praktikum 5.pdf",
-    "Instalasi & Query awal Database.pdf",
+    "asetcss.md",
+    "CSS2/asetcss/TF.jpg",
+    "BASIS DATA/Rangkuman basis data/assets/T.BS.jpg",
+    "catatancss/asetcss/TB.jpg",
+    "Belajar PHP/CATATAN PHP.md",
+    "BASIS DATA/Rangkuman basis data/assets/F.jpg",
+    "BASIS DATA/Rangkuman basis data/assets/I.jpg",
+    "ALTER/CATATAN ALTER.pdf",
+    "Remedial_BS/UJIAN BS.md",
     "PRAKTIKUM 5/Catatan.md",
-    "TugasUlangan.zip",
-    "CATATAN PHP.pdf",
-    "Catatan PHP BS.pdf",
-    "Catatan mysql.pdf",
-    "Belajar HTML.pdf",
-    "PHP.zip",
-    "PHP MYSQL.zip",
-    "Ekplorasi CSS.zip",
+    "PRAKTIKUM 5/Praktikum 6.md",
+    "Ekplorasi CSS/TAILWIND CSS.md",
+    "PRAKTIKUM 5/AsetQ/Tabel_Indeks.png",
+    "PRAKTIKUM 5/AsetQ/Tabel_Angka.png",
+    "PRAKTIKUM 5/AsetQ/P4.png",
+    "PRAKTIKUM 5/AsetQ/P3.png",
+    "PRAKTIKUM 5/Praktikum 6.pdf",
+    "PRAKTIKUM 5/AsetQ",
+    "BASIS DATA/Rangkuman basis data/Select Lanjutan-1.pdf",
+    "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.pdf",
+    "BASIS DATA/Rangkuman basis data/Instalasi & Query awal Database.pdf",
+    "Semantic HTML/Catatan SEMANTIC HTML.md",
+    "Catatan HTML/Rangkuman HTML/AsetSemantic",
+    "Catatan HTML/Rangkuman HTML/Catatan SEMANTIC HTML.md",
+    "Catatan HTML/Rangkuman HTML/SEMANTIC HTML.pdf",
+    "BASIS DATA/Rangkuman basis data/Catatan PHP BS.pdf",
+    "Belajar PHP/CATATAN PHP.pdf",
     "Query/Praktikum 6.md",
     "Query/Catatan.md",
-    "ALTER/CATATAN ALTER.md",
-    "ALTER/Asetalter/Ready.jpg",
     "PHP MYSQL/Catatan.md",
-    "Catatan HTML/Rangkuman HTML/Belajar HTML.md",
-    "Catatan HTML/Rangkuman HTML/Pertemuan_1.md",
     "Catatan HTML/Rangkuman HTML/Pengenalan Web.md",
     "Catatan HTML/Rangkuman HTML/Deskripsi.md",
     "Catatan HTML/Rangkuman HTML/Catatan GIT & GITHUB.md",
-    "Catatan HTML/Belajar HTML.md",
-    "catatancss/Catatan Bootstrap.md",
-    "Ekplorasi CSS/TAILWIND CSS.md",
-    "PHP/CATATAN PHP.md",
-    "PHP/AssetPHP/E1.jpg",
-    "PHP/AssetPHP/E2.jpg",
-    "PHP Basis Data/Catatan PHP BS.md",
-    "AsetQ/P1.jpg.md",
-    "AsetQ/P.jpg.md",
-    "Remedial_BS/UJIAN BS.md",
-    "Responsive/Catatan responsive.md",
-    "Asset/responsive-1.png.md",
-    "Responsive/AssetRes/responsive-1.png",
-    "Responsive/AssetRes/res-3.png",
-    "Responsive/AssetRes/res-2.png",
-    "ASETCSS(1)/responsive-1.png.md",
-    "Semantic HTML/Catatan SEMANTIC HTML.md",
-    "TugasUlangan/Tugas.md",
-    "BASIS DATA/Rangkuman basis data/PENGENALAN BASIS DATA.md",
-    "BASIS DATA/Rangkuman basis data/assets/TTNF.jpg",
-    "BASIS DATA/Rangkuman basis data/assets/TTN.jpg",
-    "PHP Basis Data/AsetPHPB/R.jpg",
-    "catatancss/asetcss/ATP.jpg"
+    "Catatan HTML/Belajar HTML.md"
   ]
 }

@@ -1,13 +1,13 @@
-
 # Struktur Dasar
-**Analisis**:
-Struktur dasar HTML mencakup elemen-elemen dasar yang membentuk kerangka sebuah dokumen HTML.
+**Penjelasan**:
+
+Struktur dasar HTML mencakup elemen-elemen dasar yang membentuk kerangka sebuah dokumen HTML. 
+
+
 - Tag `<DOCTYPE html>` memberitahu web bahwa dokumen HTML adalah versi 5
 - Tag pembuka `<html>` menandai awal sebuah dokumen HTML sampai dengan tag penutup `</html>`
 - Tag pembuka `<head>` berisi informasi tentang halaman HTML sampai dengan tag penutup `</head>` ,biasanya dalam tag head terdapat tag `<title>` untuk memberikan informasi judul halaman HTML
 - Apapun tag yang berada di antara tag pembuka `<body>` sampai dengan tag penutup `</body>` akan tampil di web browser.
-**Kesimpulan**:
-Kode diatas berfungsi untuk menampilkan sebuah halaman web sederhana dengan kata-kata motivasi. Halaman ini terdiri dari deklarasi dokumen HTML5, penetapan judul halaman, dan sebuah paragraf di dalam elemen `<body>`.
 **Contoh Code**:
 ```HTML
 
@@ -25,7 +25,7 @@ Kode diatas berfungsi untuk menampilkan sebuah halaman web sederhana dengan kata
 </html>
 ```
 **Hasil Program:**
-![Gambar](Aset/ST.JPG)
+![Gambar](Aset/ST.jpg)
 
 # Anatomi Elemen 
 **Penjelasan**:
@@ -52,7 +52,7 @@ Tag pembuka dan `</a>`tag penting
 - Klik Google" adalah konten isi dari tag  `<a>.` Ini adalah teks atau elemen lain yang akan menjadi bagian dari tautan tersebut. Ketika teks ini diklik, kita akan diarahkan ke situs web Google.
 **Contoh** **hasil**:
 
-![gambar](Aset/F_F.JPG)
+![gambar](Aset/F_F.jpg)
 
 **Penjelasan**
 - Tag pembuka Menandai awal dari elemen yang berisi informasi dan di tutup oleh tag penutup contoh `<a `
@@ -60,8 +60,6 @@ Tag pembuka dan `</a>`tag penting
 - href adalah nama atribut yang digunakan dalam tag ` <a>` untuk menentukan alamat URL atau tautan yang akan diakses ketika tautan diklik.
 - `"http://instagram.com"` Ini adalah nilai dari atribut href. Nilai ini adalah URL lengkap yang menentukan tujuan tautan. Dalam contoh ini, tautan akan mengarahkan pengguna ke situs web Google karena URL-nya adalah `"http://instagram.com".`
 - Klik instagram" adalah konten isi dari tag  `<a>.` Ini adalah teks atau elemen lain yang akan menjadi bagian dari tautan tersebut. Ketika teks ini diklik, kita akan diarahkan ke situs web instagram.
-**Kesimpulan**: 
-kode diatas berfungsi untuk menampilkan sebuah halaman web sederhana dengan kata-kata motivasi dan sebuah tautan ke halaman Instagram. Halaman ini terdiri dari deklarasi dokumen HTML5, penetapan judul halaman, sebuah paragraf di dalam elemen `<body>`, dan sebuah tautan yang mengarah ke URL tertentu.
 **Contoh Code**:
 ```HTML
 <!DOCTYPE html>
@@ -81,22 +79,13 @@ kode diatas berfungsi untuk menampilkan sebuah halaman web sederhana dengan kata
 **Hasil Program**:
 
 
-****![Gambar 22](Aset/F.F.F.JPG)
+****![Gambar 22](Aset/F.F.F.jpg)
 
 # Tag Dasar
 ## Heading 
 **Penjelasan**
-- `<!DOCTYPE html>`: Deklarasi ini menandakan bahwa dokumen ini menggunakan HTML5.
-- `<html>`: Elemen `<html>` adalah elemen root dari dokumen HTML.
-- `<head>`: Bagian dari dokumen yang berisi metadata dan informasi tentang dokumen tersebut.
-- `<title> ini adalah judul </title>`: Menetapkan judul halaman yang akan ditampilkan di tab browser.
-- `<body>`: Bagian dari dokumen yang berisi konten utama yang akan ditampilkan di halaman web.
-- `<h1> ini sebuah judul </h1>`: Elemen heading tingkat 1 yang digunakan untuk judul utama halaman.
-- `<h2> ini adalah judul </h2> hingga <h5> ini adalah judul </h5>`: Elemen heading dari tingkat 2 hingga 5 yang digunakan untuk subjudul dengan tingkat kepentingan menurun.
-- `<h6> ini adalah judil </h6>`: Elemen heading tingkat 6 yang biasanya digunakan untuk subjudul dengan tingkat kepentingan paling rendah.
-- `</html>`: Menutup elemen root `<html>`.
-**Kesimpulan**
-kode diatas berfungsi untuk menampilkan halaman web sederhana yang terdiri dari beberapa elemen heading (h1-h6) dengan teks judul yang berbeda. Halaman ini terdiri dari deklarasi dokumen HTML5, penetapan judul halaman, dan beberapa elemen heading di dalam elemen `<body>`.
+Heading dalam HTML merujuk pada elemen-elemen yang digunakan untuk menandai judul atau heading pada halaman web.Dimana Heading terdiri dari H1 sampai H6.
+Jika kita ketik h1 makan ukuran font atau teks nya akan lebih besar.dan jika kita ketik h2 sampai h6, semakin naik angka nya semakin ukuran font dan Teks kecil.
 **Contoh Code**:
 ```HTML
 <!DOCTYPE html>
@@ -118,7 +107,7 @@ kode diatas berfungsi untuk menampilkan halaman web sederhana yang terdiri dari 
 
 ```
 **Hasil Program**:
-![Gambar ](Aset/F.F.JPG)
+![Gambar ](Aset/F.F.jpg)
 ____ 
 ## Teks paragraf 
 **Penjelasan**
@@ -127,8 +116,6 @@ B= Digunakan memberi penekanan pada teks dengan membuatnya bold(tebal)
 U= Digunakan untuk memberikan garis bawah pada teks
 I= Digunakan untuk membuat teks menjadi miring 
 Br= Digunakan untuk membuat baris baru dimana awal cuma satu baris tapi di kasih br menjadi dua baris 
-**Kesimpulan**
-kode di atas berfungsi untuk menampilkan halaman web sederhana yang berisi beberapa paragraf dengan kata-kata motivasi. Halaman ini menggunakan berbagai elemen HTML untuk menampilkan teks dengan gaya yang berbeda seperti tebal, garis bawah, dan miring.
 **Contoh Code**:
 ```HTML
 <!DOCTYPE html>
@@ -148,25 +135,13 @@ kode di atas berfungsi untuk menampilkan halaman web sederhana yang berisi beber
 
 ```
 **Hasil Program**:
-![gambar](Aset/P.B..JPG)
+![gambar](Aset/P.B..jpg)
 ____
 
 
 ## DIV  & SPAN
 ### `<DIV>`
 `<div>` (division) adalah elemen blok yang digunakan untuk mengelompokkan konten HTML ke dalam sebuah kotak atau wadah. Memblok satu area dengan tanda baris baru setelahnya. 
-**Penjelasan**:
-- `<!DOCTYPE html>`: Deklarasi ini menandakan bahwa dokumen ini menggunakan HTML5.
-- `<html>`: Elemen `<html>` adalah elemen root dari dokumen HTML.
-- `<head>`: Bagian dari dokumen yang berisi metadata dan informasi tentang dokumen tersebut.
-- `<title> DIV-SPAN</title>`: Menetapkan judul halaman yang akan ditampilkan di tab browser.
-- `<body>`: Bagian dari dokumen yang berisi konten utama yang akan ditampilkan di halaman web.
-- `<div>`: Elemen kontainer blok-level yang digunakan untuk mengelompokkan dan mengatur konten.
-- `<div> ini dibuat menggunakan div </div>`: Elemen `<div>` pertama yang berisi teks "ini dibuat menggunakan div".
-- `<div> ini juga menggunakan div </div>`: Elemen `<div>` kedua yang berisi teks "ini juga menggunakan div".
-- `</html>`: Menutup elemen root `<html>`.
-**Kesimpulan**
-Kode diatas berfungsi untuk menampilkan halaman web sederhana yang berisi dua elemen `<div>`, yang masing-masing berisi teks. Halaman ini terdiri dari deklarasi dokumen HTML5, penetapan judul halaman, dan dua elemen `<div>` di dalam elemen `<body>`.
 **Code**
 ```HTML 
 <!DOCKTYPE HTML>
@@ -187,18 +162,6 @@ Kode diatas berfungsi untuk menampilkan halaman web sederhana yang berisi dua el
 
 ### `<span>`
 `<span>` adalah elemen inline yang digunakan untuk menerapkan gaya atau memberikan identitas kepada sebagian teks dalam satu baris.Tidak memblok satu area dan tidak membuat baris baru artinya teksnya tersambung.
-**Penjelasan**:
-- `<!DOCTYPE HTML>`: Deklarasi ini menandakan bahwa dokumen ini menggunakan HTML5.
-- `<html>`: Elemen `<html>` adalah elemen root dari dokumen HTML.
-- `<head>`: Bagian dari dokumen yang berisi metadata dan informasi tentang dokumen tersebut.
-- `<title>DIV-SPAN</title>`: Menetapkan judul halaman yang akan ditampilkan di tab browser.
-- `<body>`: Bagian dari dokumen yang berisi konten utama yang akan ditampilkan di halaman web.
-- `<span>`: Elemen kontainer inline yang digunakan untuk mengelompokkan dan mengatur konten tanpa mempengaruhi tata letak dokumen.
-- `<span> ini dibuat menggunakan span </span>`: Elemen `<span>` pertama yang berisi teks "ini dibuat menggunakan span".
-- `<span> ini juga menggunakan span </span>`: Elemen `<span>` kedua yang berisi teks "ini juga menggunakan span".
-- `</html>`: Menutup elemen root `<html>`.
-**Kesimpulan**:
-Kode diatas berfungsi untuk menampilkan halaman web sederhana yang berisi dua elemen `<span>`, yang masing-masing berisi teks. Halaman ini terdiri dari deklarasi dokumen HTML5, penetapan judul halaman, dan dua elemen `<span>` di dalam elemen `<body>`.
 **Code**
 ```HTML
 <!DOCKTYPE HTML>
@@ -214,13 +177,14 @@ Kode diatas berfungsi untuk menampilkan halaman web sederhana yang berisi dua el
  
 ```
 **HASIL**
-![gambar](Aset/SPN.JPG)
-____ 
+![gambar](Aset/SPN.jpg)
+
+
+
+
 ## Atribut Align
 **Penjelasan**
 Atribut `Align` digunakan untuk mengatur perataan teks pada halaman HTML elemen `<p>` dapat menggunakan nilai atribut `align="left"` akan menghasilkan paragraf dengan perataan teks di sebelah kiri. Nilai atribut `align="right"` Akan menghasilkan paragraf dengan perataan teks di sebelah kanan. Nilai atribut`align="center"` akan meAlign8ilkan paragraf dengan perataan teks di tengah. Dan nilai atribut `align="justify"` akan menghasilkan paragraf dengan perataan teks pada sisi kiri dan sisi kanan.
-**Kesimpulan**:
-Dokumen ini memperlihatkan penggunaan yang baik dari elemen-elemen dasar HTML untuk menyusun halaman web yang informatif dan terstruktur.
 **Contoh Code**:
 ```HTML
 
@@ -250,7 +214,7 @@ Dokumen ini memperlihatkan penggunaan yang baik dari elemen-elemen dasar HTML un
 
 ```
 Hasil Program**:
-![gambar](Aset/F.A.JPG)
+![gambar](Aset/F.A.jpg)
 
 ____________
 ## Komentar
@@ -275,7 +239,7 @@ Komentar **tidak akan ditampilkan** pada halaman website namun programmer biasan
 
 ```
 **Hasil Program**:
-![gambar](Aset/F.A.JPG)
+![gambar](Aset/F.A.jpg)
 
 _______
 ## List
@@ -315,7 +279,7 @@ Untuk menampilkan list dalam HTML dapat menggunakan tag `<li>`-`</li>` namun per
 
 ```
 **Hasil Program**:
-![gambar](Aset/I.M.JPG)
+![gambar](Aset/I.M.jpg)
 
 _____
 ## Link
@@ -344,7 +308,7 @@ Atribut penting lainnya dari tag `<a>` adalah `target` Atribut target menentukan
  </html>
 ```
 **Hasil Program**:
-![gambar](Aset/L.I.JPG)
+![gambar](Aset/L.I.jpg)
 
 _____
 ## Multimedia
@@ -368,8 +332,8 @@ _____
 
 ```
 **Hasil Program**:
-![gambar](Aset/HCJ.JPG) 
-![gambar](Aset/A...JPG) 
+![gambar](Aset/HCJ.jpg) 
+![gambar](Aset/A...jpg) 
 
 
 ### Video
@@ -397,8 +361,8 @@ _____
  </html>
 ```
 **Hasil Program**:
-![gambar](Aset/F.L.JPG) 
-![gambar](Aset/R.H..JPG)
+![gambar](Aset/F.L.jpg) 
+![gambar](Aset/R.H..jpg)
 ____
 ### Audio
 **Penjelasan**
@@ -424,9 +388,9 @@ ____
 **Hasil Program**:
 
 
-![gambar](Aset/F._A.JPG)
+![gambar](Aset/F._A.jpg)
 
-![gambar](Aset/F.D.L.F.JPG)
+![gambar](Aset/F.D.L.F.jpg)
 ____
 ### IFRAME
 **Penjelasan**
@@ -451,9 +415,9 @@ ____
  </html>
 ```
 **Hasil Program**:
-![gambar](Aset/I.F.JPG)
+![gambar](Aset/I.F.jpg)
 
-![gambar](Aset/R.H..JPG)
+![gambar](Aset/R.H..jpg)
 
 ________
 
@@ -516,7 +480,7 @@ Tabel dalam HTML didefinisikan dengan tag `<table>`
 
 ```
 **Hasil Program**:
-![gambar](Aset/Tabel.JPG)
+![gambar](Aset/Tabel.jpg)
 ____
 **Penjelasan**
 Tabel dalam HTML didefinisikan dengan tag `<table>`
@@ -558,7 +522,7 @@ Tabel dalam HTML didefinisikan dengan tag `<table>`
 
 ```
 **Hasil Program:**
-![gambar](Aset/S.L.JPG)
+![gambar](Aset/S.L.jpg)
 _____
 ## Form
 **Penjelasan**
@@ -758,7 +722,7 @@ Elemen `<button>` yang berada di dalam sebuah `form` akan otomatis dianggap sama
 
 ```
 **Hasil Program**:
-![gambar](Aset/F.f..JPG) 
+![gambar](Aset/F.f..jpg) 
 
 Beberapa atribut yang digunakan pada contoh di atas yang perlu untuk diperjelas yaitu sebagai berikut:
 - `name` - digunakan sebagai nama variabel yang akan diproses oleh web server (contoh menggunakan PHP).
@@ -850,7 +814,7 @@ ____
 
 ```
 **Hasil Program:**
-![gambar](Aset/I-F.JPG)
+![gambar](Aset/I-F.jpg)
 
 ____
 
@@ -923,4 +887,4 @@ ____
 
 ```
 **Hasil Program**
-![gambar](Aset/IF.2.JPG)
+![gambar](Aset/IF.2.jpg)

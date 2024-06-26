@@ -458,6 +458,7 @@ Dan berikut ialah hasil setelah mengatur responsivenya :
 ```
 
 #### Hasil :
+
 ![gambar](AsetTailwind/Deku.jpg)
 
 

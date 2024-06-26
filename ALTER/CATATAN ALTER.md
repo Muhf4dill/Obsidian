@@ -16,8 +16,8 @@ ALTER TABLE mobil ADD batas_peminjaman VARCHAR(10) AFTER peminjam;
 ### Kesimpulan
 `ALTER TABLE mobil ADD batas_peminjaman VARCHAR(10) AFTER peminjam;` digunakan untuk menambahkan kolom baru bernama `batas_peminjaman` dengan tipe data VARCHAR(10) ke tabel `mobil`, diletakkan setelah kolom `peminjam`.
 ### Hasil 
-![gambar](Asetalter/Alter.JPG)
-![Gambar](Asetalter/AMK.JPG)
+![gambar](Asetalter/Alter.jpg)
+![Gambar](Asetalter/AMK.jpg)
 ## Query Tambahan
 ```Mysql
  UPDATE mobil SET batas_peminjaman='2024-04-24' WHERE peminjaman IS NOT 
@@ -29,7 +29,7 @@ ALTER TABLE mobil ADD batas_peminjaman VARCHAR(10) AFTER peminjam;
 ### Kesimpulan
 `UPDATE mobil SET batas_peminjaman='2024-04-24' WHERE peminjaman IS NOT NULL`; digunakan untuk memperbarui nilai kolom `batas_peminjaman` menjadi `2024-04-24` untuk semua baris di tabel mobil di mana nilai kolom peminjaman tidak NULL. 
 ### Hasil
-![gambar](Asetalter/QT.JPG)
+![gambar](Asetalter/QT.jpg)
 
 ## Mengubah Nama kolom
 ### Struktur Query
@@ -46,7 +46,7 @@ ALTER TABLE mobil RENAME COLUMN batas_peminjaman TO Deadline;
 ### Kesimpulan
 `ALTER TABLE mobil RENAME COLUMN batas_peminjaman TO Deadline;` digunakan untuk mengubah nama kolom dari `batas_peminjaman` menjadi `Deadline` dalam tabel `mobil`. 
 ### Hasil 
-![gambar](Asetalter/Ralter.JPG)
+![gambar](Asetalter/Ralter.jpg)
 
 ## Mengubah Tipe data kolom
 ### Struktur query
@@ -64,7 +64,7 @@ Alter Table mobil MODIFY deadline DATE;
 `ALTER TABLE mobil MODIFY deadline DATE`; digunakan untuk mengubah tipe data kolom `deadline`dalam tabel `mobil` menjadi tipe data `DATE`.berguna untuk memastikan bahwa kolom `deadline` dapat menyimpan tanggal dengan format yang benar
 ### Hasil 
 
-![gambar](Asetalter/MTDK.JPG)
+![gambar](Asetalter/MTDK.jpg)
 
 ## Menambah Constraints
 ### Struktur Query
@@ -101,7 +101,7 @@ ALTER deadline DROP DEFAULT ;
 ### Kesimpulan
 `ALTER TABLE mobil ALTER deadline DROP DEFAULT;` digunakan untuk menghapus nilai default dari kolom `deadline`dalam tabel `mobil`. 
 ### Hasil 
-![gambar](Asetalter/MMC.JPG)
+![gambar](Asetalter/MMC.jpg)
 ## Menghapus Kolom
 ### Struktur Query
 ```Mysql
@@ -117,7 +117,7 @@ ALTER TABLE mobil DROP COLUMN deadline;
 ### Kesimpulan
 `ALTER TABLE mobil DROP COLUMN deadline`; digunakan untuk menghapus kolom `deadline` dari tabel `mobil`. 
 ### Hasil 
-![gambar](Asetalter/MK.JPG)
+![gambar](Asetalter/MK.jpg)
 ## Mengganti nama tabel 
 ### Struktur Query
 ```Mysql
@@ -133,4 +133,4 @@ ALTER TABLE mobil RENAME TO data_mobil
 ### Kesimpulan
 `ALTER TABLE mobil RENAME TO data_mobil;` digunakan untuk mengubah nama tabel `mobil` menjadi `data_mobil`.
 ### Hasil 
-![gambar](Asetalter/MNT.JPG)
+![gambar](Asetalter/MNT.jpg)

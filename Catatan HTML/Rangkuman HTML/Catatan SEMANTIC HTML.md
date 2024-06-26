@@ -5,7 +5,7 @@ Dalam semantic HTML, masing-masing elemen memiliki nama yang mencerminkan arti d
 
 Artinya,  jika kamu ingin membuat kode yang mudah dipahami, tidak hanya oleh manusia tapi juga oleh mesin, semantic HTML adalah solusi yang tepat.
 saya berikan contoh dari gambar berikut.
-![gambar](AsetSemantic/SVSNS.JPG)
+![gambar](AsetSemantic/SVSNS.jpg)
 
 Mungkin kalian bertanya-tanya, “Apa perbedaan antara semantic HTML dan non-semantic HTML?”
 

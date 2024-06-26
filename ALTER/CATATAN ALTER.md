@@ -83,7 +83,7 @@ ALTER deadline SET DEFAULT Ready;
 ### Kesimpulan
 `ALTER TABLE mobil ALTER deadline SET DEFAULT 'Ready';` digunakan untuk menetapkan nilai default 'Ready' pada kolom deadline dalam tabel mobil. 
 ### Hasil 
-![gambar](AsetAlter/Ready.jpg)
+![gambar](Asetalter/Ready.jpg)
 ## Menghapus Constraints
 ### Struktur Query
 ```Mysql

@@ -45,7 +45,7 @@ select COUNT(NIP) AS jumlahpegawai
 
 ## Hasil
 
-![Praktikum](2.jpg)
+![Praktikum](Aset/2.jpg)
 
 ## Analisis 
 
@@ -71,7 +71,7 @@ SELECT Nocab, COUNT(NIP) AS Jumlah_pegawai
 
 ## Hasil
 
-![Praktikum](3.jpg)
+![Praktikum](Aset/3.jpg)
 
 ## Analisis 
 
@@ -97,7 +97,7 @@ SELECT Nocab, COUNT(NIP) AS Jumlah_pegawai
 
 ## Hasil
 
-![Praktikum](4.jpg)
+![Praktikum](Aset/4.jpg)
 
 ## Analisis 
 

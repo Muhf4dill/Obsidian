@@ -511,7 +511,7 @@ SELECT * FROM mobil WHERE warna = 'Hitam' ORDER BY harga ASC LIMIT 2;
 ### Kesimpulan
 `SELECT * FROM mobil WHERE warna = 'Hitam' ORDER BY harga ASC LIMIT 2;`digunakan untuk mencari semua mobil yang berwarna hitam dari tabel data_mobil dan mengurutkannya berdasarkan harga rental terendah terlebih dahulu. Dari hasil yang diurutkan tersebut, hanya dua mobil dengan harga rental terendah yang akan ditampilkan.
 ### Hasil 
-![gambar](Assets/LM.jpg)
+![gambar](assets/LM.jpg)
 # DISTINCT
 ### Struktur
 ```Mysql
